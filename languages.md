@@ -2,3 +2,8 @@ Python
 R
 Perl
 bash
+Esperanto
+French
+Spanish
+Catalan
+Euskera
