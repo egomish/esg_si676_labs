@@ -1,0 +1,8 @@
+1.  Use the dig command to query umich.edu. What is the response and how would you explain it?
+    The important part of the response is the two IP addresses in the ANSWER section: 162.159.140.37 and 172.66.0.37. I guess U-M runs two DNS servers.
+
+2.  Use the command for the above response, and pipe the output to a file named umich-dns-record.txt. Provide the text file.
+    See file: https://github.com/egomish/esg_si676_labs/blob/main/umich-dns-record.txt
+
+3.  Use the dig command to query umich.edu. What is the command to return only the “answer” section of the response?
+    dig +noall +answer umich.edu

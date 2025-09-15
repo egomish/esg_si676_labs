@@ -1,0 +1,21 @@
+
+; <<>> DiG 9.18.28-0ubuntu0.22.04.1-Ubuntu <<>> umich.edu
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 24389
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 65494
+;; QUESTION SECTION:
+;umich.edu.			IN	A
+
+;; ANSWER SECTION:
+umich.edu.		1518	IN	A	172.66.0.37
+umich.edu.		1518	IN	A	162.159.140.37
+
+;; Query time: 0 msec
+;; SERVER: 127.0.0.53#53(127.0.0.53) (UDP)
+;; WHEN: Sun Sep 14 19:58:53 EDT 2025
+;; MSG SIZE  rcvd: 70
+
