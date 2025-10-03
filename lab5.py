@@ -41,6 +41,4 @@ url = "https://www.loc.gov/search"
 params = {"q": query, "fo": "json"}
 resp = requests.get(url, params=params)
 js = json.loads(resp.content)
-for item in js:
-    print(item, js[item], sep=": ")
-    print("====")
+print(json.dumps(js, indent=2))
