@@ -1,0 +1,1692 @@
+{
+  "articles_and_essays": [
+    {
+      "score": 6.958741,
+      "title": "New Book: American Libraries",
+      "url": "https://blogs.loc.gov/loc/2017/11/new-book-american-libraries/"
+    }
+  ],
+  "cite_this": {
+    "apa": "<cite>Carnegie library in Pittsburgh, Pennsylvania</cite>. Pittsburgh Pennsylvania, None. [Between 1900 and 1905] [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2007684172/.",
+    "chicago": "<cite>Carnegie library in Pittsburgh, Pennsylvania</cite>. Pittsburgh Pennsylvania, None. [Between 1900 and 1905] Photograph. https://www.loc.gov/item/2007684172/.",
+    "mla": "<cite>Carnegie library in Pittsburgh, Pennsylvania</cite>. [Between 1900 and 1905] Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2007684172/&gt;."
+  },
+  "item": {
+    "_version_": 1731688810278813696,
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/2007684172/",
+      "http://www.loc.gov/item/2007684172/",
+      "http://www.loc.gov/pictures/item/2007684172/",
+      "https://www.loc.gov/pictures/collection/cph/item/2007684172/",
+      "http://www.loc.gov/pictures/collection/cph/item/2007684172/",
+      "http://www.loc.gov/resource/ppmsca.15412/",
+      "https://hdl.loc.gov/loc.pnp/ppmsca.15412",
+      "http://lccn.loc.gov/2007684172"
+    ],
+    "call_number": "LOT 8908 [item] [P&P]",
+    "campaigns": [],
+    "control_number": "",
+    "created": "2016-04-21T07:41:00Z",
+    "created_published": [
+      "[between 1900 and 1905]"
+    ],
+    "created_published_date": "[between 1900 and 1905]",
+    "date": "1900-01-01",
+    "dates": [
+      {
+        "1900": "https://www.loc.gov/search/?dates=1900/1900&fo=json"
+      }
+    ],
+    "description": [
+      "1 photographic print. | Photograph shows a reading room filled with children and young adults in the Pittsburgh, Pennsylvania, Carnegie library. Creating the first fully developed children's department in 1899 is one of the  historic milestones claimed by the Pittsburgh Carnegie Library."
+    ],
+    "digital_id": [
+      "ppmsca 15412 //hdl.loc.gov/loc.pnp/ppmsca.15412"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-08-25T11:22:57.770Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/cph/item/2007684172/#cph",
+      "http://lccn.loc.gov/2007684172#catalog-split-05"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Photographic prints--1900-1910."
+    ],
+    "genre": [
+      "Photographic prints--1900-1910"
+    ],
+    "group": [
+      "cph",
+      "catalog-split-05",
+      "catalog",
+      "miscellaneous-items-high-demand",
+      "main-catalog-split-05",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2007684172/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15412_150px.jpg#h=114&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15412t.gif#h=114&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15412r.jpg#h=487&w=640",
+      "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15412v.jpg#h=779&w=1024"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "LOT 8908 [item] [P&P]",
+      "control_number": "2007684172",
+      "created": "2016-04-21T07:41:00Z",
+      "created_published": "[between 1900 and 1905]",
+      "created_published_date": "[between 1900 and 1905]",
+      "date": "[between 1900 and 1905]",
+      "digital_id": [
+        "ppmsca 15412 //hdl.loc.gov/loc.pnp/ppmsca.15412"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Photographic%20prints--1900-1910.&co=cph",
+          "title": "Photographic prints--1900-1910."
+        }
+      ],
+      "genre": [
+        "Photographic prints--1900-1910"
+      ],
+      "id": "2007684172",
+      "language": [
+        "eng"
+      ],
+      "link": "https://www.loc.gov/pictures/item/2007684172/",
+      "location": [
+        "Pennsylvania--Pittsburgh"
+      ],
+      "marc": "https://www.loc.gov/pictures/item/2007684172/marc/",
+      "medium": [
+        "1 photographic print."
+      ],
+      "medium_brief": "1 photographic print.",
+      "mediums": [
+        "1 photographic print."
+      ],
+      "modified": "2016-04-21T07:41:00Z",
+      "notes": [
+        "Title devised by Library staff."
+      ],
+      "other_control_numbers": [
+        "15097796"
+      ],
+      "place": [
+        {
+          "latitude": "",
+          "link": "https://www.loc.gov/pictures/related/?fi=place&q=Pennsylvania--Pittsburgh&co=cph",
+          "longitude": "",
+          "title": "Pennsylvania--Pittsburgh"
+        }
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA",
+      "reproduction_number": "LC-DIG-ppmsca-15412 (digital file from original photograph)",
+      "resource_links": [
+        "//hdl.loc.gov/loc.pnp/ppmsca.15412"
+      ],
+      "rights_advisory": "No known restrictions on publication.",
+      "rights_information": "No known restrictions on publication.",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15412_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15412r.jpg",
+      "sort_date": "1900",
+      "source_created": "2007-11-29T00:00:00Z",
+      "source_modified": "2012-06-01T19:07:01Z",
+      "subject_headings": [
+        "Public libraries--Pennsylvania--Pittsburgh--1900-1910.",
+        "Carnegie libraries--Pennsylvania--Pittsburgh--1900-1910.",
+        "Reading rooms--Pennsylvania--Pittsburgh--1900-1910.",
+        "Pennsylvania--Pittsburgh"
+      ],
+      "subjects": [
+        "Public libraries--Pennsylvania--Pittsburgh--1900-1910",
+        "Carnegie libraries--Pennsylvania--Pittsburgh--1900-1910",
+        "Reading rooms--Pennsylvania--Pittsburgh--1900-1910"
+      ],
+      "summary": "Photograph shows a reading room filled with children and young adults in the Pittsburgh, Pennsylvania, Carnegie library. Creating the first fully developed children's department in 1899 is one of the  historic milestones claimed by the Pittsburgh Carnegie Library.",
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15412_150px.jpg",
+      "title": "[Carnegie library in Pittsburgh, Pennsylvania]"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2007684172",
+    "link": "https://www.loc.gov/pictures/item/2007684172/",
+    "location": [
+      "pittsburgh",
+      "pennsylvania"
+    ],
+    "locations": [
+      {
+        "pennsylvania": "https://www.loc.gov/search/?fa=location:pennsylvania&fo=json"
+      },
+      {
+        "pittsburgh": "https://www.loc.gov/search/?fa=location:pittsburgh&fo=json"
+      }
+    ],
+    "marc": "https://www.loc.gov/pictures/item/2007684172/marc/",
+    "medium": [
+      "1 photographic print."
+    ],
+    "medium_brief": "1 photographic print.",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2016-04-21T07:41:00Z",
+    "notes": [
+      "Title devised by Library staff."
+    ],
+    "number": [
+      "2007684172",
+      "2012-06-01t19:07:01",
+      "http://www.loc.gov/item/15097796"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/15097796"
+    ],
+    "number_lccn": [
+      "2007684172"
+    ],
+    "number_source_modified": [
+      "2012-06-01t19:07:01"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "15097796"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2007684172/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2007684172/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2007684172/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 107,
+        "title": "lot 8908",
+        "url": "https://www.loc.gov/search/?fa=partof:lot+8908&fo=json"
+      },
+      {
+        "count": 114856,
+        "title": "miscellaneous items in high demand",
+        "url": "https://www.loc.gov/search/?fa=partof:miscellaneous+items+in+high+demand&fo=json"
+      },
+      {
+        "count": 934445,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1105005,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1672342,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=Pennsylvania--Pittsburgh&co=cph",
+        "longitude": "",
+        "title": "Pennsylvania--Pittsburgh"
+      }
+    ],
+    "related": {
+      "group_record": "https://www.loc.gov/pictures/search/?q=LOT 8908&fi=number&op=PHRASE&va=exact&co=coll&sg=true",
+      "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=2007684172&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA"
+    ],
+    "reproduction_number": "LC-DIG-ppmsca-15412 (digital file from original photograph)",
+    "reproductions": [],
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/ppmsca.15412"
+    ],
+    "resources": [
+      {
+        "caption": "digital file from original item",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15412_150px.jpg",
+        "url": "https://www.loc.gov/resource/ppmsca.15412/"
+      }
+    ],
+    "rights": [],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "score": 19.262096,
+    "shard": "00",
+    "shelf_id": "LOT 8908 [item] [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "1900",
+    "source_created": "2007-11-29T00:00:00Z",
+    "source_modified": "2012-06-01T19:07:01Z",
+    "subject": [
+      "carnegie libraries",
+      "pennsylvania",
+      "public libraries",
+      "pittsburgh",
+      "photographic prints",
+      "reading rooms"
+    ],
+    "subject_headings": [
+      "Public libraries--Pennsylvania--Pittsburgh--1900-1910",
+      "Carnegie libraries--Pennsylvania--Pittsburgh--1900-1910",
+      "Reading rooms--Pennsylvania--Pittsburgh--1900-1910"
+    ],
+    "subjects": [
+      {
+        "carnegie libraries": "https://www.loc.gov/search/?fa=subject:carnegie+libraries&fo=json"
+      },
+      {
+        "pennsylvania": "https://www.loc.gov/search/?fa=subject:pennsylvania&fo=json"
+      },
+      {
+        "photographic prints": "https://www.loc.gov/search/?fa=subject:photographic+prints&fo=json"
+      },
+      {
+        "pittsburgh": "https://www.loc.gov/search/?fa=subject:pittsburgh&fo=json"
+      },
+      {
+        "public libraries": "https://www.loc.gov/search/?fa=subject:public+libraries&fo=json"
+      },
+      {
+        "reading rooms": "https://www.loc.gov/search/?fa=subject:reading+rooms&fo=json"
+      }
+    ],
+    "summary": "Photograph shows a reading room filled with children and young adults in the Pittsburgh, Pennsylvania, Carnegie library. Creating the first fully developed children's department in 1899 is one of the  historic milestones claimed by the Pittsburgh Carnegie Library.",
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15412_150px.jpg",
+    "timestamp": "2022-05-02T04:52:22.237Z",
+    "title": "[Carnegie library in Pittsburgh, Pennsylvania]",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2007684172/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2007686636/",
+        "http://www.loc.gov/item/2007686636/",
+        "http://www.loc.gov/pictures/item/2007686636/",
+        "https://www.loc.gov/pictures/collection/cph/item/2007686636/",
+        "http://www.loc.gov/pictures/collection/cph/item/2007686636/",
+        "http://www.loc.gov/resource/ppmsca.15405/",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.15405",
+        "http://lccn.loc.gov/2007686636"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "smithmeyer & pelz"
+      ],
+      "date": "1900-01-01",
+      "dates": [
+        "1900"
+      ],
+      "description": [
+        "1 photographic print."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-26T07:48:51.073Z",
+      "group": [
+        "cph",
+        "catalog-split-12",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-12",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2007686636/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15405_150px.jpg#h=120&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15405t.gif#h=120&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15405r.jpg#h=510&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15405v.jpg#h=816&w=1024"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "pittsburgh",
+        "pennsylvania"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/15100674",
+        "2007686636",
+        "2008-12-29t14:36:50"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "lot 8908",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "miscellaneous items in high demand",
+        "catalog"
+      ],
+      "score": 55.726242,
+      "shelf_id": "LOT 8908 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "carnegie libraries",
+        "pennsylvania",
+        "public libraries",
+        "pittsburgh",
+        "photographic prints",
+        "reading rooms"
+      ],
+      "timestamp": "2022-05-02T04:56:20.446Z",
+      "title": "[Women's reading room, Carnegie Library and Music Hall, Alleghany City, Pennsylvania]",
+      "url": "https://www.loc.gov/item/2007686636/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2007684794/",
+        "http://www.loc.gov/item/2007684794/",
+        "http://www.loc.gov/pictures/item/2007684794/",
+        "https://www.loc.gov/pictures/collection/cph/item/2007684794/",
+        "http://www.loc.gov/pictures/collection/cph/item/2007684794/",
+        "http://www.loc.gov/resource/ppmsca.15378/",
+        "http://lccn.loc.gov/2007684794",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.15378"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "smithmeyer & pelz"
+      ],
+      "date": "1890-01-01",
+      "dates": [
+        "1890"
+      ],
+      "description": [
+        "1 photographic print."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-26T07:46:27.711Z",
+      "group": [
+        "cph",
+        "catalog-split-15",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-15",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2007684794/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15378_150px.jpg#h=118&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15378t.gif#h=118&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15378r.jpg#h=505&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15378v.jpg#h=808&w=1024"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "pittsburgh",
+        "pennsylvania"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2007684794",
+        "2007-12-06t10:44:29",
+        "http://www.loc.gov/item/15035223"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "lot 8908",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "miscellaneous items in high demand",
+        "catalog"
+      ],
+      "score": 49.46601,
+      "shelf_id": "LOT 8908 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "carnegie libraries",
+        "pennsylvania",
+        "pittsburgh",
+        "photographic prints",
+        "libraries",
+        "reading rooms"
+      ],
+      "timestamp": "2022-05-02T04:55:13.628Z",
+      "title": "[Reading room, view toward the delivery room, Carnegie Library and Music Hall, Allegheny City, Pennsylvania]",
+      "url": "https://www.loc.gov/item/2007684794/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2007686623/",
+        "http://www.loc.gov/item/2007686623/",
+        "http://www.loc.gov/pictures/item/2007686623/",
+        "https://www.loc.gov/pictures/collection/cph/item/2007686623/",
+        "http://www.loc.gov/pictures/collection/cph/item/2007686623/",
+        "http://www.loc.gov/resource/ppmsca.15392/",
+        "http://lccn.loc.gov/2007686623",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.15392"
+      ],
+      "campaigns": [],
+      "date": "1903-01-01",
+      "dates": [
+        "1903"
+      ],
+      "description": [
+        "1 photographic print : stat."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-26T07:48:51.073Z",
+      "group": [
+        "cph",
+        "catalog-split-08",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-08",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2007686623/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15392_150px.jpg#h=80&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15392t.gif#h=80&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15392r.jpg#h=342&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15392v.jpg#h=548&w=1024"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "pittsburgh",
+        "pennsylvania"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2007-12-06t09:22:31",
+        "2007686623",
+        "http://www.loc.gov/item/15097183"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "lot 8908",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "miscellaneous items in high demand",
+        "catalog"
+      ],
+      "score": 44.326363,
+      "shelf_id": "LOT 8908 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "architectural drawings",
+        "carnegie libraries",
+        "pennsylvania",
+        "public libraries",
+        "pittsburgh",
+        "reproductions",
+        "stats"
+      ],
+      "timestamp": "2022-05-02T04:56:20.446Z",
+      "title": "East Liberty Branch Carnegie Library, Pittsburgh",
+      "url": "https://www.loc.gov/item/2007686623/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2007684771",
+        "http://www.loc.gov/item/2007684771/",
+        "https://search.catalog.loc.gov/instances/27eaa6f9-9bfc-5b33-bc3c-0805e4b4e917",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.15355",
+        "http://www.loc.gov/resource/ppmsca.15355/",
+        "https://www.loc.gov/pictures/item/2007684771/",
+        "http://www.loc.gov/pictures/item/2007684771/",
+        "https://www.loc.gov/pictures/collection/cph/item/2007684771/",
+        "http://www.loc.gov/pictures/collection/cph/item/2007684771/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "longfellow, alden and harlow (firm)"
+      ],
+      "date": "1900",
+      "dates": [
+        "1900"
+      ],
+      "description": [
+        "Title devised by Library staff."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-09-30T15:32:52.193Z",
+      "group": [
+        "catalog-split-10",
+        "catalog",
+        "cph",
+        "main-catalog-split-10",
+        "miscellaneous-items-high-demand"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2007684771/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15355_150px.jpg#h=119&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15355t.gif#h=119&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15355r.jpg#h=509&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15355v.jpg#h=814&w=1024"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "munhall",
+        "pennsylvania"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "sheet",
+        "online resource",
+        "2025-07-26t12:24:12.700000",
+        "2007684771",
+        "http://www.loc.gov/item/15016644"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "lot 8908",
+        "catalog"
+      ],
+      "score": 40.384464,
+      "shelf_id": "LOT 8908 [item]",
+      "site": [
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "carnegie libraries",
+        "munhall",
+        "pennsylvania",
+        "public libraries",
+        "photographic prints",
+        "reading rooms"
+      ],
+      "timestamp": "2025-09-30T15:54:45.687Z",
+      "title": "[Adult reading room, Carnegie library of Homestead, Munhall, Pennsylvania]",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2007684771/"
+    },
+    {
+      "access_restricted": true,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2007684178/",
+        "http://www.loc.gov/item/2007684178/",
+        "http://www.loc.gov/pictures/item/2007684178/",
+        "https://www.loc.gov/pictures/collection/cph/item/2007684178/",
+        "http://www.loc.gov/pictures/collection/cph/item/2007684178/",
+        "http://www.loc.gov/resource/ppmsca.15417/",
+        "http://lccn.loc.gov/2007684178",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.15417"
+      ],
+      "campaigns": [],
+      "date": "1900-01-01",
+      "dates": [
+        "1900"
+      ],
+      "description": [
+        "1 photographic print."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-26T07:43:48.032Z",
+      "group": [
+        "cph",
+        "catalog-split-11",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-11",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2007684178/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15417_150px.jpg#h=123&w=150"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "oakland",
+        "california"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2007684178",
+        "http://www.loc.gov/item/15098846",
+        "2007-12-18t15:56:26"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "lot 8908",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "miscellaneous items in high demand",
+        "catalog"
+      ],
+      "score": 40.37137,
+      "shelf_id": "LOT 8908 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "carnegie libraries",
+        "oakland",
+        "california",
+        "public libraries",
+        "photographic prints",
+        "reading rooms"
+      ],
+      "timestamp": "2022-05-02T04:52:22.237Z",
+      "title": "[Reading room, Carnegie Library, Oakland, California]",
+      "url": "https://www.loc.gov/item/2007684178/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2007684798/",
+        "http://www.loc.gov/item/2007684798/",
+        "http://www.loc.gov/pictures/item/2007684798/",
+        "https://www.loc.gov/pictures/collection/cph/item/2007684798/",
+        "http://www.loc.gov/pictures/collection/cph/item/2007684798/",
+        "http://www.loc.gov/resource/ppmsca.15382/",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.15382",
+        "http://lccn.loc.gov/2007684798"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "longfellow, alden and harlow (firm)"
+      ],
+      "date": "1893-01-01",
+      "dates": [
+        "1893"
+      ],
+      "description": [
+        "1 photographic print."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-25T11:22:57.770Z",
+      "group": [
+        "cph",
+        "catalog-split-03",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-03",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2007684798/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15382_150px.jpg#h=122&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15382t.gif#h=122&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15382r.jpg#h=522&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15382v.jpg#h=836&w=1024"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "braddock",
+        "pennsylvania"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2007-12-06t10:16:41",
+        "http://www.loc.gov/item/15035505",
+        "2007684798"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "lot 8908",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "miscellaneous items in high demand",
+        "catalog"
+      ],
+      "score": 37.58289,
+      "shelf_id": "LOT 8908 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "carnegie libraries",
+        "braddock",
+        "pennsylvania",
+        "public libraries",
+        "photographic prints"
+      ],
+      "timestamp": "2022-05-02T04:55:13.628Z",
+      "title": "[Braddock Carnegie Free Library addition, Braddock, Pennsylvania]",
+      "url": "https://www.loc.gov/item/2007684798/"
+    }
+  ],
+  "notice": {
+    "warning": "Due to the temporary shutdown of the federal government beginning October 1, 2025, all Library of Congress buildings are closed and all public events are canceled until further notice. <a href=\"/item/prn-25-a05/\">More</a>.\n"
+  },
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "cph",
+      "catalog-split-05",
+      "catalog",
+      "miscellaneous-items-high-demand",
+      "main-catalog-split-05",
+      "main-catalog",
+      "catalog-split-12",
+      "main-catalog-split-12",
+      "catalog-split-15",
+      "main-catalog-split-15",
+      "catalog-split-08",
+      "main-catalog-split-08",
+      "catalog-split-10",
+      "main-catalog-split-10",
+      "catalog-split-11",
+      "main-catalog-split-11",
+      "catalog-split-03",
+      "main-catalog-split-03",
+      "gmd.mar",
+      "catalog-split-09",
+      "general-maps",
+      "main-catalog-split-09",
+      "catalog-split-06",
+      "main-catalog-split-06",
+      "catalog-split-13",
+      "main-catalog-split-13"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "ppmsca.15412",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.6717913150787354,
+    "embed": [],
+    "embed!": [],
+    "error_response_status": null,
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/ppmsca.15412/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/ppmsca.15412/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1761844490.5134072,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 62545704,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/ppmsca/15400/15412u.tif",
+      "width": 0
+    },
+    {
+      "height": 114,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 5192,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15412_150px.jpg",
+      "width": 150
+    },
+    {
+      "height": 114,
+      "levels": 1,
+      "mimetype": "image/gif",
+      "size": 14604,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15412t.gif",
+      "width": 150
+    },
+    {
+      "height": 487,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 49596,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15412r.jpg",
+      "width": 640
+    },
+    {
+      "height": 779,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 124501,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15412v.jpg",
+      "width": 1024
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": "https://www.loc.gov/pictures/search/?q=LOT 8908&fi=number&op=PHRASE&va=exact&co=coll&sg=true",
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=2007684172&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/75696521/",
+        "http://www.loc.gov/resource/g3824p.pm008330/",
+        "https://hdl.loc.gov/loc.gmd/g3824p.pm008330",
+        "http://lccn.loc.gov/75696521"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "fowler, t. m. (thaddeus mortimer)",
+        "moyer, james b."
+      ],
+      "date": "1902-01-01",
+      "dates": [
+        "1902"
+      ],
+      "description": [
+        "Perspective map not drawn to scale. Bird's-eye-view. LC Panoramic maps (2nd ed.), 833 Available also through the Library of Congress Web site as a raster image. Indexed for points of interest. AACR2"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-10-29T21:49:23.563Z",
+      "group": [
+        "gmd.mar",
+        "catalog-split-09",
+        "catalog",
+        "general-maps",
+        "main-catalog-split-09",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/75696521/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824p/pm008330.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824p/pm008330.gif#h=150&w=224",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd382:g3824:g3824p:pm008330/full/pct:12.5/0/default.jpg#h=607&w=907",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd382:g3824:g3824p:pm008330/full/pct:25/0/default.jpg#h=1214&w=1814"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "pittsburgh",
+        "pennsylvania",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2022-07-14t10:52:30",
+        "http://www.loc.gov/item/5425480",
+        "2002-12-14t18:43:18",
+        "75696521",
+        "http://www.loc.gov/item/75696521"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "panoramic maps",
+        "american memory",
+        "geography and map division",
+        "world digital library",
+        "cities and towns",
+        "catalog"
+      ],
+      "score": 17.47436,
+      "shelf_id": "G3824.P6A3 1902  .F6",
+      "site": [
+        "ammem",
+        "catalog"
+      ],
+      "subject": [
+        "pennsylvania",
+        "pittsburgh",
+        "united states",
+        "pittsburgh (pa.)",
+        "aerial views"
+      ],
+      "timestamp": "2022-12-10T05:54:09.456Z",
+      "title": "Pittsburgh, Pennsylvania 1902.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/75696521/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/g3824p.ar133000/",
+        "http://www.loc.gov/item/77691791/",
+        "https://hdl.loc.gov/loc.gmd/g3824p.ar133000",
+        "http://lccn.loc.gov/77691791"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "day, e. a."
+      ],
+      "date": "1760-01-01",
+      "dates": [
+        "1760"
+      ],
+      "description": [
+        "Scale not given. Date from dealers catalog: [1760-70] Manuscript; pen-and-ink and watercolor. LC copy incomplete: Lower left and right sections missing. Includes index to points of interest and illus. Oriented with north to the left, not towards the upper right as shown by compass rose. LC Maps of North America, 1750-1789, 1330 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 651/1"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-10-29T22:07:14.015Z",
+      "group": [
+        "gmd.mar",
+        "catalog-split-15",
+        "catalog",
+        "general-maps",
+        "main-catalog-split-15",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/77691791/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824p/ar133000.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824p/ar133000.gif#h=189&w=150",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd382:g3824:g3824p:ar133000/full/pct:12.5/0/default.jpg#h=443&w=352",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd382:g3824:g3824p:ar133000/full/pct:25/0/default.jpg#h=887&w=704"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "pittsburgh",
+        "pennsylvania",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "77691791",
+        "2011-11-28t08:57:45",
+        "http://www.loc.gov/item/5434823",
+        "http://www.loc.gov/item/77691791"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "military battles and campaigns",
+        "american memory",
+        "geography and map division",
+        "american revolution and its era: maps and charts of north america and the west indies, 1750-1789",
+        "catalog"
+      ],
+      "score": 17.47436,
+      "shelf_id": "G3824.P6 176- .D3",
+      "site": [
+        "ammem",
+        "catalog"
+      ],
+      "subject": [
+        "maps",
+        "pennsylvania",
+        "early maps",
+        "pittsburgh",
+        "united states",
+        "pittsburgh (pa.)",
+        "early works to 1800",
+        "manuscript maps"
+      ],
+      "timestamp": "2022-12-10T05:54:54.774Z",
+      "title": "Plan and perspective view of Pittsburgh.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/77691791/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/74692580/",
+        "https://hdl.loc.gov/loc.gmd/g3824p.ar133300",
+        "http://www.loc.gov/resource/g3824p.ar133300/",
+        "http://lccn.loc.gov/74692580"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "hills, john"
+      ],
+      "date": "1787-01-01",
+      "dates": [
+        "1787"
+      ],
+      "description": [
+        "Scale ca. 1:1,600. Title, on label, on verso: Plan of the lots at Pittsburg & Coal Hill and the manor. Manuscript, pen-and-ink and watercolor. Imperfect: Deteriorated along previous fold lines. Watermark: J. Whatman. Oriented with north to the bottom. Cadastral map. Annotated in pencil in upper right corner \"Being part of the manor of Pittsburgh belonging to John Penn Jun., Esq. and to Governor Penn.\" The above occurs on a similar map dated 1787, belonging to Darlington Library, U. of Pittsburgh. Includes textual information on the size of lots. LC Maps of North America, 1750-1789, 1333 Available also through the Library of Congress Web site as a raster image. Vault AACR2: 650/1; 651/2"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-10-30T01:40:50.485Z",
+      "group": [
+        "gmd.mar",
+        "catalog-split-09",
+        "catalog",
+        "general-maps",
+        "main-catalog-split-09",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/74692580/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824p/ar133300.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824p/ar133300.gif#h=150&w=278",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd382:g3824:g3824p:ar133300/full/pct:12.5/0/default.jpg#h=698&w=1297",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd382:g3824:g3824p:ar133300/full/pct:25/0/default.jpg#h=1397&w=2594"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "pittsburgh",
+        "pennsylvania",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "http://www.loc.gov/item/74692580",
+        "http://www.loc.gov/item/5416675",
+        "2013-05-01t10:32:43",
+        "74692580"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "military battles and campaigns",
+        "american memory",
+        "geography and map division",
+        "american revolution and its era: maps and charts of north america and the west indies, 1750-1789",
+        "catalog"
+      ],
+      "score": 17.47436,
+      "shelf_id": "G3824.P6G46 1787 .P5",
+      "site": [
+        "ammem",
+        "catalog"
+      ],
+      "subject": [
+        "maps",
+        "pennsylvania",
+        "real property",
+        "early maps",
+        "pittsburgh",
+        "pittsburgh (pa.)",
+        "united states",
+        "early works to 1800",
+        "manuscript maps"
+      ],
+      "timestamp": "2022-12-10T05:51:48.929Z",
+      "title": "Plan of the lots laid out at Pittsburg and the Coal Hill.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/74692580/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/2012592151/",
+        "https://hdl.loc.gov/loc.gmd/g3823a.la000701",
+        "http://www.loc.gov/resource/g3823a.la000701/",
+        "http://lccn.loc.gov/2012592151"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "beers, s. n.",
+        "worley & bracher",
+        "f. bourquin & co",
+        "prindle, a. b.",
+        "beers, f. w. (frederick w.)",
+        "smith, gallup & hewitt"
+      ],
+      "date": "1862-01-01",
+      "dates": [
+        "1862"
+      ],
+      "description": [
+        "General-content county map showing relief, roads, railroads, place-names, buildings in rural areas, and householders' names in rural areas. Relief shown by hachures. Also covers the Pittsburgh metropolitan area. Former wall map hand col. to emphasize boundaries of minor civil divisions (cities, boroughs, townships). \"Entered according to Act of Congress by H. & C.T. Smith in the year 1862 in ... Eastern District of Pennsylvania.\" Originally printed on multiple sheets now conjoined; at a later date sectioned to 6 panels (3 panels per present sheet) to enable folding. LC sheets imperfect: Brittle, missing sections at sheet edges, fold-lined, annotated in pencil and ink. LC Land ownership maps, 701 Includes 24 insets of towns/villages (including the cities of Pittsburgh, Allegheny, and McKeesport), business directories (some indexed), distance table, statistical table/data, ill., and state coat-of-arms. Available also through the Library of Congress Web site as a raster image."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-10-29T21:31:52.565Z",
+      "group": [
+        "gmd.mar",
+        "catalog-split-12",
+        "catalog",
+        "general-maps",
+        "main-catalog-split-12",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2012592151/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd382/g3823/g3823a/la000701.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd382/g3823/g3823a/la000701.gif#h=158&w=150",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd382:g3823:g3823a:la000701/full/pct:12.5/0/default.jpg#h=2351&w=2231",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd382:g3823:g3823a:la000701/full/pct:25/0/default.jpg#h=4703&w=4462"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "mckeesport",
+        "pittsburgh metropolitan area",
+        "pennsylvania",
+        "pittsburgh",
+        "united states",
+        "allegheny",
+        "allegheny county"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "http://www.loc.gov/item/2012592151",
+        "2012592151",
+        "http://www.loc.gov/item/17319511",
+        "2012-06-11t13:22:00"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "cultural landscapes",
+        "county landownership maps",
+        "american memory",
+        "geography and map division",
+        "catalog"
+      ],
+      "score": 17.47436,
+      "shelf_id": "G3823.A4 1862 .B4",
+      "site": [
+        "ammem",
+        "catalog"
+      ],
+      "subject": [
+        "mckeesport",
+        "cities and towns",
+        "mckeesport (pa.)",
+        "maps",
+        "administrative and political divisions",
+        "pittsburgh metropolitan area",
+        "allegheny (pittsburgh, pa.)",
+        "business enterprises",
+        "pennsylvania",
+        "landowners",
+        "villages",
+        "pittsburgh",
+        "pittsburgh (pa.)",
+        "united states",
+        "allegheny county (pa.)",
+        "allegheny county",
+        "directories"
+      ],
+      "timestamp": "2022-12-10T05:45:20.726Z",
+      "title": "Map of Allegheny Co., Pennsylvania : from actual surveys",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/2012592151/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/gm71002314/",
+        "https://hdl.loc.gov/loc.gmd/g3824p.ar302600",
+        "http://www.loc.gov/resource/g3824p.ar302600/",
+        "http://lccn.loc.gov/gm71002314"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "montr\u00e9sor, john"
+      ],
+      "date": "1755-01-01",
+      "dates": [
+        "1755"
+      ],
+      "description": [
+        "Scale not given. Manuscript, pen-and-ink and pencil. Relief shown by hachures. In this map the name Ohio R. ou la belle rivi\u00e8re is applied also to the Allegheny. The words \"direction of\" have been inserted in pencil between \"By\" and \"an Indian.\" \"No. 28.\" Includes notes. On verso: John Montresor. Available also through the Library of Congress Web site as a raster image. Vault AACR2: 651/2; 651/4; 700/1"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-10-29T20:56:09.030Z",
+      "group": [
+        "gmd.mar",
+        "catalog-split-06",
+        "catalog",
+        "general-maps",
+        "main-catalog-split-06",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/gm71002314/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824p/ar302600.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824p/ar302600.gif#h=150&w=154",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd382:g3824:g3824p:ar302600/full/pct:12.5/0/default.jpg#h=380&w=390",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd382:g3824:g3824p:ar302600/full/pct:25/0/default.jpg#h=760&w=780"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "fort duquesne",
+        "monongahela river valley",
+        "pennsylvania",
+        "pittsburgh",
+        "united states",
+        "west virginia",
+        "monogahela river valley"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "http://www.loc.gov/item/5401206",
+        "http://www.loc.gov/item/gm71002314",
+        "gm71002314",
+        "2012-03-22t08:00:20"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "military battles and campaigns",
+        "american memory",
+        "geography and map division",
+        "american revolution and its era: maps and charts of north america and the west indies, 1750-1789",
+        "catalog"
+      ],
+      "score": 17.47436,
+      "shelf_id": "G3824.P6S26 1755 .C6",
+      "site": [
+        "ammem",
+        "catalog"
+      ],
+      "subject": [
+        "maps, manuscript",
+        "fort duquesne (pa.)",
+        "maps",
+        "monongahela river valley (w. va. and pa.)",
+        "fort duquesne",
+        "monongahela, battle of the, pa",
+        "pennsylvania",
+        "pittsburgh",
+        "history",
+        "pittsburgh (pa.)",
+        "united states",
+        "early works to 1800",
+        "french and indian war",
+        "monogahela river valley"
+      ],
+      "timestamp": "2022-12-10T06:12:18.617Z",
+      "title": "Copy of a sketch of the Monongahela, with the field of battle,",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/gm71002314/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/87693147/",
+        "https://hdl.loc.gov/loc.gmd/g3824p.ct008390",
+        "http://www.loc.gov/resource/g3824p.ct008390/",
+        "http://lccn.loc.gov/87693147"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "national tube co. engineering department",
+        "williams engraving co"
+      ],
+      "date": "1906-01-01",
+      "dates": [
+        "1906"
+      ],
+      "description": [
+        "Main map covers city and suburbs. Inset maps cover railroad extensions into region. \"Supplement to The Iron Age, March 22, 19[06].\" Includes \"Alphabetical list of works ...,\" indexed \"Numerical list of works ...,\" list of blast furnaces, directory of railroad connections, and 5 insets. LC copy brittle, torn along fold lines, and lacking sections along margins. Available also through the Library of Congress Web site as a raster image."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-10-30T01:03:17.327Z",
+      "group": [
+        "gmd.mar",
+        "catalog-split-13",
+        "catalog",
+        "general-maps",
+        "main-catalog-split-13",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/87693147/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824p/ct008390.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824p/ct008390.gif#h=96&w=150",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd382:g3824:g3824p:ct008390/full/pct:12.5/0/default.jpg#h=851&w=1336",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd382:g3824:g3824p:ct008390/full/pct:25/0/default.jpg#h=1702&w=2673"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "pittsburgh region",
+        "pittsburgh metropolitan area",
+        "pennsylvania",
+        "pittsburgh",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "87693147",
+        "http://www.loc.gov/item/5496921",
+        "http://www.loc.gov/item/87693147",
+        "2017-11-17t11:25:41"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "american memory",
+        "geography and map division",
+        "transportation and communication",
+        "cities and towns",
+        "catalog"
+      ],
+      "score": 17.47436,
+      "shelf_id": "G3824.P6P3 1906 .W5",
+      "site": [
+        "ammem",
+        "catalog"
+      ],
+      "subject": [
+        "railroad terminals",
+        "railroads",
+        "maps",
+        "pittsburgh region",
+        "pittsburgh metropolitan area",
+        "iron-works",
+        "steel-works",
+        "pennsylvania",
+        "pittsburgh",
+        "united states"
+      ],
+      "timestamp": "2022-12-10T05:59:49.799Z",
+      "title": "Map of the Pittsburgh district showing railroad terminals and location of iron and steel works having track connections",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/87693147/"
+    }
+  ],
+  "reproductions": "<p>If an image is displaying, you can download it yourself. (Some images \ndisplay only as thumbnails outside the Library of Congress because of rights \nconsiderations, but you have access to larger size images on site.)\n</p>\n\n<p>  \nAlternatively, you can purchase copies of various types through Library \nof Congress Duplication Services</a>.\n</p>\n\n<p> \n<ol>\n<p>\n<li><strong>If a digital image is displaying:</strong> The qualities of the digital image \npartially depend on whether it was made from the original or an \nintermediate such as a copy negative or transparency. If the Reproduction \nNumber field above includes a reproduction number that starts with \nLC-DIG..., then there is a digital image that was made directly \nfrom the original and is of sufficient resolution for most publication\n purposes.\n</li> \n</p>\n\n<li><strong>If there is information listed in the Reproduction Number field above:</strong> \nYou can use the reproduction number to purchase a copy from Duplication \nServices.  It will be made from the source listed in the parentheses after\n the number.  \n<p> \nIf only black-and-white (&quot;b&w&quot;) sources are listed and you \n desire a copy showing color or tint (assuming the original has any), \n you can generally purchase a quality copy of the original in color by \n citing the Call Number listed above and including the catalog record \n (&quot;About This Item&quot;) with your request.\n </p>\n</li>\n\n<li><strong>If there is no information listed in the Reproduction Number field \nabove:</strong> You can generally purchase a quality copy through \nDuplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \n your request.\n</li>\n</ol>\n</p>\n\n<p> \nPrice lists, contact information, and order forms are available on the\n <a href=\"//www.loc.gov/duplicationservices/\">Duplication Services Web site</a>.  \n</p>\n\n\n\n",
+  "resource": {
+    "caption": "digital file from original item",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15412_150px.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/ppmsca.15412/"
+  },
+  "resources": [
+    {
+      "caption": "digital file from original item",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15412_150px.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/ppmsca.15412/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1761844491185,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/ppmsca.15412/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/ppmsca.15412/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/ppmsca.15412/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/ppmsca.15412/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/ppmsca.15412/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/ppmsca.15412/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/ppmsca.15412/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/ppmsca.15412/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/ppmsca.15412/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/ppmsca.15412/?fo=json&st=text"
+  }
+}

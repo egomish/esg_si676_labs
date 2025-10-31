@@ -1,0 +1,1883 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "Historic American Buildings Survey, C. &amp; Smithmeyer & Pelz, Boucher, J. E., photographer. (1933) <cite>Georgetown University, Healy Building, Thirty-seventh & O Streets, Northwest, Washington, District of Columbia, DC</cite>. Washington Washington D.C, 1933. Price, V. B., trans Documentation Compiled After. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/dc0121/.",
+    "chicago": "Historic American Buildings Survey, Creator, and  Smithmeyer & Pelz, Boucher, Jack E, photographer. <cite>Georgetown University, Healy Building, Thirty-seventh & O Streets, Northwest, Washington, District of Columbia, DC</cite>. Washington Washington D.C, 1933. translateds by Price, Virginia Bmitter Documentation Compiled After. Photograph. https://www.loc.gov/item/dc0121/.",
+    "mla": "Historic American Buildings Survey, Creator, and  Smithmeyer & Pelz, photographer by Boucher, Jack E. <cite>Georgetown University, Healy Building, Thirty-seventh & O Streets, Northwest, Washington, District of Columbia, DC</cite>. trans by Price, Virginia Bmitter Documentation Compiled After. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/dc0121/&gt;."
+  },
+  "item": {
+    "_version_": 1821164132661985280,
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/dc0121/",
+      "http://www.loc.gov/item/dc0121/",
+      "http://www.loc.gov/pictures/item/dc0121/",
+      "https://www.loc.gov/pictures/collection/hh/item/dc0121/",
+      "http://www.loc.gov/pictures/collection/hh/item/dc0121/",
+      "https://cdn.loc.gov/master/pnp/habshaer/dc/dc0100/dc0121/data/dc0121data.pdf",
+      "http://cdn.loc.gov/master/pnp/habshaer/dc/dc0100/dc0121/data/dc0121data.pdf",
+      "https://cdn.loc.gov/master/pnp/habshaer/dc/dc0100/dc0121/supp/dc0121supp.pdf",
+      "http://cdn.loc.gov/master/pnp/habshaer/dc/dc0100/dc0121/supp/dc0121supp.pdf",
+      "https://www.loc.gov:8081/pictures/search/?q=photograph: dc0121&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+      "http://www.loc.gov:8081/pictures/search/?q=photograph: dc0121&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+      "http://www.loc.gov/resource/hhh.dc0121data/",
+      "http://www.loc.gov/resource/hhh.dc0121supp/",
+      "http://www.loc.gov/resource/hhh.dc0121.photos/",
+      "http://www.loc.gov/resource/hhh.dc0121.photos",
+      "http://www.loc.gov/resource/hhh.dc0121.color.376695c",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025372p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025373p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025374p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025375p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025376p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025377p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025378p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025379p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025380p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025381p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025382p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025383p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025384p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025385p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025386p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025387p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025388p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025389p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025390p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025391p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025392p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025393p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025394p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025395p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025396p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025397p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025398p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025399p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025400p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025401p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025402p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025403p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025404p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025405p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025406p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025407p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025408p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025409p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025410p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025411p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.025412p",
+      "http://www.loc.gov/resource/hhh.dc0121.photos.378876p"
+    ],
+    "call_number": "HABS DC,GEO,118-",
+    "campaigns": [],
+    "contributor_names": [
+      "Historic American Buildings Survey, creator",
+      "Smithmeyer & Pelz",
+      "Price, Virginia B, transmitter",
+      "Boucher, Jack E, photographer"
+    ],
+    "contributors": [
+      {
+        "boucher, jack e": "https://www.loc.gov/search/?fa=contributor:boucher,+jack+e&fo=json"
+      },
+      {
+        "historic american buildings survey": "https://www.loc.gov/search/?fa=contributor:historic+american+buildings+survey&fo=json"
+      },
+      {
+        "price, virginia b": "https://www.loc.gov/search/?fa=contributor:price,+virginia+b&fo=json"
+      },
+      {
+        "smithmeyer & pelz": "https://www.loc.gov/search/?fa=contributor:smithmeyer+%26+pelz&fo=json"
+      }
+    ],
+    "control_number": "dc0121",
+    "created": "2016-04-16T06:38:31Z",
+    "created_published": [
+      "Documentation compiled after 1933"
+    ],
+    "created_published_date": "Documentation compiled after 1933",
+    "description": [
+      "Photo(s): 42 | Color Transparencies: 1 | Data Page(s): 43 | Photo Caption Page(s): 1"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2025-01-13T19:18:12.022Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/hh/item/dc0121/#hh-0"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "group": [
+      "hh-0",
+      "habshaer-group-0"
+    ],
+    "hassegments": true,
+    "id": "http://www.loc.gov/item/dc0121/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/habshaer/dc/dc0100/dc0121/color/376695c_150px.jpg#h=150&w=110",
+      "https://tile.loc.gov/storage-services/service/pnp/habshaer/dc/dc0100/dc0121/color/376695cr.jpg#h=640&w=470",
+      "https://tile.loc.gov/storage-services/service/pnp/habshaer/dc/dc0100/dc0121/color/376695cv.jpg#h=1024&w=752"
+    ],
+    "index": 24,
+    "item": {
+      "call_number": "HABS DC,GEO,118-",
+      "contributor_names": [
+        "Smithmeyer & Pelz,  ",
+        "Price, Virginia B, transmitter ",
+        "Boucher, Jack E, photographer "
+      ],
+      "control_number": "dc0121",
+      "created": "2016-04-16T06:38:31Z",
+      "created_published": "Documentation compiled after 1933",
+      "created_published_date": "Documentation compiled after 1933",
+      "creators": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Historic%20American%20Buildings%20Survey&co=hh",
+          "role": "creator",
+          "title": "Historic American Buildings Survey"
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Smithmeyer%20%26%20Pelz&co=hh",
+          "role": "",
+          "title": "Smithmeyer & Pelz"
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Price%2C%20Virginia%20B&co=hh",
+          "role": "transmitter",
+          "title": "Price, Virginia B"
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Boucher%2C%20Jack%20E&co=hh",
+          "role": "photographer",
+          "title": "Boucher, Jack E"
+        }
+      ],
+      "display_offsite": true,
+      "id": "dc0121",
+      "link": "https://www.loc.gov/pictures/item/dc0121/",
+      "medium_brief": "Photo(s): 42, Color Transparencies: 1, Data Page(s): 43, Photo Caption Page(s): 1",
+      "mediums": [
+        "Photo(s): 42 ",
+        "Color Transparencies: 1 ",
+        "Data Page(s): 43 ",
+        "Photo Caption Page(s): 1 "
+      ],
+      "modified": "2024-12-13T15:35:36Z",
+      "notes": [
+        "Significance: Healy Building is the most prominent structure on the University campus and a picturesque landmark for all Georgetown.  Its construction marked the evolution of the school toward true University status.  It was designed by the architects Smithmeyer and Pelz, who also designed the Library of Congress.   ",
+        "Survey number: HABS DC-248 ",
+        "Building/structure dates: 1877 Initial Construction ",
+        "National Register of Historic Places NRIS Number: 67000025 "
+      ],
+      "other_title": [
+        "Georgetown"
+      ],
+      "part_of": "Historic American Buildings Survey (Library of Congress)",
+      "part_of_group": "Survey Number dc0121",
+      "place": [
+        {
+          "latitude": "",
+          "link": "https://www.loc.gov/pictures/related/?fi=place&q=District%20of%20Columbia--District%20of%20Columbia--Washington&co=hh",
+          "longitude": "",
+          "title": "District of Columbia -- District of Columbia -- Washington"
+        }
+      ],
+      "raw_collections": [
+        "diof",
+        "hh",
+        "survey"
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington,      D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "resource_links": [
+        "https://tile.loc.gov/storage-services/master/pnp/habshaer/dc/dc0100/dc0121/data/dc0121data.pdf",
+        "https://tile.loc.gov/storage-services/master/pnp/habshaer/dc/dc0100/dc0121/supp/dc0121supp.pdf",
+        "https://www.loc.gov:8081/pictures/search/?q=Photograph: dc0121&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true"
+      ],
+      "rights_advisory": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+      "rights_information": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/habshaer/dc/dc0100/dc0121/color/376695c_150px.jpg?q=dc0121.color.376695c&c=43&st=gallery",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/habshaer/dc/dc0100/dc0121/color/376695cr.jpg?q=dc0121.color.376695c&c=43&st=gallery",
+      "source_created": "1970-01-01T00:00:00Z",
+      "source_modified": "2016-04-16T06:38:00Z",
+      "subject_headings": [
+        "educational facilities",
+        "stone buildings",
+        "education",
+        "colleges\n\n",
+        "District Of Columbia -- District Of Columbia -- Washington"
+      ],
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/habshaer/dc/dc0100/dc0121/color/376695c_150px.jpg?q=dc0121.color.376695c&c=43&st=gallery",
+      "title": "Georgetown University, Healy Building, Thirty-seventh & O Streets, Northwest, Washington, District of Columbia, DC"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "link": "https://www.loc.gov/pictures/item/dc0121/",
+    "location": [
+      "washington",
+      "washington d.c."
+    ],
+    "locations": [
+      {
+        "washington": "https://www.loc.gov/search/?fa=location:washington&fo=json"
+      },
+      {
+        "washington d.c.": "https://www.loc.gov/search/?fa=location:washington+d.c.&fo=json"
+      }
+    ],
+    "medium": [
+      "Photo(s): 42 ",
+      "Color Transparencies: 1 ",
+      "Data Page(s): 43 ",
+      "Photo Caption Page(s): 1 "
+    ],
+    "medium_brief": "Photo(s): 42, Color Transparencies: 1, Data Page(s): 43, Photo Caption Page(s): 1",
+    "mime_type": [
+      "image/gif",
+      "application/pdf"
+    ],
+    "modified": "2024-12-13T15:35:36Z",
+    "notes": [
+      "Significance: Healy Building is the most prominent structure on the University campus and a picturesque landmark for all Georgetown.  Its construction marked the evolution of the school toward true University status.  It was designed by the architects Smithmeyer and Pelz, who also designed the Library of Congress.   ",
+      "Survey number: HABS DC-248 ",
+      "Building/structure dates: 1877 Initial Construction ",
+      "National Register of Historic Places NRIS Number: 67000025 "
+    ],
+    "online_format": [
+      "image",
+      "pdf"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_formats": [],
+    "other_title": [
+      "Georgetown"
+    ],
+    "part_of_group": "Survey Number dc0121",
+    "partof": [
+      {
+        "count": 45882,
+        "title": "historic american buildings survey/historic american engineering record/historic american landscapes survey",
+        "url": "https://www.loc.gov/collections/historic-american-buildings-landscapes-and-engineering-records/?fo=json"
+      },
+      {
+        "count": 437933,
+        "title": "american memory",
+        "url": "https://www.loc.gov/search/?fa=partof:american+memory&fo=json"
+      },
+      {
+        "count": 1105005,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=District%20of%20Columbia--District%20of%20Columbia--Washington&co=hh",
+        "longitude": "",
+        "title": "District of Columbia -- District of Columbia -- Washington"
+      }
+    ],
+    "raw_collections": [
+      "diof",
+      "hh",
+      "survey"
+    ],
+    "related": {
+      "neighbors": "https://www.loc.gov/pictures/related/?&co=hh&pk=dc0121&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington,      D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproductions": [
+      "<h4>If Digital Images Are Displaying</h4>\r\n<p>You can download online images yourself.  Alternatively, you can  purchase copies of various types through Library of Congress Duplication  Services.</p>\r\n<p>HABS/HAER/HALS materials have generally been scanned at high resolution that is suitable for most publication purposes (see <a href=\"/collections/historic-american-buildings-landscapes-and-engineering-records/about-this-collection/technical-information/\">Digitizing the Collection</a> for further details about the digital images).</p>\r\n<ul class=\"plain margin-bottom-double-li list-plain-extra-margin\">\r\n\t<li><strong>Photographs--</strong>All photographs are printed from digital files to preserve the fragile originals. </li>\r\n\t<ul class=\"plain margin-bottom-single-li\">\r\n\t\t<li>Make note of the Call Number and Item Number that appear under the  photograph in the multiple-image display (e.g., HAER, NY,52-BRIG,4-2). </li>\r\n\t\t<li>If possible, include a printout of the photograph. </li>\r\n\t</ul>\r\n\t<li><strong>Drawings--</strong>All drawings are printed from digital files to preserve the fragile originals. </li>\r\n\t<ul class=\"plain margin-bottom-single-li\">\r\n\t\t<li>Make note of the Survey Number (e.g., HAER NY - 143) and Sheet  Number (e.g., \"Sheet 1 of 4\"), which appear on the edge of the drawing.  (NOTE: These numbers are visible in the Tiff \"Reference Image\" display.) </li>\r\n\t\t<li>If possible, include a printout of the drawing. </li>\r\n\t</ul>\r\n\t<li><strong>Data Pages</strong></li>\r\n\t<ul class=\"plain margin-bottom-single-li\">\r\n\t\t<li>Make note of the Call Number in the catalog record. </li>\r\n\t</ul>\r\n</ul>\r\n<h4>If Digital Images Are Not Displaying</h4>\r\n<p>In the rare case that a digital image for HABS/HAER/HALS  documentation is not displaying online, select images for reproduction  through one of these methods:</p>\r\n<ul class=\"plain margin-bottom-double-li list-plain-extra-margin\">\r\n\t<li>Visit the Prints &amp; Photographs Reading Room and request to  view the group (general information about service in the reading room is  available at: <a href=\"https://www.loc.gov/rr/print/info/001_ref.html\">https://www.loc.gov/rr/print/info/001_ref.html</a>). It is best to contact reference staff in advance (see: <a href=\"https://www.loc.gov/rr/print/address.html\">https://www.loc.gov/rr/print/address.html</a>) to make sure the material is on site.  OR </li>\r\n\t<li>P&amp;P reading room staff can provide up to 15 quick copies of  items per calendar year (many original items in the holdings are too old  or fragile to make such copies, but generally HABS/HAER/HALS materials  are in good enough condition to be placed on photocopy machines). For  assistance, see our <a href=\"https://ask.loc.gov/prints-photographs/\">Ask a Librarian</a> page OR </li>\r\n\t<li>Hire a freelance researcher to do further selection for you (a list of researchers in available at: <a href=\"https://www.loc.gov/rr/print/resource/013_pic.html\">https://www.loc.gov/rr/print/resource/013_pic.html</a>). </li>\r\n\t<li>You can purchase copies of various types, including quick  copies, through Library of Congress Duplication Services (price lists,  contact information, and order forms for Library of Congress Duplication  Services are available on the <a href=\"https://www.loc.gov/preserv/pds/\">Duplication Services Web site</a>): </li>\r\n\t<ul class=\"plain margin-bottom-single-li\">\r\n\t\t<li>Make note of the Call Number listed above. </li>\r\n\t\t<li>Look at the Medium field above. If it lists more than one item: </li>\r\n\t\t<ul class=\"plain margin-bottom-single-li\">\r\n\t\t\t<li>The entire group can be ordered as photocopies or high-quality copies. </li>\r\n\t\t\t<li>All the items in a particular medium (e.g., all drawings, all  photographs) can be ordered as photocopies or high-quality copies. </li>\r\n\t\t</ul>\r\n\t</ul>\r\n</ul>\r\n"
+    ],
+    "resource_links": [
+      "https://tile.loc.gov/storage-services/master/pnp/habshaer/dc/dc0100/dc0121/data/dc0121data.pdf",
+      "https://tile.loc.gov/storage-services/master/pnp/habshaer/dc/dc0100/dc0121/supp/dc0121supp.pdf",
+      "https://www.loc.gov:8081/pictures/search/?q=Photograph: dc0121&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true"
+    ],
+    "resources": [
+      {
+        "caption": "Photos from Survey HABS DC-248 ",
+        "files": 43,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/habshaer/dc/dc0100/dc0121/color/376695c_150px.jpg",
+        "url": "https://www.loc.gov/resource/hhh.dc0121.photos"
+      },
+      {
+        "caption": "Data Pages from Survey HABS DC-248 ",
+        "files": 1,
+        "image": "/static/images/original-format/manuscript-mixed-material.svg"
+      },
+      {
+        "caption": "pdf version of supplemental pages",
+        "files": 1,
+        "image": "/static/images/original-format/manuscript-mixed-material.svg"
+      }
+    ],
+    "rights": [
+      "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"https://www.loc.gov/rr/print/res/114_habs.html\">Historic American Buildings Survey/Historic American Engineering Record/Historic American Landscape Survey (HABS/HAER/HALS) Collection - Rights and Restrictions Information</a> </p>\n\n"
+    ],
+    "rights_advisory": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+    "rights_information": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+    "score": 37.368263,
+    "shard": "00",
+    "shelf_id": "HABS DC,GEO,118-",
+    "site": [
+      "pictures"
+    ],
+    "source_collection": "Historic American Buildings Survey (Library of Congress)",
+    "source_created": "1970-01-01T00:00:00Z",
+    "source_modified": "2000-01-01T12:00:00Z",
+    "subject": [
+      "educational facilities",
+      "colleges",
+      "stone buildings",
+      "education"
+    ],
+    "subject_headings": [
+      "educational facilities",
+      "stone buildings",
+      "education",
+      "colleges\n\n",
+      "District Of Columbia -- District Of Columbia -- Washington"
+    ],
+    "subjects": [
+      {
+        "colleges": "https://www.loc.gov/search/?fa=subject:colleges&fo=json"
+      },
+      {
+        "education": "https://www.loc.gov/search/?fa=subject:education&fo=json"
+      },
+      {
+        "educational facilities": "https://www.loc.gov/search/?fa=subject:educational+facilities&fo=json"
+      },
+      {
+        "stone buildings": "https://www.loc.gov/search/?fa=subject:stone+buildings&fo=json"
+      }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/habshaer/dc/dc0100/dc0121/color/376695c_150px.jpg?q=dc0121.color.376695c&c=43&st=gallery",
+    "timestamp": "2025-01-13T19:44:17.667Z",
+    "title": "Georgetown University, Healy Building, Thirty-seventh & O Streets, Northwest, Washington, District of Columbia, DC",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/dc0121/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/vt0018/",
+        "http://www.loc.gov/item/vt0018/",
+        "http://www.loc.gov/pictures/item/vt0018/",
+        "https://www.loc.gov/pictures/collection/hh/item/vt0018/",
+        "http://www.loc.gov/pictures/collection/hh/item/vt0018/",
+        "https://cdn.loc.gov/master/pnp/habshaer/vt/vt0000/vt0018/data/vt0018data.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/vt/vt0000/vt0018/data/vt0018data.pdf",
+        "https://cdn.loc.gov/master/pnp/habshaer/vt/vt0000/vt0018/supp/vt0018supp.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/vt/vt0000/vt0018/supp/vt0018supp.pdf",
+        "https://www.loc.gov:8081/pictures/search/?q=photograph: vt0018&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov:8081/pictures/search/?q=photograph: vt0018&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov/resource/hhh.vt0018data/",
+        "http://www.loc.gov/resource/hhh.vt0018supp/",
+        "http://www.loc.gov/resource/hhh.vt0018.photos/",
+        "http://www.loc.gov/resource/hhh.vt0018.photos"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "painter, gamaliel",
+        "mixon, stanley p",
+        "historic american buildings survey"
+      ],
+      "description": [
+        "Photo(s): 1"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-01-13T21:17:50.551Z",
+      "group": [
+        "hh-5",
+        "habshaer-group-5"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/vt0018/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/vt/vt0000/vt0018/photos/167120p_150px.jpg#h=106&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/vt/vt0000/vt0018/photos/167120pr.jpg#h=454&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/vt/vt0000/vt0018/photos/167120pv.jpg#h=726&w=1024"
+      ],
+      "index": 24,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "middlebury",
+        "addison county",
+        "vermont"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "prints and photographs division",
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey"
+      ],
+      "score": 28.288017,
+      "shelf_id": "HABS VT,1-MIDBU,4B-",
+      "site": [
+        "pictures"
+      ],
+      "subject": [
+        "educational facilities",
+        "colleges",
+        "stone buildings",
+        "education"
+      ],
+      "timestamp": "2025-01-13T21:53:16.821Z",
+      "title": "Middlebury College, Painter Hall, West side of Route 30, Middlebury, Addison County, VT",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/vt0018/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/md1507/",
+        "http://www.loc.gov/item/md1507/",
+        "http://www.loc.gov/pictures/item/md1507/",
+        "https://www.loc.gov/pictures/collection/hh/item/md1507/",
+        "http://www.loc.gov/pictures/collection/hh/item/md1507/",
+        "https://cdn.loc.gov/master/pnp/habshaer/md/md1500/md1507/data/md1507data.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/md/md1500/md1507/data/md1507data.pdf",
+        "http://www.loc.gov/resource/hhh.md1507data/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "boucher, jack e",
+        "historic american buildings survey",
+        "ament, james e",
+        "price, virginia b",
+        "ott, cynthia"
+      ],
+      "description": [
+        "Data Page(s): 3"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-01-13T20:13:34.916Z",
+      "group": [
+        "hh-3",
+        "habshaer-group-3"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/md1507/",
+      "image_url": [],
+      "index": 25,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "montgomery county",
+        "maryland",
+        "silver spring"
+      ],
+      "mime_type": [
+        "application/pdf"
+      ],
+      "online_format": [
+        "pdf"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "prints and photographs division",
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey"
+      ],
+      "score": 24.610193,
+      "shelf_id": "HABS MD,16-SILSPR,2D-",
+      "site": [
+        "pictures"
+      ],
+      "subject": [
+        "education",
+        "science",
+        "moving of structures",
+        "military medicine",
+        "educational facilities",
+        "richardsonian romanesque architectural elements",
+        "military hospitals",
+        "italianate architectural elements",
+        "shingle style architectural elements",
+        "adaptive reuse"
+      ],
+      "timestamp": "2025-01-13T20:37:59.548Z",
+      "title": "National Park Seminary, Science & Art Building, Linden Lane, Silver Spring, Montgomery County, MD",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/md1507/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/md1529/",
+        "http://www.loc.gov/item/md1529/",
+        "http://www.loc.gov/pictures/item/md1529/",
+        "https://www.loc.gov/pictures/collection/hh/item/md1529/",
+        "http://www.loc.gov/pictures/collection/hh/item/md1529/",
+        "https://cdn.loc.gov/master/pnp/habshaer/md/md1500/md1529/data/md1529data.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/md/md1500/md1529/data/md1529data.pdf",
+        "https://cdn.loc.gov/master/pnp/habshaer/md/md1500/md1529/data/md1529cap.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/md/md1500/md1529/data/md1529cap.pdf",
+        "https://stage.loc.gov/pictures/search/?q=photograph: md1529&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://stage.loc.gov/pictures/search/?q=photograph: md1529&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov/resource/hhh.md1529data/",
+        "http://www.loc.gov/resource/hhh.md1529cap/",
+        "http://www.loc.gov/resource/hhh.md1529.photos/",
+        "http://www.loc.gov/resource/hhh.md1529.photos",
+        "http://www.loc.gov/resource/hhh.md1529.color.377399c",
+        "http://www.loc.gov/resource/hhh.md1529.color.377400c",
+        "http://www.loc.gov/resource/hhh.md1529.color.377401c",
+        "http://www.loc.gov/resource/hhh.md1529.color.377402c",
+        "http://www.loc.gov/resource/hhh.md1529.photos.379880p",
+        "http://www.loc.gov/resource/hhh.md1529.photos.379881p",
+        "http://www.loc.gov/resource/hhh.md1529.photos.379882p",
+        "http://www.loc.gov/resource/hhh.md1529.photos.379883p",
+        "http://www.loc.gov/resource/hhh.md1529.photos.379884p",
+        "http://www.loc.gov/resource/hhh.md1529.photos.379885p",
+        "http://www.loc.gov/resource/hhh.md1529.photos.379886p",
+        "http://www.loc.gov/resource/hhh.md1529.photos.379887p",
+        "http://www.loc.gov/resource/hhh.md1529.photos.379888p",
+        "http://www.loc.gov/resource/hhh.md1529.photos.379889p",
+        "http://www.loc.gov/resource/hhh.md1529.photos.379890p",
+        "http://www.loc.gov/resource/hhh.md1529.photos.379891p",
+        "http://www.loc.gov/resource/hhh.md1529.photos.379892p",
+        "http://www.loc.gov/resource/hhh.md1529.photos.379893p"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "boucher, jack e",
+        "probst, herman",
+        "massey, james c",
+        "historic american buildings survey",
+        "boring & tilton",
+        "leavitt, edward w",
+        "price, virginia b"
+      ],
+      "description": [
+        "Photo(s): 14 | Color Transparencies: 4 | Data Page(s): 3 | Photo Caption Page(s): 2"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-01-13T20:18:08.698Z",
+      "group": [
+        "hh-3",
+        "habshaer-group-3"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/md1529/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/md/md1500/md1529/color/377399c_150px.jpg#h=108&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/md/md1500/md1529/color/377399cr.jpg#h=461&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/md/md1500/md1529/color/377399cv.jpg#h=738&w=1024"
+      ],
+      "index": 26,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "cecil county",
+        "maryland",
+        "port deposit"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "prints and photographs division",
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey"
+      ],
+      "score": 24.610193,
+      "shelf_id": "HABS MD,8-PODEP.V,1B-",
+      "site": [
+        "pictures"
+      ],
+      "subject": [
+        "domestic life",
+        "building deterioration",
+        "barracks",
+        "educational facilities",
+        "military education",
+        "officers' quarters",
+        "stone buildings (granite)",
+        "houses",
+        "education"
+      ],
+      "timestamp": "2025-01-13T20:37:59.548Z",
+      "title": "Jacob Tome Institute, Director's Residence, Tome Road, Port Deposit, Cecil County, MD",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/md1529/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/dc0715/",
+        "http://www.loc.gov/item/dc0715/",
+        "http://www.loc.gov/pictures/item/dc0715/",
+        "https://www.loc.gov/pictures/collection/hh/item/dc0715/",
+        "http://www.loc.gov/pictures/collection/hh/item/dc0715/",
+        "https://cdn.loc.gov/master/pnp/habshaer/dc/dc0700/dc0715/data/dc0715data.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/dc/dc0700/dc0715/data/dc0715data.pdf",
+        "https://cdn.loc.gov/master/pnp/habshaer/dc/dc0700/dc0715/data/dc0715cap.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/dc/dc0700/dc0715/data/dc0715cap.pdf",
+        "https://stage.loc.gov/pictures/search/?q=photograph: dc0715&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://stage.loc.gov/pictures/search/?q=photograph: dc0715&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov/resource/hhh.dc0715data/",
+        "http://www.loc.gov/resource/hhh.dc0715cap/",
+        "http://www.loc.gov/resource/hhh.dc0715.photos/",
+        "http://www.loc.gov/resource/hhh.dc0715.photos",
+        "http://www.loc.gov/resource/hhh.dc0715.photos.029988p",
+        "http://www.loc.gov/resource/hhh.dc0715.photos.029989p"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "boucher, jack e",
+        "historic american buildings survey"
+      ],
+      "description": [
+        "Photo(s): 2 | Photo Caption Page(s): 1"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-01-13T19:18:07.743Z",
+      "group": [
+        "hh-0",
+        "habshaer-group-0"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/dc0715/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/dc/dc0700/dc0715/photos/029988p_150px.jpg#h=150&w=107",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/dc/dc0700/dc0715/photos/029988pr.jpg#h=640&w=455",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/dc/dc0700/dc0715/photos/029988pv.jpg#h=1024&w=728"
+      ],
+      "index": 27,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington",
+        "washington d.c."
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "prints and photographs division",
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey"
+      ],
+      "score": 22.953585,
+      "shelf_id": "HABS DC,WASH,534H-",
+      "site": [
+        "pictures"
+      ],
+      "subject": [
+        "gatehouses",
+        "stone buildings",
+        "residential facilities"
+      ],
+      "timestamp": "2025-01-13T19:47:44.056Z",
+      "title": "U.S. Soldiers Home, Stone Gatehouse, Rock Creek Church Road & Upshur Street Northwest, Washington, District of Columbia, DC",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/dc0715/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/dc0718/",
+        "http://www.loc.gov/item/dc0718/",
+        "http://www.loc.gov/pictures/item/dc0718/",
+        "https://www.loc.gov/pictures/collection/hh/item/dc0718/",
+        "http://www.loc.gov/pictures/collection/hh/item/dc0718/",
+        "https://cdn.loc.gov/master/pnp/habshaer/dc/dc0700/dc0718/data/dc0718data.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/dc/dc0700/dc0718/data/dc0718data.pdf",
+        "https://cdn.loc.gov/master/pnp/habshaer/dc/dc0700/dc0718/data/dc0718cap.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/dc/dc0700/dc0718/data/dc0718cap.pdf",
+        "https://stage.loc.gov/pictures/search/?q=photograph: dc0718&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://stage.loc.gov/pictures/search/?q=photograph: dc0718&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov/resource/hhh.dc0718data/",
+        "http://www.loc.gov/resource/hhh.dc0718cap/",
+        "http://www.loc.gov/resource/hhh.dc0718.photos/",
+        "http://www.loc.gov/resource/hhh.dc0718.photos",
+        "http://www.loc.gov/resource/hhh.dc0718.photos.029994p",
+        "http://www.loc.gov/resource/hhh.dc0718.photos.029995p",
+        "http://www.loc.gov/resource/hhh.dc0718.photos.029996p",
+        "http://www.loc.gov/resource/hhh.dc0718.photos.029997p"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "boucher, jack e",
+        "historic american buildings survey"
+      ],
+      "description": [
+        "Photo(s): 4 | Photo Caption Page(s): 1"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-01-13T19:18:07.743Z",
+      "group": [
+        "hh-0",
+        "habshaer-group-0"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/dc0718/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/dc/dc0700/dc0718/photos/029994p_150px.jpg#h=108&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/dc/dc0700/dc0718/photos/029994pr.jpg#h=462&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/dc/dc0700/dc0718/photos/029994pv.jpg#h=740&w=1024"
+      ],
+      "index": 28,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington",
+        "washington d.c."
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "prints and photographs division",
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey"
+      ],
+      "score": 22.953585,
+      "shelf_id": "HABS DC,WASH,534K-",
+      "site": [
+        "pictures"
+      ],
+      "subject": [
+        "houses",
+        "soldiers' homes",
+        "stone buildings",
+        "domestic life"
+      ],
+      "timestamp": "2025-01-13T19:47:44.056Z",
+      "title": "U.S. Soldiers Home, Stone House with Mansard Roof, Rock Creek Church Road & Upshur Street Northwest, Washington, District of Columbia, DC",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/dc0718/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/dc0722/",
+        "http://www.loc.gov/item/dc0722/",
+        "http://www.loc.gov/pictures/item/dc0722/",
+        "https://www.loc.gov/pictures/collection/hh/item/dc0722/",
+        "http://www.loc.gov/pictures/collection/hh/item/dc0722/",
+        "https://cdn.loc.gov/master/pnp/habshaer/dc/dc0700/dc0722/data/dc0722data.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/dc/dc0700/dc0722/data/dc0722data.pdf",
+        "https://cdn.loc.gov/master/pnp/habshaer/dc/dc0700/dc0722/data/dc0722cap.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/dc/dc0700/dc0722/data/dc0722cap.pdf",
+        "https://stage.loc.gov/pictures/search/?q=photograph: dc0722&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://stage.loc.gov/pictures/search/?q=photograph: dc0722&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov/resource/hhh.dc0722data/",
+        "http://www.loc.gov/resource/hhh.dc0722cap/",
+        "http://www.loc.gov/resource/hhh.dc0722.photos/",
+        "http://www.loc.gov/resource/hhh.dc0722.photos",
+        "http://www.loc.gov/resource/hhh.dc0722.photos.030005p",
+        "http://www.loc.gov/resource/hhh.dc0722.photos.030006p"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "boucher, jack e",
+        "historic american buildings survey"
+      ],
+      "description": [
+        "Photo(s): 2 | Photo Caption Page(s): 1"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-01-13T19:18:07.743Z",
+      "group": [
+        "hh-0",
+        "habshaer-group-0"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/dc0722/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/dc/dc0700/dc0722/photos/030005p_150px.jpg#h=150&w=107",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/dc/dc0700/dc0722/photos/030005pr.jpg#h=640&w=456",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/dc/dc0700/dc0722/photos/030005pv.jpg#h=1024&w=730"
+      ],
+      "index": 29,
+      "language": [
+        "english"
+      ],
+      "latlong": [
+        38.942114,
+        -77.011655
+      ],
+      "location": [
+        "washington",
+        "washington d.c."
+      ],
+      "location_str": "",
+      "lonlat": [
+        -77.011655,
+        38.942114
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "prints and photographs division",
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey"
+      ],
+      "score": 22.953585,
+      "shelf_id": "HABS DC,WASH,534O-",
+      "site": [
+        "pictures"
+      ],
+      "subject": [
+        "water towers",
+        "stone buildings"
+      ],
+      "timestamp": "2025-01-13T19:47:44.056Z",
+      "title": "U.S. Soldiers Home, Watertower, Rock Creek Church Road & Upshur Street Northwest, Washington, District of Columbia, DC",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/dc0722/"
+    }
+  ],
+  "notice": {
+    "warning": "Due to the temporary shutdown of the federal government beginning October 1, 2025, all Library of Congress buildings are closed and all public events are canceled until further notice. <a href=\"/item/prn-25-a05/\">More</a>.\n"
+  },
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "hh-0",
+      "habshaer-group-0",
+      "hh-5",
+      "habshaer-group-5",
+      "hh-3",
+      "habshaer-group-3",
+      "usrep103",
+      "us-report",
+      "paprika-navcc",
+      "catalog-split-13",
+      "catalog",
+      "main-catalog-split-13",
+      "usrep101",
+      "ndnp/ncu",
+      "university-of-north-carolina-chapel-hill-library-awardee",
+      "scsm",
+      "alfred-whital-stern",
+      "gdc/webcasts",
+      "catalog-split-15",
+      "cataloged-event-videos",
+      "main-catalog-split-15"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "hhh.dc0121.photos",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 1.8387353420257568,
+    "embed": [],
+    "embed!": [],
+    "error_response_status": null,
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/hhh.dc0121.photos/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json&sp=24",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ],
+      "sp": [
+        "24"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/hhh.dc0121.photos/?fo=json&sp=24",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": 24,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1761845330.7051346,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 17812552,
+      "type": "bw_photos",
+      "url": "https://tile.loc.gov/storage-services/master/pnp/habshaer/dc/dc0100/dc0121/photos/025394pu.tif",
+      "width": 0
+    },
+    {
+      "height": 150,
+      "levels": 1,
+      "mimetype": "image/jpg",
+      "size": 6742,
+      "type": "bw_photos",
+      "url": "https://tile.loc.gov/storage-services/service/pnp/habshaer/dc/dc0100/dc0121/photos/025394p_150px.jpg",
+      "width": 107
+    },
+    {
+      "height": 640,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 73793,
+      "type": "bw_photos",
+      "url": "https://tile.loc.gov/storage-services/service/pnp/habshaer/dc/dc0100/dc0121/photos/025394pr.jpg",
+      "width": 457
+    },
+    {
+      "height": 1024,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 168741,
+      "type": "bw_photos",
+      "url": "https://tile.loc.gov/storage-services/service/pnp/habshaer/dc/dc0100/dc0121/photos/025394pv.jpg",
+      "width": 732
+    },
+    {
+      "aka": "https://www.loc.gov/resource/hhh.dc0121.photos.025394p",
+      "mimetype": "application/json",
+      "title": "23.   November 1969 RIGGS LIBRARY STACKS, THIRD FLOOR, SOUTH WING - Georgetown University, Healy Building, Thirty-seventh & O Streets, Northwest, Washington, District of Columbia, DC",
+      "use": "caption"
+    }
+  ],
+  "pagination": {
+    "current": 24,
+    "first": "https://www.loc.gov/resource/hhh.dc0121.photos/?fo=json&sp=1",
+    "from": 24,
+    "last": "https://www.loc.gov/resource/hhh.dc0121.photos/?fo=json&sp=26",
+    "next": "https://www.loc.gov/resource/hhh.dc0121.photos/?fo=json&sp=25",
+    "of": 43,
+    "page_list": [
+      {
+        "number": 1,
+        "url": "https://www.loc.gov/resource/hhh.dc0121.photos/?fo=json&sp=1"
+      },
+      {
+        "number": "...",
+        "url": "https://www.loc.gov/resource/hhh.dc0121.photos/?fo=json&sp=21"
+      },
+      {
+        "number": 22,
+        "url": "https://www.loc.gov/resource/hhh.dc0121.photos/?fo=json&sp=22"
+      },
+      {
+        "number": 23,
+        "url": "https://www.loc.gov/resource/hhh.dc0121.photos/?fo=json&sp=23"
+      },
+      {
+        "number": 24,
+        "url": null
+      },
+      {
+        "number": 25,
+        "url": "https://www.loc.gov/resource/hhh.dc0121.photos/?fo=json&sp=25"
+      },
+      {
+        "number": 26,
+        "url": "https://www.loc.gov/resource/hhh.dc0121.photos/?fo=json&sp=26"
+      }
+    ],
+    "perpage": 1,
+    "perpage_options": [
+      25,
+      50,
+      100,
+      150
+    ],
+    "previous": "https://www.loc.gov/resource/hhh.dc0121.photos/?fo=json&sp=23",
+    "results": "24 - 24",
+    "to": 24,
+    "total": 43
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=hh&pk=dc0121&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/usrep342350/",
+        "http://www.loc.gov/resource/usrep.usrep342350/",
+        "http://www.loc.gov/item/usrep.usrep342350/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "supreme court of the united states"
+      ],
+      "date": "1951",
+      "dates": [
+        "1951"
+      ],
+      "description": [
+        "U.S. Reports Volume 342; October Term, 1951; Briggs et al. v. Elliott et al."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-09-17T19:55:44.167Z",
+      "group": [
+        "usrep103",
+        "us-report"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/usrep342350/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ll:usrep:usrep342:usrep342350:usrep342350/full/pct:25/0/default.jpg"
+      ],
+      "index": 24,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "application/pdf"
+      ],
+      "number": [
+        "usrep342350"
+      ],
+      "online_format": [
+        "pdf"
+      ],
+      "original_format": [
+        "periodical"
+      ],
+      "partof": [
+        "united states reports (official opinions of the u.s. supreme court)",
+        "law library of congress",
+        "u.s. reports: constitutional law",
+        "u.s. reports: volume 342"
+      ],
+      "score": 12.2864895,
+      "shelf_id": "Call Number: KF101 Series: Constitutional Law Series: Volume 342",
+      "subject": [
+        "pupils",
+        "judicial decisions",
+        "judicial review and appeals",
+        "civil procedure",
+        "educational facilities",
+        "periodical",
+        "court cases",
+        "constitutional law",
+        "government documents",
+        "jim crow laws",
+        "court decisions",
+        "appellees",
+        "racial and ethnic relations",
+        "law",
+        "south carolina",
+        "supreme court",
+        "u.s. reports",
+        "additional facts",
+        "public schools",
+        "equal protection",
+        "united states",
+        "law library",
+        "statutory provisions",
+        "racial discrimination",
+        "separate but equal doctrine",
+        "fourteenth amendment",
+        "court opinions",
+        "common law",
+        "education"
+      ],
+      "timestamp": "2025-09-17T23:07:23.248Z",
+      "title": "U.S. Reports: Briggs v. Elliott, 342 U.S. 350 (1952).",
+      "type": [
+        "periodical"
+      ],
+      "url": "https://www.loc.gov/item/usrep342350/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/99481536",
+        "http://www.loc.gov/item/99481536/",
+        "http://www.loc.gov/resource/navcc.cwband-recs001/",
+        "https://hdl.loc.gov/loc.mbrsrs/mbrsrsdig.cwband-recs001",
+        "http://www.loc.gov/resource/mbrsrsdig.cwband-recs001/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress. music division",
+        "rose, bernard",
+        "wallace, william vincent",
+        "lindblad, adolf fredrik",
+        "sargon, merja",
+        "knaebel, simon",
+        "noeren, j. m.",
+        "balfe, m. w. (michael william)",
+        "downing, david l.",
+        "goodwin, george h.",
+        "grafulla, c. s. (claudio s.)",
+        "foster, stephen collins",
+        "bovy-lysberg, charles-samuel",
+        "donizetti, gaetano",
+        "fennell, frederick",
+        "farmer, henry",
+        "friederich, g. w. e.",
+        "benedict, julius",
+        "jaeger, edmund"
+      ],
+      "date": "1990",
+      "dates": [
+        "1990"
+      ],
+      "description": [
+        "Vocal works sung in English or Swedish. Merja Sargon, soprano; Bernard Rose, piano; band playing brass instruments from collections of the Smithsonian Institution; Frederick Fennell, conductor. Recorded Sept. 1974, Coolidge, Auditorium, Library of Congress, Washington, D.C. Program notes by Jon Newsom with texts or English translations of texts (27 p.) in container. Production level cataloging."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-07-29T06:45:35.750Z",
+      "group": [
+        "paprika-navcc",
+        "catalog-split-13",
+        "catalog",
+        "main-catalog-split-13"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/99481536/",
+      "image_url": [],
+      "index": 25,
+      "language": [
+        "engswe",
+        "english"
+      ],
+      "mime_type": [
+        "audio/mpeg"
+      ],
+      "number": [
+        "http://www.loc.gov/item/cwband.recs003",
+        "http://www.loc.gov/resource/cwband.recs001.0",
+        "http://www.loc.gov/item/cwband.recs014",
+        "99481536",
+        "http://www.loc.gov/resource/cwband.recs012.0",
+        "2025-05-21t15:37:26",
+        "http://www.loc.gov/item/cwband.recs016",
+        "http://www.loc.gov/resource/cwband.recs010.0",
+        "http://www.loc.gov/resource/cwband.recs017.0",
+        "http://www.loc.gov/item/cwband.recs006",
+        "http://www.loc.gov/item/cwband.recs012",
+        "http://www.loc.gov/item/cwband.recs002",
+        "http://www.loc.gov/resource/cwband.recs003.0",
+        "http://www.loc.gov/item/cwband.recs017",
+        "http://www.loc.gov/item/cwband.recs007",
+        "http://www.loc.gov/item/cwband.recs018",
+        "http://www.loc.gov/resource/cwband.recs006.0",
+        "http://www.loc.gov/resource/cwband.recs008.0",
+        "http://www.loc.gov/item/cwband.recs013",
+        "http://www.loc.gov/resource/cwband.recs007.0",
+        "http://www.loc.gov/item/cwband.recs005",
+        "http://www.loc.gov/resource/cwband.recs009.0",
+        "http://www.loc.gov/item/cwband.recs001",
+        "http://www.loc.gov/resource/cwband.recs011.0",
+        "http://www.loc.gov/resource/cwband.recs013.0",
+        "http://www.loc.gov/resource/cwband.recs016.0",
+        "http://www.loc.gov/item/cwband.recs011",
+        "http://www.loc.gov/resource/cwband.recs002.0",
+        "http://www.loc.gov/item/cwband.recs015",
+        "http://www.loc.gov/item/cwband.recs004",
+        "http://www.loc.gov/resource/cwband.recs005.0",
+        "http://www.loc.gov/item/cwband.recs010",
+        "http://www.loc.gov/resource/cwband.recs004.0",
+        "http://www.loc.gov/item/cwband.recs009",
+        "http://www.loc.gov/item/cwband.recs008",
+        "http://www.loc.gov/item/cwband.recs019",
+        "http://www.loc.gov/resource/cwband.recs014.0",
+        "http://www.loc.gov/resource/cwband.recs018.0",
+        "http://www.loc.gov/resource/cwband.recs015.0",
+        "http://www.loc.gov/resource/cwband.recs019.0"
+      ],
+      "online_format": [
+        "audio"
+      ],
+      "original_format": [
+        "sound recording"
+      ],
+      "other_title": [
+        "Concert for brass band, voice, and piano"
+      ],
+      "partof": [
+        "the library of congress celebrates the songs of america",
+        "band music from the civil war era",
+        "national audiovisual conservation center",
+        "catalog",
+        "american memory",
+        "performing arts encyclopedia"
+      ],
+      "score": 10.8540535,
+      "shelf_id": "https://repo.loc.gov/access/public/navcc/cwband-recs001/.resource.json",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "operas",
+        "songs (high voice) with piano",
+        "excerpts, arranged",
+        "brass band music",
+        "piano music"
+      ],
+      "timestamp": "2025-07-29T06:46:11.798Z",
+      "title": "[Library of Congress Music Division concert, 1974-09-??]",
+      "type": [
+        "sound recording-musical"
+      ],
+      "url": "https://www.loc.gov/item/99481536/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/usrep017518/",
+        "http://www.loc.gov/resource/usrep.usrep017518/",
+        "http://www.loc.gov/item/usrep.usrep017518/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "supreme court of the united states",
+        "marshall, john"
+      ],
+      "date": "1819",
+      "dates": [
+        "1819"
+      ],
+      "description": [
+        "U.S. Reports Volume 17; Wheaton Volume 4; February Term, 1819; The Trustees of Dartmouth College v. Woodward."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-09-17T19:52:36.037Z",
+      "group": [
+        "usrep101",
+        "us-report"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/usrep017518/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ll:usrep:usrep017:usrep017518:usrep017518/full/pct:25/0/default.jpg"
+      ],
+      "index": 26,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "application/pdf"
+      ],
+      "number": [
+        "usrep017518"
+      ],
+      "online_format": [
+        "pdf"
+      ],
+      "original_format": [
+        "periodical"
+      ],
+      "partof": [
+        "united states reports (official opinions of the u.s. supreme court)",
+        "law library of congress",
+        "u.s. reports: volume 017",
+        "u.s. reports: business and corporate law"
+      ],
+      "score": 10.509169,
+      "shelf_id": "series: Volume 17 Call Number: KF101 Series: Business and Corporate Law",
+      "subject": [
+        "judicial decisions",
+        "judicial review and appeals",
+        "periodical",
+        "court cases",
+        "business and corporate law",
+        "constitutional law",
+        "higher education",
+        "government documents",
+        "acts of incorporation",
+        "trusts and trustees",
+        "public-private corporations",
+        "court decisions",
+        "law",
+        "supreme court",
+        "u.s. reports",
+        "eleemosynary",
+        "charitable purposes",
+        "corporations and associations",
+        "colleges",
+        "united states",
+        "law library",
+        "contracts",
+        "court opinions",
+        "charters",
+        "common law"
+      ],
+      "timestamp": "2025-09-17T20:07:20.187Z",
+      "title": "U.S. Reports: Dartmouth College v. Woodward., 17 U.S. (4 Wheat.) 518 (1819).",
+      "type": [
+        "periodical"
+      ],
+      "url": "https://www.loc.gov/item/usrep017518/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn96027351/1868-01-01/ed-1/",
+        "http://www.loc.gov/resource/sn96027351/1868-01-01/ed-1/"
+      ],
+      "batch": [
+        "ncu_appling_ver02"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "university of north carolina at chapel hill library, chapel hill, nc"
+      ],
+      "date": "1868-01-01",
+      "dates": [
+        "1868-01-01"
+      ],
+      "description": [
+        "Washington, D.C."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-08-12T17:31:13.321Z",
+      "group": [
+        "ndnp/ncu",
+        "university-of-north-carolina-chapel-hill-library-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn96027351/1868-01-01/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_appling_ver02:data:sn96027351:00332891613:1868010101:0001/full/pct:3.125/0/default.jpg#h=298&w=203",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_appling_ver02:data:sn96027351:00332891613:1868010101:0001/full/pct:6.25/0/default.jpg#h=597&w=407",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_appling_ver02:data:sn96027351:00332891613:1868010101:0001/full/pct:12.5/0/default.jpg#h=1194&w=815"
+      ],
+      "index": 27,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "district of columbia",
+        "washington",
+        "united states",
+        "washington d.c."
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "sn96027351",
+        "00332891613"
+      ],
+      "numeric_shelf_id": 186801011,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "chronicling america",
+        "national savings bank (washington, d.c.) 1868-18?? [online resource]"
+      ],
+      "publication_frequency": [
+        "monthly"
+      ],
+      "score": 10.330042,
+      "shelf_id": "sn96027351, 1868-01-01, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "washington (d.c.)",
+        "african american banks",
+        "african americans",
+        "washington",
+        "united states",
+        "african american",
+        "newspapers",
+        "district of columbia"
+      ],
+      "timestamp": "2023-08-12T19:43:38.893Z",
+      "title": "National savings bank (Washington, D.C.), January 1, 1868",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn96027351/1868-01-01/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/scsm001003/",
+        "https://hdl.loc.gov/loc.rbc/lprbscsm.scsm1003",
+        "http://www.loc.gov/resource/lprbscsm.scsm1003/",
+        "http://www.loc.gov/item/lprbscsm.scsm1003/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "lincoln, abraham"
+      ],
+      "date": "1863-12-08",
+      "dates": [
+        "1863-12-08"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-08-02T16:34:53.494Z",
+      "group": [
+        "scsm",
+        "alfred-whital-stern"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/scsm001003/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/rbc/lprbscsm/scsm1003/001q.gif",
+        "https://tile.loc.gov/storage-services/service/rbc/lprbscsm/scsm1003/001t.gif#h=236&w=150",
+        "https://tile.loc.gov/storage-services/service/rbc/lprbscsm/scsm1003/001q.gif#h=942&w=600",
+        "https://tile.loc.gov/storage-services/service/rbc/lprbscsm/scsm1003/001r.jpg#h=5766&w=3672"
+      ],
+      "index": 28,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "alabama",
+        "south carolina",
+        "north carolina",
+        "arkansas",
+        "georgia",
+        "washington d.c.",
+        "louisiana",
+        "washington",
+        "virginia",
+        "united states",
+        "texas",
+        "florida",
+        "tennessee",
+        "mississippi"
+      ],
+      "mime_type": [
+        "text/xml",
+        "image/jpeg",
+        "image/gif",
+        "application/xml",
+        "image/tiff",
+        "application/pdf"
+      ],
+      "online_format": [
+        "online text",
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "partof": [
+        "rare book and special collections division",
+        "the alfred whital stern collection of lincolniana",
+        "american memory"
+      ],
+      "score": 9.913617,
+      "shelf_id": "Portfolio 13, no. 17",
+      "subject": [
+        "lincoln, abraham",
+        "prisoners",
+        "broadsides",
+        "amnesty",
+        "proclamation",
+        "seward, william henry",
+        "education",
+        "slavery"
+      ],
+      "timestamp": "2022-08-02T17:13:16.241Z",
+      "title": "Proclamation. [Presidential powers to grant reprieves and pardons.]",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/scsm001003/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2021689102",
+        "http://www.loc.gov/item/2021689102/",
+        "https://hdl.loc.gov/loc.gdc/gdcwebcasts.130501pnp1200",
+        "http://www.loc.gov/resource/gdcwebcasts.130501pnp1200/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress. prints and photographs division",
+        "library of congress"
+      ],
+      "date": "2013",
+      "dates": [
+        "2013"
+      ],
+      "description": [
+        "An examination of comic drawings about French Salon paintings created by the famous photographer Nadar (a.k.a. Felix Tournachon, 1820-1910)."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-04-28T19:52:12.217Z",
+      "group": [
+        "gdc/webcasts",
+        "catalog-split-15",
+        "catalog",
+        "cataloged-event-videos",
+        "main-catalog-split-15"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2021689102/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gdc/gdcwebcasts/13/05/01/pn/p1/20/0/130501pnp1200/130501pnp1200_704.0_thumb.jpg"
+      ],
+      "index": 29,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "video/mp4",
+        "image/jpeg",
+        "application/xml"
+      ],
+      "number": [
+        "http://www.loc.gov/item/webcast-6197",
+        "online resource",
+        "2022-11-09t14:44:01",
+        "2021689102"
+      ],
+      "online_format": [
+        "video",
+        "image",
+        "online text"
+      ],
+      "original_format": [
+        "film, video"
+      ],
+      "partof": [
+        "general collections",
+        "prints and photographs division",
+        "event videos",
+        "catalog"
+      ],
+      "score": 8.610799,
+      "shelf_id": "http://lccn.loc.gov/2021689102",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "literature",
+        "culture, performing arts",
+        "education"
+      ],
+      "timestamp": "2025-05-09T16:04:08.846Z",
+      "title": "How to View an Exhibition from a Hot Air Balloon: Nadar at the Paris Salon",
+      "type": [
+        "moving image"
+      ],
+      "url": "https://www.loc.gov/item/2021689102/"
+    }
+  ],
+  "reproductions": "<h3>If Digital Images Are Displaying</h3>\n\n<p>You can download online images yourself.  Alternatively, you can purchase copies of various types through Library of Congress Duplication Services.</p>\n\n<p>HABS/HAER/HALS materials have generally been scanned at high resolution that is suitable for most publication purposes (see <a href=\"/ppoc/hh/resources/digitizing.html\">Digitizing the Collection</a> for further details about the digital images).</p>\n\n<ul>\n<p>\n<li><strong>Photographs--</strong>All photographs are printed from digital files to preserve the fragile originals.\n</li>\n<ul>\n<li>Make note of the Call Number and Item Number that appear under the photograph in the multiple-image display (e.g., HAER, NY,52-BRIG,4-2).\n</li>\n<li>If possible, include a printout of the photograph.\n</li>\n</ul>\n</p>\n\n<p>\n<li><strong>Drawings--</strong>All drawings are printed from digital files to preserve the fragile originals.\n</li>\n<ul>\n<li>Make note of the Survey Number (e.g., HAER NY - 143) and Sheet Number (e.g., &quot;Sheet 1 of 4&quot;), which appear on the edge of the drawing. (NOTE: These numbers are visible in the Tiff &quot;Reference Image&quot; display.)\n</li>\n<li>If possible, include a printout of the drawing. \n</li>\n</ul>\n</p>\n\n<p>\n<li><strong>Data Pages</strong>\n</li>\n<ul>\n<li>Make note of the Call Number in the catalog record.\n</li>\n</ul>\n</p>\n</ul>\n\n<h3>If Digital Images Are Not Displaying</h3>\n\n<p>In the rare case that a digital image for HABS/HAER/HALS documentation is not displaying online, select images for reproduction through one of these methods:</p>\n<ul>\n<p>\n<li>Visit the Prints & Photographs Reading Room and request to view the group (general information about service in the reading room is available at: <a href=\"https://www.loc.gov/rr/print/info/001_ref.html\">https://www.loc.gov/rr/print/info/001_ref.html</a>). It is best to contact reference staff in advance (see: <a href=\"https://www.loc.gov/rr/print/address.html\">https://www.loc.gov/rr/print/address.html</a>) to make sure the material is on site.  OR\n</li>\n</p>\n\n<p>\n<li>P&amp;P reading room staff can provide up to 15 quick copies of items per calendar year (many original items in the holdings are too old or fragile to make such copies, but generally HABS/HAER/HALS materials are in good enough condition to be placed on photocopy machines). For assistance, see our <a href=\"https://www.loc.gov/rr/askalib/ask-print.html\">Ask a Librarian</a> page OR\n</li>\n</p>\n\n<p>\n<li>Hire a freelance researcher to do further selection for you (a list of researchers in available at: <a href=\"https://www.loc.gov/rr/print/resource/013_pic.html\">https://www.loc.gov/rr/print/resource/013_pic.html</a>).\n</li>\n</p>\n\n<p>\n<li>You can purchase copies of various types, including quick copies, through Library of Congress Duplication Services (price lists, contact information, and order forms for Library of Congress Duplication Services are available on the <a href=\"https://www.loc.gov/duplicationservices/\">Duplication Services Web site</a>):\n</li>\n</p>\n\n<ul>\n<li>Make note of the Call Number listed above. \n</li>\n<li>Look at the Medium field above. If it lists more than one item: \n</li>\n<ul>\n<li>The entire group can be ordered as photocopies or high-quality copies. \n</li>\n<li>All the items in a particular medium (e.g., all drawings, all photographs) can be ordered as photocopies or high-quality copies.   \n</li>\n</ul>\n</ul>\n</ul>",
+  "resource": {
+    "caption": "Photos from Survey HABS DC-248 ",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/habshaer/dc/dc0100/dc0121/color/376695c_150px.jpg",
+    "segment_count": 43,
+    "url": "https://www.loc.gov/resource/hhh.dc0121.photos"
+  },
+  "resources": [
+    {
+      "caption": "Photos from Survey HABS DC-248 ",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/habshaer/dc/dc0100/dc0121/color/376695c_150px.jpg",
+      "segment_count": 43,
+      "url": "https://www.loc.gov/resource/hhh.dc0121.photos"
+    }
+  ],
+  "segments": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/hhh.dc0121.photos/?sp=24",
+        "http://www.loc.gov/resource/hhh.dc0121.photos.025394p"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "boucher, jack e",
+        "price, virginia b",
+        "smithmeyer & pelz",
+        "historic american buildings survey"
+      ],
+      "description": [
+        ""
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-01-13T19:18:12.022Z",
+      "group": [
+        "hh-0",
+        "habshaer-group-0"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/resource/hhh.dc0121.photos/?sp=24",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/dc/dc0100/dc0121/photos/025394p_150px.jpg#h=150&w=107",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/dc/dc0100/dc0121/photos/025394pr.jpg#h=640&w=457",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/dc/dc0100/dc0121/photos/025394pv.jpg#h=1024&w=732"
+      ],
+      "index": 24,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington",
+        "washington d.c."
+      ],
+      "mime_type": [
+        "image/tiff",
+        "image/jpg",
+        "image/jpeg",
+        "image/jpeg",
+        "application/json"
+      ],
+      "number": [
+        "0000000024"
+      ],
+      "number_page": [
+        "0000000024"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "prints and photographs division",
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey"
+      ],
+      "resources": [
+        {
+          "files": 1,
+          "url": "https://www.loc.gov/resource/hhh.dc0121.photos/?sp=24"
+        }
+      ],
+      "segmentof": [
+        "http://www.loc.gov/resource/hhh.dc0121.photos/"
+      ],
+      "shelf_id": "24",
+      "site": [
+        "pictures"
+      ],
+      "subject": [
+        "educational facilities",
+        "colleges",
+        "stone buildings",
+        "education"
+      ],
+      "timestamp": "2025-01-13T19:44:04.563Z",
+      "title": "23.   November 1969 RIGGS LIBRARY STACKS, THIRD FLOOR, SOUTH WING - Georgetown University, Healy Building, Thirty-seventh & O Streets, Northwest, Washington, District of Columbia, DC",
+      "type": [
+        "segment"
+      ],
+      "url": "https://www.loc.gov/resource/hhh.dc0121.photos/?sp=24"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1761845332544,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "viewer_pagination": {
+    "current": 24,
+    "first": "https://www.loc.gov/resource/hhh.dc0121.photos/?fo=json&sp=1",
+    "from": 24,
+    "last": "https://www.loc.gov/resource/hhh.dc0121.photos/?fo=json&sp=26",
+    "next": "https://www.loc.gov/resource/hhh.dc0121.photos/?fo=json&sp=25",
+    "of": 43,
+    "page_list": [
+      {
+        "number": 1,
+        "url": "https://www.loc.gov/resource/hhh.dc0121.photos/?fo=json&sp=1"
+      },
+      {
+        "number": "...",
+        "url": "https://www.loc.gov/resource/hhh.dc0121.photos/?fo=json&sp=21"
+      },
+      {
+        "number": 22,
+        "url": "https://www.loc.gov/resource/hhh.dc0121.photos/?fo=json&sp=22"
+      },
+      {
+        "number": 23,
+        "url": "https://www.loc.gov/resource/hhh.dc0121.photos/?fo=json&sp=23"
+      },
+      {
+        "number": 24,
+        "url": null
+      },
+      {
+        "number": 25,
+        "url": "https://www.loc.gov/resource/hhh.dc0121.photos/?fo=json&sp=25"
+      },
+      {
+        "number": 26,
+        "url": "https://www.loc.gov/resource/hhh.dc0121.photos/?fo=json&sp=26"
+      }
+    ],
+    "perpage": 1,
+    "perpage_options": [
+      25,
+      50,
+      100,
+      150
+    ],
+    "previous": "https://www.loc.gov/resource/hhh.dc0121.photos/?fo=json&sp=23",
+    "results": "24 - 24",
+    "to": 24,
+    "total": 43
+  },
+  "views": {
+    "brief": "https://www.loc.gov/resource/hhh.dc0121.photos/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/hhh.dc0121.photos/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/hhh.dc0121.photos/?fo=json&sp=1&st=gallery",
+    "grid": "https://www.loc.gov/resource/hhh.dc0121.photos/?fo=json&sp=1&st=grid",
+    "image": "https://www.loc.gov/resource/hhh.dc0121.photos/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/hhh.dc0121.photos/?fo=json&sp=1&st=list",
+    "pdf": "https://www.loc.gov/resource/hhh.dc0121.photos/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/hhh.dc0121.photos/?fo=json&sp=24",
+    "slideshow": "https://www.loc.gov/resource/hhh.dc0121.photos/?fo=json&sp=1&st=slideshow",
+    "text": "https://www.loc.gov/resource/hhh.dc0121.photos/?fo=json&sp=24&st=text"
+  }
+}

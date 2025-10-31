@@ -1,0 +1,1835 @@
+{
+  "articles_and_essays": [
+    {
+      "score": 6.5669255,
+      "title": "Postcards: Greetings from the Prints & Photographs Division",
+      "url": "https://guides.loc.gov/postcards"
+    }
+  ],
+  "cite_this": {
+    "apa": "Gilbert, C. <cite>Main public library building - Detroit</cite>. Detroit Michigan, None. [Brooklyn, n.y.: the albertype co., between 1921 and 1930?] [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2014647618/.",
+    "chicago": "Gilbert, Cass, Architect. <cite>Main public library building - Detroit</cite>. Detroit Michigan, None. [Brooklyn, n.y.: the albertype co., between 1921 and 1930?] Photograph. https://www.loc.gov/item/2014647618/.",
+    "mla": "Gilbert, Cass, Architect. <cite>Main public library building - Detroit</cite>. [Brooklyn, n.y.: the albertype co., between 1921 and 1930?] Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2014647618/&gt;."
+  },
+  "item": {
+    "_version_": 1768319195339030528,
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/2014647618/",
+      "http://www.loc.gov/item/2014647618/",
+      "http://www.loc.gov/pictures/item/2014647618/",
+      "https://www.loc.gov/pictures/collection/cph/item/2014647618/",
+      "http://www.loc.gov/pictures/collection/cph/item/2014647618/",
+      "https://hdl.loc.gov/loc.pnp/ds.06560",
+      "https://hdl.loc.gov/loc.pnp/ds.06560",
+      "http://www.loc.gov/resource/ds.06560/",
+      "http://lccn.loc.gov/2014647618"
+    ],
+    "call_number": "PCRD14, no. 171 [P&P]",
+    "campaigns": [],
+    "contributor_names": [
+      "Gilbert, Cass, 1859-1934, architect"
+    ],
+    "contributors": [
+      {
+        "gilbert, cass": "https://www.loc.gov/search/?fa=contributor:gilbert,+cass&fo=json"
+      }
+    ],
+    "control_number": "",
+    "created": "2023-06-06T06:30:58Z",
+    "created_published": [
+      "[Brooklyn, N.Y.] : [The Albertype Co.], [between 1921 and 1930?]"
+    ],
+    "created_published_date": "[between 1921 and 1930?]",
+    "date": "1921",
+    "dates": [
+      {
+        "1921": "https://www.loc.gov/search/?dates=1921/1921&fo=json"
+      }
+    ],
+    "description": [
+      "1 photograph : hand-colored collotype ; sheet 14 x 21 cm. | Photograph shows view of Carnegie library in Detroit, Michigan."
+    ],
+    "digital_id": [
+      "ds 06560 https://hdl.loc.gov/loc.pnp/ds.06560"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2023-06-10T12:35:59.658Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/cph/item/2014647618/#cph",
+      "http://lccn.loc.gov/2014647618#catalog-split-07"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Advertisements--1920-1930.",
+      "Architectural photographs--1920-1930.",
+      "Collotypes--Hand-colored--1920-1930.",
+      "Postcards--1920-1930."
+    ],
+    "genre": [
+      "Advertisements--1920-1930",
+      "Postcards--1920-1930",
+      "Architectural photographs--1920-1930",
+      "Collotypes--Hand-colored--1920-1930"
+    ],
+    "group": [
+      "cph",
+      "catalog-split-07",
+      "catalog",
+      "miscellaneous-items-high-demand",
+      "main-catalog-split-07",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2014647618/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06560_150px.jpg#h=107&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06560r.jpg#h=454&w=640",
+      "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06560v.jpg#h=727&w=1024"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "PCRD14, no. 171 [P&P]",
+      "contributor_names": [
+        "Gilbert, Cass, 1859-1934, architect "
+      ],
+      "contributors": [
+        "Gilbert, Cass, 1859-1934, architect"
+      ],
+      "control_number": "2014647618",
+      "created": "2023-06-06T06:30:58Z",
+      "created_published": "[Brooklyn, N.Y.] : [The Albertype Co.], [between 1921 and 1930?]",
+      "created_published_date": "[between 1921 and 1930?]",
+      "creators": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Gilbert%2C%20Cass%2C%201859-1934&co=cph",
+          "role": "architect",
+          "title": "Gilbert, Cass, 1859-1934"
+        }
+      ],
+      "date": "[between 1921 and 1930?]",
+      "digital_id": [
+        "ds 06560 https://hdl.loc.gov/loc.pnp/ds.06560"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Advertisements--1920-1930.&co=cph",
+          "title": "Advertisements--1920-1930."
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Architectural%20photographs--1920-1930.&co=cph",
+          "title": "Architectural photographs--1920-1930."
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Collotypes--Hand-colored--1920-1930.&co=cph",
+          "title": "Collotypes--Hand-colored--1920-1930."
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Postcards--1920-1930.&co=cph",
+          "title": "Postcards--1920-1930."
+        }
+      ],
+      "genre": [
+        "Advertisements--1920-1930",
+        "Postcards--1920-1930",
+        "Architectural photographs--1920-1930",
+        "Collotypes--Hand-colored--1920-1930"
+      ],
+      "id": "2014647618",
+      "language": [
+        "eng"
+      ],
+      "link": "https://www.loc.gov/pictures/item/2014647618/",
+      "location": [
+        "Michigan--Detroit"
+      ],
+      "marc": "https://www.loc.gov/pictures/item/2014647618/marc/",
+      "medium": [
+        "1 photograph : hand-colored collotype ; sheet 14 x 21 cm."
+      ],
+      "medium_brief": "1 photograph :",
+      "mediums": [
+        "1 photograph : hand-colored collotype ; sheet 14 x 21 cm."
+      ],
+      "modified": "2023-06-06T06:31:02Z",
+      "notes": [
+        "Title from item.",
+        "Includes advertisement for Berry Brothers, varnishes and paint specialties.",
+        "Library designed by Cass Gilbert.",
+        "(PR 06 CN 037)."
+      ],
+      "other_control_numbers": [
+        "18367073"
+      ],
+      "place": [
+        {
+          "latitude": "",
+          "link": "https://www.loc.gov/pictures/related/?fi=place&q=Michigan--Detroit&co=cph",
+          "longitude": "",
+          "title": "Michigan--Detroit"
+        }
+      ],
+      "raw_collections": [
+        "cph",
+        "diof",
+        "pp"
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "reproduction_number": "LC-DIG-ds-06560 (digital file from original item)",
+      "resource_links": [
+        "https://hdl.loc.gov/loc.pnp/ds.06560"
+      ],
+      "rights_advisory": "No known restrictions on publication.",
+      "rights_information": "No known restrictions on publication.",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06560_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06560r.jpg",
+      "sort_date": "1921",
+      "source_created": "2014-11-10T00:00:00Z",
+      "source_modified": "2023-05-31T07:54:19Z",
+      "subject_headings": [
+        "Detroit Public Library--Buildings--1920-1930.",
+        "Berry Brothers--Public relations--1920-1930.",
+        "Carnegie libraries--Michigan--Detroit--1920-1930.",
+        "Public libraries--Michigan--Detroit--1920-1930.",
+        "Michigan--Detroit"
+      ],
+      "subjects": [
+        "Detroit Public Library--Buildings--1920-1930",
+        "Berry Brothers--Public relations--1920-1930",
+        "Carnegie libraries--Michigan--Detroit--1920-1930",
+        "Public libraries--Michigan--Detroit--1920-1930"
+      ],
+      "summary": "Photograph shows view of Carnegie library in Detroit, Michigan.",
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06560_150px.jpg",
+      "title": "Main public library building - Detroit"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2014647618",
+    "link": "https://www.loc.gov/pictures/item/2014647618/",
+    "location": [
+      "detroit",
+      "michigan"
+    ],
+    "locations": [
+      {
+        "detroit": "https://www.loc.gov/search/?fa=location:detroit&fo=json"
+      },
+      {
+        "michigan": "https://www.loc.gov/search/?fa=location:michigan&fo=json"
+      }
+    ],
+    "marc": "https://www.loc.gov/pictures/item/2014647618/marc/",
+    "medium": [
+      "1 photograph : hand-colored collotype ; sheet 14 x 21 cm."
+    ],
+    "medium_brief": "1 photograph :",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2023-06-06T06:31:02Z",
+    "notes": [
+      "Title from item.",
+      "Includes advertisement for Berry Brothers, varnishes and paint specialties.",
+      "Library designed by Cass Gilbert.",
+      "(PR 06 CN 037)."
+    ],
+    "number": [
+      "2023-05-31t07:54:19",
+      "2014647618",
+      "http://www.loc.gov/item/18367073",
+      "sheet"
+    ],
+    "number_carrier_type": [
+      "sheet"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/18367073"
+    ],
+    "number_lccn": [
+      "2014647618"
+    ],
+    "number_source_modified": [
+      "2023-05-31t07:54:19"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "18367073"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2014647618/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2014647618/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2014647618/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 114856,
+        "title": "miscellaneous items in high demand",
+        "url": "https://www.loc.gov/search/?fa=partof:miscellaneous+items+in+high+demand&fo=json"
+      },
+      {
+        "count": 934445,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1105005,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1672342,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=Michigan--Detroit&co=cph",
+        "longitude": "",
+        "title": "Michigan--Detroit"
+      }
+    ],
+    "raw_collections": [
+      "cph",
+      "diof",
+      "pp"
+    ],
+    "related": {
+      "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=2014647618&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-DIG-ds-06560 (digital file from original item)",
+    "reproductions": [],
+    "resource_links": [
+      "https://hdl.loc.gov/loc.pnp/ds.06560"
+    ],
+    "resources": [
+      {
+        "caption": "digital file from original item",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06560_150px.jpg",
+        "url": "https://www.loc.gov/resource/ds.06560/"
+      }
+    ],
+    "rights": [],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "score": 19.262096,
+    "shard": "00",
+    "shelf_id": "PCRD14, no. 171 [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "1921",
+    "source_created": "2014-11-10T00:00:00Z",
+    "source_modified": "2000-01-01T12:00:00Z",
+    "subject": [
+      "berry brothers",
+      "advertisements",
+      "postcards",
+      "buildings",
+      "detroit public library",
+      "architectural photographs",
+      "hand-colored",
+      "carnegie libraries",
+      "michigan",
+      "public libraries",
+      "public relations",
+      "collotypes",
+      "detroit"
+    ],
+    "subject_headings": [
+      "Detroit Public Library--Buildings--1920-1930",
+      "Berry Brothers--Public relations--1920-1930",
+      "Carnegie libraries--Michigan--Detroit--1920-1930",
+      "Public libraries--Michigan--Detroit--1920-1930"
+    ],
+    "subjects": [
+      {
+        "advertisements": "https://www.loc.gov/search/?fa=subject:advertisements&fo=json"
+      },
+      {
+        "architectural photographs": "https://www.loc.gov/search/?fa=subject:architectural+photographs&fo=json"
+      },
+      {
+        "berry brothers": "https://www.loc.gov/search/?fa=subject:berry+brothers&fo=json"
+      },
+      {
+        "buildings": "https://www.loc.gov/search/?fa=subject:buildings&fo=json"
+      },
+      {
+        "carnegie libraries": "https://www.loc.gov/search/?fa=subject:carnegie+libraries&fo=json"
+      },
+      {
+        "collotypes": "https://www.loc.gov/search/?fa=subject:collotypes&fo=json"
+      },
+      {
+        "detroit": "https://www.loc.gov/search/?fa=subject:detroit&fo=json"
+      },
+      {
+        "detroit public library": "https://www.loc.gov/search/?fa=subject:detroit+public+library&fo=json"
+      },
+      {
+        "hand-colored": "https://www.loc.gov/search/?fa=subject:hand-colored&fo=json"
+      },
+      {
+        "michigan": "https://www.loc.gov/search/?fa=subject:michigan&fo=json"
+      },
+      {
+        "postcards": "https://www.loc.gov/search/?fa=subject:postcards&fo=json"
+      },
+      {
+        "public libraries": "https://www.loc.gov/search/?fa=subject:public+libraries&fo=json"
+      },
+      {
+        "public relations": "https://www.loc.gov/search/?fa=subject:public+relations&fo=json"
+      }
+    ],
+    "summary": "Photograph shows view of Carnegie library in Detroit, Michigan.",
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06560_150px.jpg",
+    "timestamp": "2023-06-10T12:36:39.712Z",
+    "title": "Main public library building - Detroit",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2014647618/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2014647617/",
+        "http://www.loc.gov/item/2014647617/",
+        "http://www.loc.gov/pictures/item/2014647617/",
+        "https://www.loc.gov/pictures/collection/cph/item/2014647617/",
+        "http://www.loc.gov/pictures/collection/cph/item/2014647617/",
+        "https://hdl.loc.gov/loc.pnp/ds.06561",
+        "https://hdl.loc.gov/loc.pnp/ds.06561",
+        "http://www.loc.gov/resource/ds.06561/",
+        "http://lccn.loc.gov/2014647617"
+      ],
+      "campaigns": [],
+      "date": "1909",
+      "dates": [
+        "1909"
+      ],
+      "description": [
+        "1 photograph : hand-colored collotype ; sheet 15 x 21 cm. | Photograph shows view of Carnegie library in El Paso, Texas."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-06-10T12:35:59.658Z",
+      "group": [
+        "cph",
+        "catalog-split-06",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-06",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2014647617/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06561_150px.jpg#h=116&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06561r.jpg#h=494&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06561v.jpg#h=791&w=1024"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "texas",
+        "el paso"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2014647617",
+        "http://www.loc.gov/item/18366965",
+        "2023-05-31t07:50:42",
+        "sheet"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "miscellaneous items in high demand",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division"
+      ],
+      "score": 51.567356,
+      "shelf_id": "PCRD14, no. 495 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "postcards",
+        "el paso public library (el paso, tex.)",
+        "buildings",
+        "texas",
+        "el paso",
+        "architectural photographs",
+        "hand-colored",
+        "carnegie libraries",
+        "public libraries",
+        "collotypes"
+      ],
+      "timestamp": "2023-06-10T12:36:39.712Z",
+      "title": "Public Library. El Paso, Texas",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2014647617/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2014650188/",
+        "http://www.loc.gov/item/2014650188/",
+        "http://www.loc.gov/pictures/item/2014650188/",
+        "https://www.loc.gov/pictures/collection/cph/item/2014650188/",
+        "http://www.loc.gov/pictures/collection/cph/item/2014650188/",
+        "http://www.loc.gov/resource/ds.06614/",
+        "http://lccn.loc.gov/2014650188",
+        "https://hdl.loc.gov/loc.pnp/ds.06614"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "gilbert, cass"
+      ],
+      "date": "1913-01-01",
+      "dates": [
+        "1913"
+      ],
+      "description": [
+        "1 drawing : photographic print ; sheet 34 x 41 cm. | Photograph of competition drawing shows library as elevation."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-25T13:36:24.577Z",
+      "group": [
+        "cph",
+        "catalog-split-03",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-03",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2014650188/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06600/06614_150px.jpg#h=123&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06600/06614r.jpg#h=524&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06600/06614v.jpg#h=838&w=1024"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "detroit",
+        "michigan"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2014-12-17t16:29:04",
+        "http://www.loc.gov/item/18409524",
+        "2014650188",
+        "sheet"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "miscellaneous items in high demand",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "lot 4484",
+        "catalog"
+      ],
+      "score": 49.294155,
+      "shelf_id": "LOT 4484 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "competition drawings",
+        "buildings",
+        "detroit public library",
+        "architectural drawings",
+        "photographic prints",
+        "michigan",
+        "public libraries",
+        "detroit"
+      ],
+      "timestamp": "2022-05-02T06:47:42.802Z",
+      "title": "The Detroit Public Library competition Front elevation.",
+      "url": "https://www.loc.gov/item/2014650188/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2014650189/",
+        "http://www.loc.gov/item/2014650189/",
+        "http://www.loc.gov/pictures/item/2014650189/",
+        "https://www.loc.gov/pictures/collection/cph/item/2014650189/",
+        "http://www.loc.gov/pictures/collection/cph/item/2014650189/",
+        "http://www.loc.gov/resource/ds.06613/",
+        "https://hdl.loc.gov/loc.pnp/ds.06613",
+        "http://lccn.loc.gov/2014650189"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "gilbert, cass"
+      ],
+      "date": "1913-01-01",
+      "dates": [
+        "1913"
+      ],
+      "description": [
+        "1 drawing : photographic print ; sheet 34 x 41 cm. | Photograph of competition drawing shows library as plan."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-24T20:36:36.758Z",
+      "group": [
+        "cph",
+        "catalog-split-04",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-04",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2014650189/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06600/06613_150px.jpg#h=150&w=131",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06600/06613r.jpg#h=640&w=560",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06600/06613v.jpg#h=1024&w=896"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "detroit",
+        "michigan"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2014-12-17t16:46:33",
+        "http://www.loc.gov/item/18409530",
+        "sheet",
+        "2014650189"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "miscellaneous items in high demand",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "lot 4484",
+        "catalog"
+      ],
+      "score": 49.294155,
+      "shelf_id": "LOT 4484 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "competition drawings",
+        "buildings",
+        "detroit public library",
+        "architectural drawings",
+        "photographic prints",
+        "michigan",
+        "public libraries",
+        "detroit"
+      ],
+      "timestamp": "2022-05-02T06:47:42.802Z",
+      "title": "The Detroit Public Library competition Second floor plan.",
+      "url": "https://www.loc.gov/item/2014650189/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2014650174/",
+        "http://www.loc.gov/item/2014650174/",
+        "http://www.loc.gov/pictures/item/2014650174/",
+        "https://www.loc.gov/pictures/collection/cph/item/2014650174/",
+        "http://www.loc.gov/pictures/collection/cph/item/2014650174/",
+        "http://www.loc.gov/resource/ds.06568/",
+        "http://lccn.loc.gov/2014650174",
+        "https://hdl.loc.gov/loc.pnp/ds.06568"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "clark, kenneth"
+      ],
+      "date": "1921-01-01",
+      "dates": [
+        "1921"
+      ],
+      "description": [
+        "1 photograph : gelatin silver print ; sheet 19 x 24 cm."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-24T20:36:36.758Z",
+      "group": [
+        "cph",
+        "catalog-split-14",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-14",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2014650174/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06568_150px.jpg#h=118&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06568r.jpg#h=501&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06568v.jpg#h=802&w=1024"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "detroit",
+        "michigan"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/18403976",
+        "2014650174",
+        "sheet",
+        "2015-06-11t16:41:17"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "miscellaneous items in high demand",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division"
+      ],
+      "score": 43.925564,
+      "shelf_id": "Unprocessed in PR 13 CN 2012:111, leaf 25 verso [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "gelatin silver prints",
+        "buildings",
+        "detroit public library",
+        "architectural photographs",
+        "michigan",
+        "fireplaces",
+        "detroit",
+        "libraries"
+      ],
+      "timestamp": "2022-05-02T06:47:42.802Z",
+      "title": "[Fireplace in children's room of the Detroit Public Library]",
+      "url": "https://www.loc.gov/item/2014650174/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2014650175/",
+        "http://www.loc.gov/item/2014650175/",
+        "http://www.loc.gov/pictures/item/2014650175/",
+        "https://www.loc.gov/pictures/collection/cph/item/2014650175/",
+        "http://www.loc.gov/pictures/collection/cph/item/2014650175/",
+        "http://www.loc.gov/resource/ds.06567/",
+        "http://lccn.loc.gov/2014650175",
+        "https://hdl.loc.gov/loc.pnp/ds.06567"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "clark, kenneth"
+      ],
+      "date": "1921-01-01",
+      "dates": [
+        "1921"
+      ],
+      "description": [
+        "1 photograph : gelatin silver print ; sheet 19 x 24 cm."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-24T20:36:36.758Z",
+      "group": [
+        "cph",
+        "catalog-split-15",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-15",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2014650175/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06567_150px.jpg#h=118&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06567r.jpg#h=502&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06567v.jpg#h=803&w=1024"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "detroit",
+        "michigan"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2014650175",
+        "http://www.loc.gov/item/18403985",
+        "2015-06-11t16:41:24",
+        "sheet"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "miscellaneous items in high demand",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division"
+      ],
+      "score": 43.925564,
+      "shelf_id": "Unprocessed in PR 13 CN 2012:111, leaf 25 verso [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "gelatin silver prints",
+        "buildings",
+        "detroit public library",
+        "architectural photographs",
+        "michigan",
+        "rooms & spaces",
+        "detroit",
+        "libraries"
+      ],
+      "timestamp": "2022-05-02T06:47:42.802Z",
+      "title": "[Children's room of the Detroit Public Library]",
+      "url": "https://www.loc.gov/item/2014650175/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2014650176/",
+        "http://www.loc.gov/item/2014650176/",
+        "http://www.loc.gov/pictures/item/2014650176/",
+        "https://www.loc.gov/pictures/collection/cph/item/2014650176/",
+        "http://www.loc.gov/pictures/collection/cph/item/2014650176/",
+        "http://www.loc.gov/resource/ds.06569/",
+        "http://lccn.loc.gov/2014650176",
+        "https://hdl.loc.gov/loc.pnp/ds.06569"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "clark, kenneth"
+      ],
+      "date": "1921-01-01",
+      "dates": [
+        "1921"
+      ],
+      "description": [
+        "1 photograph : gelatin silver print ; sheet 19 x 24 cm."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-24T20:36:36.758Z",
+      "group": [
+        "cph",
+        "catalog-split-00",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-00",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2014650176/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06569_150px.jpg#h=116&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06569r.jpg#h=493&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06569v.jpg#h=790&w=1024"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "detroit",
+        "michigan"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2015-06-11t16:41:11",
+        "http://www.loc.gov/item/18403992",
+        "2014650176",
+        "sheet"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "miscellaneous items in high demand",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division"
+      ],
+      "score": 43.925564,
+      "shelf_id": "Unprocessed in PR 13 CN 2012:111, leaf 23 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "gelatin silver prints",
+        "buildings",
+        "detroit public library",
+        "architectural photographs",
+        "reading rooms",
+        "michigan",
+        "detroit",
+        "libraries"
+      ],
+      "timestamp": "2022-05-02T06:47:42.802Z",
+      "title": "[Main reading room of the Detroit Public Library]",
+      "url": "https://www.loc.gov/item/2014650176/"
+    }
+  ],
+  "notice": {
+    "warning": "Due to the temporary shutdown of the federal government beginning October 1, 2025, all Library of Congress buildings are closed and all public events are canceled until further notice. <a href=\"/item/prn-25-a05/\">More</a>.\n"
+  },
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "cph",
+      "catalog-split-07",
+      "catalog",
+      "miscellaneous-items-high-demand",
+      "main-catalog-split-07",
+      "main-catalog",
+      "catalog-split-06",
+      "main-catalog-split-06",
+      "catalog-split-03",
+      "main-catalog-split-03",
+      "catalog-split-04",
+      "main-catalog-split-04",
+      "catalog-split-14",
+      "main-catalog-split-14",
+      "catalog-split-15",
+      "main-catalog-split-15",
+      "catalog-split-00",
+      "main-catalog-split-00",
+      "ndnp/dlc-2020_now",
+      "library-of-congress-washington-dc-awardee-8"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "ds.06560",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 1.1496529579162598,
+    "embed": [],
+    "embed!": [],
+    "error_response_status": null,
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/ds.06560/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/ds.06560/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1761844500.5162497,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 91776234,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/ds/06500/06560u.tif",
+      "width": 0
+    },
+    {
+      "height": 107,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 15740,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06560_150px.jpg",
+      "width": 150
+    },
+    {
+      "height": 454,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 85373,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06560r.jpg",
+      "width": 640
+    },
+    {
+      "height": 727,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 529763,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06560v.jpg",
+      "width": 1024
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=2014647618&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83016519/1900-01-13/ed-1/",
+        "http://www.loc.gov/resource/sn83016519/1900-01-13/ed-1/"
+      ],
+      "batch": [
+        "dlc_jean_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1900-01-13",
+      "dates": [
+        "1900-01-13"
+      ],
+      "description": [
+        "Detroit, Mich."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-08-07T20:32:31.197Z",
+      "group": [
+        "ndnp/dlc-2020_now",
+        "library-of-congress-washington-dc-awardee-8"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83016519/1900-01-13/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jean_ver01:data:sn83016519:00220720457:1900011301:0001/full/pct:3.125/0/default.jpg#h=303&w=209",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jean_ver01:data:sn83016519:00220720457:1900011301:0001/full/pct:6.25/0/default.jpg#h=607&w=418"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "wayne county",
+        "wayne",
+        "michigan",
+        "united states",
+        "detroit"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "sn83016519",
+        "00220720457",
+        "1"
+      ],
+      "numeric_shelf_id": 190001131,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "the detroit informer (detroit, mich.) 1897-19??",
+        "chronicling america",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 20.497524,
+      "shelf_id": "sn83016519, 1900-01-13, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "african american",
+        "wayne county (mich.)",
+        "wayne county",
+        "wayne",
+        "newspapers",
+        "michigan",
+        "african americans",
+        "detroit (mich.)",
+        "united states",
+        "african american newspapers",
+        "detroit"
+      ],
+      "timestamp": "2023-08-08T11:12:37.199Z",
+      "title": "The Detroit informer (Detroit, Mich.), January 13, 1900",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83016519/1900-01-13/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83016683/1893-04-07/ed-1/",
+        "http://www.loc.gov/resource/sn83016683/1893-04-07/ed-1/"
+      ],
+      "batch": [
+        "dlc_debaptiste_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1893-04-07",
+      "dates": [
+        "1893-04-07"
+      ],
+      "description": [
+        "Detroit, Mich."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-02-25T00:58:38.083Z",
+      "group": [
+        "ndnp/dlc-2020_now",
+        "library-of-congress-washington-dc-awardee-8"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83016683/1893-04-07/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016683:00211664241:1893040701:0149/full/pct:3.125/0/default.jpg#h=270&w=181",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016683:00211664241:1893040701:0149/full/pct:6.25/0/default.jpg#h=541&w=362",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016683:00211664241:1893040701:0149/full/pct:12.5/0/default.jpg#h=1083&w=724"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "wayne county",
+        "wayne",
+        "cincinnati",
+        "hamilton county",
+        "michigan",
+        "united states",
+        "ohio",
+        "hamilton",
+        "detroit"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00211664241",
+        "1",
+        "sn83016683"
+      ],
+      "numeric_shelf_id": 189304071,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "Plain dealer",
+        "Detroit plaindealer"
+      ],
+      "partof": [
+        "the plaindealer (detroit, mich.) 1883-1895",
+        "chronicling america",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 20.497524,
+      "shelf_id": "sn83016683, 1893-04-07, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "african american",
+        "wayne county (mich.)",
+        "wayne county",
+        "wayne",
+        "cincinnati",
+        "hamilton county",
+        "hamilton",
+        "newspapers",
+        "ohio",
+        "michigan",
+        "african americans",
+        "detroit (mich.)",
+        "cincinnati (ohio)",
+        "hamilton county (ohio)",
+        "african american newspapers",
+        "detroit",
+        "united states"
+      ],
+      "timestamp": "2024-02-25T01:40:42.543Z",
+      "title": "The plaindealer (Detroit, Mich.), April 7, 1893",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83016683/1893-04-07/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83016683/1893-04-14/ed-1/",
+        "http://www.loc.gov/resource/sn83016683/1893-04-14/ed-1/"
+      ],
+      "batch": [
+        "dlc_debaptiste_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1893-04-14",
+      "dates": [
+        "1893-04-14"
+      ],
+      "description": [
+        "Detroit, Mich."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-02-25T00:58:38.083Z",
+      "group": [
+        "ndnp/dlc-2020_now",
+        "library-of-congress-washington-dc-awardee-8"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83016683/1893-04-14/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016683:00211664241:1893041401:0157/full/pct:3.125/0/default.jpg#h=270&w=180",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016683:00211664241:1893041401:0157/full/pct:6.25/0/default.jpg#h=541&w=361",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016683:00211664241:1893041401:0157/full/pct:12.5/0/default.jpg#h=1083&w=723"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "wayne county",
+        "wayne",
+        "cincinnati",
+        "hamilton county",
+        "michigan",
+        "united states",
+        "ohio",
+        "hamilton",
+        "detroit"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00211664241",
+        "1",
+        "sn83016683"
+      ],
+      "numeric_shelf_id": 189304141,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "Plain dealer",
+        "Detroit plaindealer"
+      ],
+      "partof": [
+        "the plaindealer (detroit, mich.) 1883-1895",
+        "chronicling america",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 20.497524,
+      "shelf_id": "sn83016683, 1893-04-14, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "african american",
+        "wayne county (mich.)",
+        "wayne county",
+        "wayne",
+        "cincinnati",
+        "hamilton county",
+        "hamilton",
+        "newspapers",
+        "ohio",
+        "michigan",
+        "african americans",
+        "detroit (mich.)",
+        "cincinnati (ohio)",
+        "hamilton county (ohio)",
+        "african american newspapers",
+        "detroit",
+        "united states"
+      ],
+      "timestamp": "2024-02-25T01:40:42.543Z",
+      "title": "The plaindealer (Detroit, Mich.), April 14, 1893",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83016683/1893-04-14/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83016683/1893-05-19/ed-1/",
+        "http://www.loc.gov/resource/sn83016683/1893-05-19/ed-1/"
+      ],
+      "batch": [
+        "dlc_debaptiste_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1893-05-19",
+      "dates": [
+        "1893-05-19"
+      ],
+      "description": [
+        "Detroit, Mich."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-02-25T00:58:38.083Z",
+      "group": [
+        "ndnp/dlc-2020_now",
+        "library-of-congress-washington-dc-awardee-8"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83016683/1893-05-19/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016683:00211664241:1893051901:0197/full/pct:3.125/0/default.jpg#h=270&w=180",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016683:00211664241:1893051901:0197/full/pct:6.25/0/default.jpg#h=540&w=360",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016683:00211664241:1893051901:0197/full/pct:12.5/0/default.jpg#h=1080&w=720"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "wayne county",
+        "wayne",
+        "cincinnati",
+        "hamilton county",
+        "michigan",
+        "united states",
+        "ohio",
+        "hamilton",
+        "detroit"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00211664241",
+        "1",
+        "sn83016683"
+      ],
+      "numeric_shelf_id": 189305191,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "Plain dealer",
+        "Detroit plaindealer"
+      ],
+      "partof": [
+        "the plaindealer (detroit, mich.) 1883-1895",
+        "chronicling america",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 20.497524,
+      "shelf_id": "sn83016683, 1893-05-19, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "african american",
+        "wayne county (mich.)",
+        "wayne county",
+        "wayne",
+        "cincinnati",
+        "hamilton county",
+        "hamilton",
+        "newspapers",
+        "ohio",
+        "michigan",
+        "african americans",
+        "detroit (mich.)",
+        "cincinnati (ohio)",
+        "hamilton county (ohio)",
+        "african american newspapers",
+        "detroit",
+        "united states"
+      ],
+      "timestamp": "2024-02-25T01:40:42.543Z",
+      "title": "The plaindealer (Detroit, Mich.), May 19, 1893",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83016683/1893-05-19/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83016683/1893-03-31/ed-1/",
+        "http://www.loc.gov/resource/sn83016683/1893-03-31/ed-1/"
+      ],
+      "batch": [
+        "dlc_debaptiste_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1893-03-31",
+      "dates": [
+        "1893-03-31"
+      ],
+      "description": [
+        "Detroit, Mich."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-02-25T00:58:38.083Z",
+      "group": [
+        "ndnp/dlc-2020_now",
+        "library-of-congress-washington-dc-awardee-8"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83016683/1893-03-31/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016683:00211664241:1893033101:0141/full/pct:3.125/0/default.jpg#h=269&w=182",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016683:00211664241:1893033101:0141/full/pct:6.25/0/default.jpg#h=539&w=364",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016683:00211664241:1893033101:0141/full/pct:12.5/0/default.jpg#h=1078&w=728"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "wayne county",
+        "wayne",
+        "cincinnati",
+        "hamilton county",
+        "michigan",
+        "united states",
+        "ohio",
+        "hamilton",
+        "detroit"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00211664241",
+        "1",
+        "sn83016683"
+      ],
+      "numeric_shelf_id": 189303311,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "Plain dealer",
+        "Detroit plaindealer"
+      ],
+      "partof": [
+        "the plaindealer (detroit, mich.) 1883-1895",
+        "chronicling america",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 20.497524,
+      "shelf_id": "sn83016683, 1893-03-31, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "african american",
+        "wayne county (mich.)",
+        "wayne county",
+        "wayne",
+        "cincinnati",
+        "hamilton county",
+        "hamilton",
+        "newspapers",
+        "ohio",
+        "michigan",
+        "african americans",
+        "detroit (mich.)",
+        "cincinnati (ohio)",
+        "hamilton county (ohio)",
+        "african american newspapers",
+        "detroit",
+        "united states"
+      ],
+      "timestamp": "2024-02-25T01:40:42.543Z",
+      "title": "The plaindealer (Detroit, Mich.), March 31, 1893",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83016683/1893-03-31/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83016683/1893-04-21/ed-1/",
+        "http://www.loc.gov/resource/sn83016683/1893-04-21/ed-1/"
+      ],
+      "batch": [
+        "dlc_debaptiste_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1893-04-21",
+      "dates": [
+        "1893-04-21"
+      ],
+      "description": [
+        "Detroit, Mich."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-02-25T00:58:38.083Z",
+      "group": [
+        "ndnp/dlc-2020_now",
+        "library-of-congress-washington-dc-awardee-8"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83016683/1893-04-21/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016683:00211664241:1893042101:0165/full/pct:3.125/0/default.jpg#h=271&w=182",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016683:00211664241:1893042101:0165/full/pct:6.25/0/default.jpg#h=543&w=364",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016683:00211664241:1893042101:0165/full/pct:12.5/0/default.jpg#h=1086&w=728"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "wayne county",
+        "wayne",
+        "cincinnati",
+        "hamilton county",
+        "michigan",
+        "united states",
+        "ohio",
+        "hamilton",
+        "detroit"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00211664241",
+        "1",
+        "sn83016683"
+      ],
+      "numeric_shelf_id": 189304211,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "Plain dealer",
+        "Detroit plaindealer"
+      ],
+      "partof": [
+        "the plaindealer (detroit, mich.) 1883-1895",
+        "chronicling america",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 20.497524,
+      "shelf_id": "sn83016683, 1893-04-21, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "african american",
+        "wayne county (mich.)",
+        "wayne county",
+        "wayne",
+        "cincinnati",
+        "hamilton county",
+        "hamilton",
+        "newspapers",
+        "ohio",
+        "michigan",
+        "african americans",
+        "detroit (mich.)",
+        "cincinnati (ohio)",
+        "hamilton county (ohio)",
+        "african american newspapers",
+        "detroit",
+        "united states"
+      ],
+      "timestamp": "2024-02-25T01:40:42.543Z",
+      "title": "The plaindealer (Detroit, Mich.), April 21, 1893",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83016683/1893-04-21/ed-1/"
+    }
+  ],
+  "reproductions": "<p>If an image is displaying, you can download it yourself. (Some images \ndisplay only as thumbnails outside the Library of Congress because of rights \nconsiderations, but you have access to larger size images on site.)\n</p>\n\n<p>  \nAlternatively, you can purchase copies of various types through Library \nof Congress Duplication Services</a>.\n</p>\n\n<p> \n<ol>\n<p>\n<li><strong>If a digital image is displaying:</strong> The qualities of the digital image \npartially depend on whether it was made from the original or an \nintermediate such as a copy negative or transparency. If the Reproduction \nNumber field above includes a reproduction number that starts with \nLC-DIG..., then there is a digital image that was made directly \nfrom the original and is of sufficient resolution for most publication\n purposes.\n</li> \n</p>\n\n<li><strong>If there is information listed in the Reproduction Number field above:</strong> \nYou can use the reproduction number to purchase a copy from Duplication \nServices.  It will be made from the source listed in the parentheses after\n the number.  \n<p> \nIf only black-and-white (&quot;b&w&quot;) sources are listed and you \n desire a copy showing color or tint (assuming the original has any), \n you can generally purchase a quality copy of the original in color by \n citing the Call Number listed above and including the catalog record \n (&quot;About This Item&quot;) with your request.\n </p>\n</li>\n\n<li><strong>If there is no information listed in the Reproduction Number field \nabove:</strong> You can generally purchase a quality copy through \nDuplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \n your request.\n</li>\n</ol>\n</p>\n\n<p> \nPrice lists, contact information, and order forms are available on the\n <a href=\"https://www.loc.gov/duplicationservices/\">Duplication Services Web site</a>.  \n</p>\n\n\n\n",
+  "resource": {
+    "caption": "digital file from original item",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06560_150px.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/ds.06560/"
+  },
+  "resources": [
+    {
+      "caption": "digital file from original item",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06560_150px.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/ds.06560/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1761844501666,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/ds.06560/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/ds.06560/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/ds.06560/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/ds.06560/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/ds.06560/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/ds.06560/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/ds.06560/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/ds.06560/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/ds.06560/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/ds.06560/?fo=json&st=text"
+  }
+}

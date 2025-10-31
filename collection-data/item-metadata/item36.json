@@ -1,0 +1,1835 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "Highsmith, C. M., photographer. (2015) <cite>The public library in Shepherdstown, West Virginia</cite>. West Virginia United States Shepherdstown, 2015. -04-29. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2015631425/.",
+    "chicago": "Highsmith, Carol M, photographer. <cite>The public library in Shepherdstown, West Virginia</cite>. West Virginia United States Shepherdstown, 2015. -04-29. Photograph. https://www.loc.gov/item/2015631425/.",
+    "mla": "Highsmith, Carol M, photographer. <cite>The public library in Shepherdstown, West Virginia</cite>. -04-29. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2015631425/&gt;."
+  },
+  "item": {
+    "_version_": 1730908078895792128,
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/2015631425/",
+      "http://www.loc.gov/item/2015631425/",
+      "http://www.loc.gov/pictures/item/2015631425/",
+      "https://www.loc.gov/pictures/collection/highsm/item/2015631425/",
+      "http://www.loc.gov/pictures/collection/highsm/item/2015631425/",
+      "http://www.loc.gov/resource/highsm.31350/",
+      "https://hdl.loc.gov/loc.pnp/highsm.31350",
+      "http://lccn.loc.gov/2015631425"
+    ],
+    "call_number": "LC-DIG-highsm- 31350 (ONLINE) [P&P]",
+    "campaigns": [],
+    "contributor_names": [
+      "Highsmith, Carol M., 1946-, photographer"
+    ],
+    "contributors": [
+      {
+        "highsmith, carol m.": "https://www.loc.gov/search/?fa=contributor:highsmith,+carol+m.&fo=json"
+      }
+    ],
+    "control_number": "",
+    "created": "2017-05-30T03:46:10Z",
+    "created_published": [
+      "2015-04-29."
+    ],
+    "created_published_date": "2015-04-29.",
+    "date": "2015-01-01",
+    "dates": [
+      {
+        "2015": "https://www.loc.gov/search/?dates=2015/2015&fo=json"
+      }
+    ],
+    "description": [
+      "1 photograph : digital, tiff file, color."
+    ],
+    "digital_id": [
+      "highsm 31350 //hdl.loc.gov/loc.pnp/highsm.31350"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-08-31T00:17:04.427Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/highsm/item/2015631425/#highsm",
+      "http://lccn.loc.gov/2015631425#catalog-split-13"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Digital photographs--Color--2010-2020."
+    ],
+    "genre": [
+      "Digital photographs--Color--2010-2020"
+    ],
+    "group": [
+      "highsm",
+      "catalog-split-13",
+      "catalog",
+      "carol-m-highsmith",
+      "main-catalog-split-13",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2015631425/",
+    "image_url": [
+      "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:31300:31350/full/pct:6.25/0/default.jpg#h=307&w=410",
+      "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:31300:31350/full/pct:12.5/0/default.jpg#h=614&w=821",
+      "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:31300:31350/full/pct:25/0/default.jpg#h=1228&w=1642"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "LC-DIG-highsm- 31350 (ONLINE) [P&P]",
+      "contributors": [
+        "Highsmith, Carol M., 1946- photographer."
+      ],
+      "control_number": "2015631425",
+      "created": "2017-05-30T03:46:10Z",
+      "created_published": "2015-04-29.",
+      "created_published_date": "2015-04-29.",
+      "creators": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Highsmith%2C%20Carol%20M.%2C%201946-&co=highsm",
+          "role": "photographer",
+          "title": "Highsmith, Carol M., 1946-"
+        }
+      ],
+      "date": "2015-04-29.",
+      "digital_id": [
+        "highsm 31350 //hdl.loc.gov/loc.pnp/highsm.31350"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Digital%20photographs--Color--2010-2020.&co=highsm",
+          "title": "Digital photographs--Color--2010-2020."
+        }
+      ],
+      "genre": [
+        "Digital photographs--Color--2010-2020"
+      ],
+      "id": "2015631425",
+      "language": [
+        "eng"
+      ],
+      "link": "https://www.loc.gov/pictures/item/2015631425/",
+      "marc": "https://www.loc.gov/pictures/item/2015631425/marc/",
+      "medium": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "medium_brief": "1 photograph :",
+      "mediums": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "modified": "2017-05-30T03:46:10Z",
+      "notes": [
+        "Title, date and keywords based on information provided by the photographer.",
+        "The town built the structure as a market house in 1800. In 1845 the International Order of Odd Fellows added the second story in exchange for a 999-year lease. After the town market closed in 1854, the town enclosed the stalls with brick exterior walls, and the building became a firehouse. In 1926, the Shepherdstown Women's Club obtained permission to use the building as a library, sharing the premises for some years with the town jail. The Shepherdstown Library, Inc. had the Odd Fellows' 999 year lease voided in 1962. A unique characteristic of the building remains the Odd Fellows' symbol of the Seeing Eye, peering at passersby from a semi-circular niche above the front door. Some say the eye moves.",
+        "Credit line: West Virginia Collection within the Carol M. Highsmith Archive, Library of Congress, Prints and Photographs Division.",
+        "Purchase; Carol M. Highsmith Photography, Inc.; 2015; (DLC/PP-2015:055).",
+        "Forms part of: West Virginia Collection within the Carol M. Highsmith Archive."
+      ],
+      "number_former_id": [
+        "https://www.loc.gov/item/2015631425",
+        "https://www.loc.gov/item/hig2015001426"
+      ],
+      "other_control_numbers": [
+        "18708010",
+        "hig2015001426"
+      ],
+      "part_of": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+      "place": [
+        {
+          "latitude": "",
+          "link": "https://www.loc.gov/pictures/related/?fi=place&q=West%20Virginia--Shepherdstown&co=highsm",
+          "longitude": "",
+          "title": "West Virginia--Shepherdstown"
+        }
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "reproduction_number": "LC-DIG-highsm-31350 (original digital file)",
+      "resource_links": [
+        "//hdl.loc.gov/loc.pnp/highsm.31350"
+      ],
+      "rights_advisory": "No known restrictions on publication.",
+      "rights_information": "No known restrictions on publication.",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/highsm/31300/31350_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/highsm/31300/31350r.jpg",
+      "sort_date": "2015",
+      "source_collection": [
+        "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
+      ],
+      "source_created": "2015-07-15T00:00:00Z",
+      "source_modified": "2017-05-24T14:23:27Z",
+      "subject_headings": [
+        "United States--West Virginia--Shepherdstown.",
+        "America",
+        "Shepherdstown Public Library",
+        "Public libraries",
+        "libraries",
+        "Shepherdstown Market House",
+        "Odd Fellows",
+        "West Virginia--Shepherdstown"
+      ],
+      "subjects": [
+        "United States--West Virginia--Shepherdstown",
+        "America",
+        "Shepherdstown Public Library",
+        "Public libraries",
+        "Libraries",
+        "Shepherdstown Market House",
+        "Odd Fellows"
+      ],
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/highsm/31300/31350_150px.jpg",
+      "title": "The public library in Shepherdstown, West Virginia"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2015631425",
+    "link": "https://www.loc.gov/pictures/item/2015631425/",
+    "location": [
+      "west virginia",
+      "united states",
+      "shepherdstown"
+    ],
+    "location_city": [
+      "shepherdstown"
+    ],
+    "location_country": [
+      "united states"
+    ],
+    "location_state": [
+      "west virginia"
+    ],
+    "locations": [
+      {
+        "shepherdstown": "https://www.loc.gov/search/?fa=location:shepherdstown&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+      },
+      {
+        "west virginia": "https://www.loc.gov/search/?fa=location:west+virginia&fo=json"
+      }
+    ],
+    "locations_city": [
+      {
+        "shepherdstown": "https://www.loc.gov/search/?fa=location_city:shepherdstown&fo=json"
+      }
+    ],
+    "locations_country": [
+      {
+        "united states": "https://www.loc.gov/search/?fa=location_country:united+states&fo=json"
+      }
+    ],
+    "locations_state": [
+      {
+        "west virginia": "https://www.loc.gov/search/?fa=location_state:west+virginia&fo=json"
+      }
+    ],
+    "marc": "https://www.loc.gov/pictures/item/2015631425/marc/",
+    "medium": [
+      "1 photograph : digital, tiff file, color."
+    ],
+    "medium_brief": "1 photograph :",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2017-05-30T03:46:10Z",
+    "notes": [
+      "Title, date and keywords based on information provided by the photographer.",
+      "The town built the structure as a market house in 1800. In 1845 the International Order of Odd Fellows added the second story in exchange for a 999-year lease. After the town market closed in 1854, the town enclosed the stalls with brick exterior walls, and the building became a firehouse. In 1926, the Shepherdstown Women's Club obtained permission to use the building as a library, sharing the premises for some years with the town jail. The Shepherdstown Library, Inc. had the Odd Fellows' 999 year lease voided in 1962. A unique characteristic of the building remains the Odd Fellows' symbol of the Seeing Eye, peering at passersby from a semi-circular niche above the front door. Some say the eye moves.",
+      "Credit line: West Virginia Collection within the Carol M. Highsmith Archive, Library of Congress, Prints and Photographs Division.",
+      "Purchase; Carol M. Highsmith Photography, Inc.; 2015; (DLC/PP-2015:055).",
+      "Forms part of: West Virginia Collection within the Carol M. Highsmith Archive."
+    ],
+    "number": [
+      "2017-05-24t14:23:27",
+      "http://www.loc.gov/item/hig2015001426",
+      "online resource",
+      "http://www.loc.gov/item/18708010",
+      "http://www.loc.gov/item/2015631425",
+      "2015631425"
+    ],
+    "number_carrier_type": [
+      "online resource"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/18708010",
+      "http://www.loc.gov/item/hig2015001426",
+      "http://www.loc.gov/item/2015631425"
+    ],
+    "number_lccn": [
+      "2015631425"
+    ],
+    "number_source_modified": [
+      "2017-05-24t14:23:27"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "18708010",
+      "hig2015001426"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2015631425/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2015631425/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2015631425/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 70224,
+        "title": "highsmith (carol m.) archive",
+        "url": "https://www.loc.gov/collections/carol-m-highsmith/?fo=json"
+      },
+      {
+        "count": 934445,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1105005,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1672342,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=West%20Virginia--Shepherdstown&co=highsm",
+        "longitude": "",
+        "title": "West Virginia--Shepherdstown"
+      }
+    ],
+    "related": {
+      "neighbors": "https://www.loc.gov/pictures/related/?&co=highsm&pk=2015631425&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-DIG-highsm-31350 (original digital file)",
+    "reproductions": [
+      "<p>Some images in this collection are described in groups; others are  described individually. In some cases, all of the images in the  group display online, in other cases they do not. </p>\r\n<p>You can download online images yourself.  Alternatively, you can  purchase copies of various types. </p>\r\n<ol class=\"margin-bottom-double-li\">\r\n\t<li><strong>Determine whether the desired materials can be retrieved  online.</strong>\r\n\t\t<ul class=\"plain margin-bottom-single-li\">\r\n\t\t\t<li>Look in the <strong>Medium</strong> field above to determine whether  the description is for one photograph or more than one.</li>\r\n\t\t\t<li>If the description is for a single item and it is displaying, you can download or purchase a print.  Cite the number that begins  with \"LC-DIG...\" when purchasing copies through Library of Congress Duplication Services. </li>\r\n\t\t\t<li>If the description is for more than one item and there is  a \"Click for more images\" icon displaying, select that.  Individual images will display; you can download or purchase prints.  Cite the number that begins with \"LC-DIG...\" when purchasing  copies through Library of Congress Duplication Services. </li>\r\n\t\t\t<li>If the description is for more than one item and there is no \"Click for more images\" icon displaying, return to the \"About this Item\" tab and select the \"<em>Check for online items from this group</em>\" link.  Then select the \"Obtaining Copies\" tab for any retrieved items that are of interest. </li>\r\n\t\t</ul>\r\n\t</li>\r\n\t<li><strong>If the images do not display online</strong> -- Select images for reproduction through one of these methods:\r\n\t\t<ul class=\"plain margin-bottom-single-li\">\r\n\t\t\t<li>Visit the Prints &amp; Photographs Reading Room and request to view  the group (general information about service in the reading room is  available at: <a href=\"https://www.loc.gov/rr/print/info/001_ref.html\">https://www.loc.gov/rr/print/info/001_ref.html</a>).</li>\r\n\t\t\t<li>P&amp;P reading room staff can provide up to 15 photocopies of items  per calendar year. (Color images cannot be photocopied.) For assistance,  see our <a href=\"https://ask.loc.gov/prints-photographs/\">Ask a Librarian</a> page. OR</li>\r\n\t\t\t<li>Hire a freelance researcher to do further selection for you  (a list of researchers is available at: <a href=\"https://www.loc.gov/rr/print/resource/013_pic.html\">https://www.loc.gov/rr/print/resource/013_pic.html</a>). </li>\r\n\t\t</ul>\r\n\t</li>\r\n</ol>\r\n<h4>Purchasing Copies</h4>\r\n<p>Library of Congress Duplication Services can make copies of various  types from images in Prints &amp; Photographs Division Collections.   Price lists, contact information, and order forms are available on the <a href=\"https://www.loc.gov/preserv/pds/\">Duplication Services Web site</a>.</p>\r\n<p>Carol M. Highsmith sells prints of her photographs at: <a target=\"_blank\" href=\"http://photographsamerica.com/\">http://photographsamerica.com/ <i class=\"icon icon-external-link\"><span>External</span></i></a> .</p>\r\n"
+    ],
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/highsm.31350"
+    ],
+    "resources": [
+      {
+        "caption": "original digital file",
+        "files": 1,
+        "image": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:31300:31350/full/pct:6.25/0/default.jpg",
+        "url": "https://www.loc.gov/resource/highsm.31350/"
+      }
+    ],
+    "rights": [
+      "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"https://www.loc.gov/rr/print/res/482_high.html\">Carol M. Highsmith - Rights and Restrictions Information</a> </p>\n\n"
+    ],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "score": 19.262096,
+    "shard": "00",
+    "shelf_id": "LC-DIG-highsm- 31350 (ONLINE) [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "2015",
+    "source_collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+    "source_created": "2015-07-15T00:00:00Z",
+    "source_modified": "2017-05-24T14:23:27Z",
+    "subject": [
+      "digital photographs",
+      "shepherdstown public library",
+      "public libraries",
+      "color",
+      "shepherdstown",
+      "shepherdstown market house",
+      "united states",
+      "america",
+      "odd fellows",
+      "libraries",
+      "west virginia"
+    ],
+    "subject_headings": [
+      "United States--West Virginia--Shepherdstown",
+      "America",
+      "Shepherdstown Public Library",
+      "Public libraries",
+      "Libraries",
+      "Shepherdstown Market House",
+      "Odd Fellows"
+    ],
+    "subjects": [
+      {
+        "america": "https://www.loc.gov/search/?fa=subject:america&fo=json"
+      },
+      {
+        "color": "https://www.loc.gov/search/?fa=subject:color&fo=json"
+      },
+      {
+        "digital photographs": "https://www.loc.gov/search/?fa=subject:digital+photographs&fo=json"
+      },
+      {
+        "libraries": "https://www.loc.gov/search/?fa=subject:libraries&fo=json"
+      },
+      {
+        "odd fellows": "https://www.loc.gov/search/?fa=subject:odd+fellows&fo=json"
+      },
+      {
+        "public libraries": "https://www.loc.gov/search/?fa=subject:public+libraries&fo=json"
+      },
+      {
+        "shepherdstown": "https://www.loc.gov/search/?fa=subject:shepherdstown&fo=json"
+      },
+      {
+        "shepherdstown market house": "https://www.loc.gov/search/?fa=subject:shepherdstown+market+house&fo=json"
+      },
+      {
+        "shepherdstown public library": "https://www.loc.gov/search/?fa=subject:shepherdstown+public+library&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+      },
+      {
+        "west virginia": "https://www.loc.gov/search/?fa=subject:west+virginia&fo=json"
+      }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/highsm/31300/31350_150px.jpg",
+    "timestamp": "2022-04-23T14:02:58.419Z",
+    "title": "The public library in Shepherdstown, West Virginia",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2015631425/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2015631436/",
+        "http://www.loc.gov/item/2015631436/",
+        "http://www.loc.gov/pictures/item/2015631436/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2015631436/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2015631436/",
+        "http://www.loc.gov/resource/highsm.31361/",
+        "https://hdl.loc.gov/loc.pnp/highsm.31361",
+        "http://lccn.loc.gov/2015631436"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2015-01-01",
+      "dates": [
+        "2015"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-31T00:31:11.446Z",
+      "group": [
+        "highsm",
+        "catalog-split-15",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-15",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2015631436/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:31300:31361/full/pct:6.25/0/default.jpg#h=283&w=307",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:31300:31361/full/pct:12.5/0/default.jpg#h=566&w=614",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:31300:31361/full/pct:25/0/default.jpg#h=1133&w=1228",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:31300:31361/full/pct:50/0/default.jpg#h=2266&w=2456"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "west virginia",
+        "shepherdstown",
+        "united states",
+        "jefferson county"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/2015631436",
+        "http://www.loc.gov/item/18708031",
+        "online resource",
+        "2015631436",
+        "http://www.loc.gov/item/hig2015001437",
+        "2017-05-08t13:13:47"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "highsmith (carol m.) archive",
+        "catalog"
+      ],
+      "score": 45.605152,
+      "shelf_id": "LC-DIG-highsm- 31361 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "fire damage",
+        "digital photographs",
+        "jefferson county",
+        "color",
+        "shepherdstown",
+        "mcquilken house",
+        "united states",
+        "america",
+        "west virginia"
+      ],
+      "timestamp": "2022-04-23T14:02:58.419Z",
+      "title": "The McQuilken House, destroyed by fire, outside Shepherdstown in Jefferson County, West Virginia",
+      "url": "https://www.loc.gov/item/2015631436/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2015631426/",
+        "http://www.loc.gov/item/2015631426/",
+        "http://www.loc.gov/pictures/item/2015631426/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2015631426/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2015631426/",
+        "http://www.loc.gov/resource/highsm.31351/",
+        "https://hdl.loc.gov/loc.pnp/highsm.31351",
+        "http://lccn.loc.gov/2015631426"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2015-01-01",
+      "dates": [
+        "2015"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-31T05:12:26.230Z",
+      "group": [
+        "highsm",
+        "catalog-split-14",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-14",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2015631426/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:31300:31351/full/pct:6.25/0/default.jpg#h=250&w=425",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:31300:31351/full/pct:12.5/0/default.jpg#h=501&w=850",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:31300:31351/full/pct:25/0/default.jpg#h=1003&w=1700"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "west virginia",
+        "united states",
+        "shepherdstown"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/hig2015001427",
+        "2015-07-21t14:01:37",
+        "online resource",
+        "2015631426",
+        "http://www.loc.gov/item/2015631426",
+        "http://www.loc.gov/item/18708013"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "highsmith (carol m.) archive",
+        "catalog"
+      ],
+      "score": 45.605152,
+      "shelf_id": "LC-DIG-highsm- 31351 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "street views",
+        "digital photographs",
+        "color",
+        "shepherdstown",
+        "united states",
+        "america",
+        "west virginia"
+      ],
+      "timestamp": "2022-04-23T14:02:58.419Z",
+      "title": "Street view of Shepherdstown, West Virginia",
+      "url": "https://www.loc.gov/item/2015631426/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2015631427/",
+        "http://www.loc.gov/item/2015631427/",
+        "http://www.loc.gov/pictures/item/2015631427/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2015631427/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2015631427/",
+        "http://www.loc.gov/resource/highsm.31352/",
+        "http://lccn.loc.gov/2015631427",
+        "https://hdl.loc.gov/loc.pnp/highsm.31352"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2015-01-01",
+      "dates": [
+        "2015"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-31T05:12:26.230Z",
+      "group": [
+        "highsm",
+        "catalog-split-15",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-15",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2015631427/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:31300:31352/full/pct:6.25/0/default.jpg#h=264&w=460",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:31300:31352/full/pct:12.5/0/default.jpg#h=529&w=920",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:31300:31352/full/pct:25/0/default.jpg#h=1059&w=1840"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "west virginia",
+        "united states",
+        "shepherdstown"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/18708015",
+        "http://www.loc.gov/item/2015631427",
+        "2015631427",
+        "2015-07-21t14:01:45",
+        "online resource",
+        "http://www.loc.gov/item/hig2015001428"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "highsmith (carol m.) archive",
+        "catalog"
+      ],
+      "score": 45.605152,
+      "shelf_id": "LC-DIG-highsm- 31352 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "street views",
+        "digital photographs",
+        "color",
+        "shepherdstown",
+        "united states",
+        "america",
+        "west virginia"
+      ],
+      "timestamp": "2022-04-23T14:02:58.419Z",
+      "title": "Street view of Shepherdstown, West Virginia",
+      "url": "https://www.loc.gov/item/2015631427/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2015631428/",
+        "http://www.loc.gov/item/2015631428/",
+        "http://www.loc.gov/pictures/item/2015631428/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2015631428/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2015631428/",
+        "http://www.loc.gov/resource/highsm.31353/",
+        "http://lccn.loc.gov/2015631428",
+        "https://hdl.loc.gov/loc.pnp/highsm.31353"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2015-01-01",
+      "dates": [
+        "2015"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-31T05:12:26.230Z",
+      "group": [
+        "highsm",
+        "catalog-split-00",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-00",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2015631428/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:31300:31353/full/pct:6.25/0/default.jpg#h=307&w=460",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:31300:31353/full/pct:12.5/0/default.jpg#h=614&w=920",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:31300:31353/full/pct:25/0/default.jpg#h=1228&w=1840"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "west virginia",
+        "united states",
+        "shepherdstown"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/hig2015001429",
+        "online resource",
+        "http://www.loc.gov/item/18708017",
+        "2015631428",
+        "2015-07-21t14:01:53",
+        "http://www.loc.gov/item/2015631428"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "highsmith (carol m.) archive",
+        "catalog"
+      ],
+      "score": 45.605152,
+      "shelf_id": "LC-DIG-highsm- 31353 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "episcopal cemetery",
+        "digital photographs",
+        "color",
+        "shepherdstown",
+        "united states",
+        "america",
+        "cemeteries",
+        "west virginia"
+      ],
+      "timestamp": "2022-04-23T14:02:58.419Z",
+      "title": "Headstones at the Episcopal Cemetery in Shepherdstown, West Virginia, which contains the graves of several members of the founding families",
+      "url": "https://www.loc.gov/item/2015631428/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2015631429/",
+        "http://www.loc.gov/item/2015631429/",
+        "http://www.loc.gov/pictures/item/2015631429/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2015631429/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2015631429/",
+        "http://www.loc.gov/resource/highsm.31354/",
+        "https://hdl.loc.gov/loc.pnp/highsm.31354",
+        "http://lccn.loc.gov/2015631429"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2015-01-01",
+      "dates": [
+        "2015"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-31T02:39:14.166Z",
+      "group": [
+        "highsm",
+        "catalog-split-01",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-01",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2015631429/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:31300:31354/full/pct:6.25/0/default.jpg#h=263&w=307",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:31300:31354/full/pct:12.5/0/default.jpg#h=526&w=614",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:31300:31354/full/pct:25/0/default.jpg#h=1052&w=1228",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:31300:31354/full/pct:50/0/default.jpg#h=2105&w=2456"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "west virginia",
+        "united states",
+        "shepherdstown"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/2015631429",
+        "2015631429",
+        "2015-07-21t13:58:15",
+        "http://www.loc.gov/item/hig2015001430",
+        "online resource",
+        "http://www.loc.gov/item/18708019"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "highsmith (carol m.) archive",
+        "catalog"
+      ],
+      "score": 45.605152,
+      "shelf_id": "LC-DIG-highsm- 31354 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "digital photographs",
+        "thomas van swearingen",
+        "chapline-shenton house",
+        "color",
+        "shepherdstown",
+        "united states",
+        "america",
+        "west virginia",
+        "historic houses"
+      ],
+      "timestamp": "2022-04-23T14:02:58.419Z",
+      "title": "The Chapline-Shenton House, built in the late 1790s in Shepherdstown, West Virginia",
+      "url": "https://www.loc.gov/item/2015631429/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2015631430/",
+        "http://www.loc.gov/item/2015631430/",
+        "http://www.loc.gov/pictures/item/2015631430/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2015631430/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2015631430/",
+        "http://www.loc.gov/resource/highsm.31355/",
+        "https://hdl.loc.gov/loc.pnp/highsm.31355",
+        "http://lccn.loc.gov/2015631430"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2015-01-01",
+      "dates": [
+        "2015"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-30T23:47:41.186Z",
+      "group": [
+        "highsm",
+        "catalog-split-09",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-09",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2015631430/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:31300:31355/full/pct:6.25/0/default.jpg#h=460&w=307",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:31300:31355/full/pct:12.5/0/default.jpg#h=920&w=614",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:31300:31355/full/pct:25/0/default.jpg#h=1840&w=1228"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "west virginia",
+        "united states",
+        "shepherdstown"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/2015631430",
+        "http://www.loc.gov/item/18708021",
+        "online resource",
+        "2017-06-21t13:57:15",
+        "2015631430",
+        "http://www.loc.gov/item/hig2015001431"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "highsmith (carol m.) archive",
+        "catalog"
+      ],
+      "score": 45.605152,
+      "shelf_id": "LC-DIG-highsm- 31355 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "james rumsey",
+        "digital photographs",
+        "rumsey monument",
+        "color",
+        "shepherdstown",
+        "a.r. boteler",
+        "steamboats",
+        "robert fulton",
+        "united states",
+        "america",
+        "west virginia"
+      ],
+      "timestamp": "2022-04-23T14:02:58.419Z",
+      "title": "The Rumsey Monument, honoring inventor James Rumsey, in Shepherdstown, West Virginia",
+      "url": "https://www.loc.gov/item/2015631430/"
+    }
+  ],
+  "notice": {
+    "warning": "Due to the temporary shutdown of the federal government beginning October 1, 2025, all Library of Congress buildings are closed and all public events are canceled until further notice. <a href=\"/item/prn-25-a05/\">More</a>.\n"
+  },
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "highsm",
+      "catalog-split-13",
+      "catalog",
+      "carol-m-highsmith",
+      "main-catalog-split-13",
+      "main-catalog",
+      "catalog-split-15",
+      "main-catalog-split-15",
+      "catalog-split-14",
+      "main-catalog-split-14",
+      "catalog-split-00",
+      "main-catalog-split-00",
+      "catalog-split-01",
+      "main-catalog-split-01",
+      "catalog-split-09",
+      "main-catalog-split-09",
+      "ndnp/newspapers",
+      "united-states-newspaper-directory",
+      "newspaper-titles",
+      "catalog-split-03",
+      "main-catalog-split-03",
+      "afc/ofp/2021010",
+      "rural-free-delivery"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "highsm.31350",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.7958061695098877,
+    "embed": [],
+    "embed!": [],
+    "error_response_status": null,
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/highsm.31350/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/highsm.31350/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1761844763.85152,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 307,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:31300:31350/full/pct:6.25/0/default.jpg",
+      "width": 410
+    },
+    {
+      "height": 614,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:31300:31350/full/pct:12.5/0/default.jpg",
+      "width": 821
+    },
+    {
+      "height": 1228,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:31300:31350/full/pct:25/0/default.jpg",
+      "width": 1642
+    },
+    {
+      "height": 4912,
+      "info": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:31300:31350/info.json",
+      "levels": 7,
+      "mimetype": "image/jp2",
+      "size": 7811376,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/highsm/31300/31350.jp2",
+      "width": 6571
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=highsm&pk=2015631425&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/2018218570/"
+      ],
+      "campaigns": [],
+      "date": "1849",
+      "dates": [
+        "[1849 TO 1955]"
+      ],
+      "description": [
+        "Weekly Began with vol. 1, no. 1 (December 4, 1849); ceased December 22, 1955. Editors: Hardy & McAnly, Dec. 4, 1849; McAnly, May 28, 1850; McAnly and Entler, June 5, 1850; John. H. Zittle, Nov., 1853-Nov., 1882; J.W. & H.L. Snyder, 1882-1884; H.L. Snyder, Oct. 1884-1935; William B. Snyder, 1935- 1942; Martha White Snyder, 1942-1948; William B. Snyder, 1948-Dec. 22, 1955. Publisher: H.L. Snyder, <January 5-December 21, 1922>. Issued a special centennial edition, Dec. 4, 1949 in four sections. Suspended Dec. 10, 1852-1853, and June 15, 1861-July 15, 1865. Vol. 1, no. 1 (December 4, 1849); title from masthead (Chroniclingamerica.loc.gov, viewed January 17, 2018). New vol. 58, no. 51 (December 21, 1922) (Chroniclingamerica.loc.gov, viewed January 17, 2018)."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-30T15:10:23.884Z",
+      "group": [
+        "ndnp/newspapers",
+        "united-states-newspaper-directory"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2018218570/",
+      "image_url": [],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "jefferson",
+        "west virginia",
+        "united states",
+        "shepherdstown"
+      ],
+      "number": [
+        "1022851067",
+        "2024-12-20t12:37:18.550397",
+        "online resource",
+        "2576-5752",
+        "2018218570"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "Shepherdstown register and Jefferson County advertiser"
+      ],
+      "partof": [
+        "shepherdstown register (shepherdstown, va. [w. va.]) 1849-1955 [online resource]",
+        "directory of u.s. newspapers in american libraries",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 27.60989,
+      "shelf_id": "ISSN RECORD",
+      "site": [
+        "usnd"
+      ],
+      "subject": [
+        "shepherdstown (w. va.)",
+        "shepherdstown",
+        "jefferson",
+        "united states",
+        "west virginia",
+        "newspapers"
+      ],
+      "timestamp": "2025-03-17T22:02:45.378Z",
+      "title": "Shepherdstown register",
+      "type": [
+        "title"
+      ],
+      "url": "https://www.loc.gov/item/2018218570/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn84026824/",
+        "http://lccn.loc.gov/sn84026824"
+      ],
+      "batch": [
+        "wvu_antares_ver02"
+      ],
+      "campaigns": [],
+      "date": "1849",
+      "description": [
+        "Weekly Vol. 1, no. 1 (Dec. 4, 1849)-v. 91, no. 50 (Dec. 22, 1955). Editors: Hardy & McAnly, Dec. 4, 1849; McAnly, May 28, 1850; McAnly and Entler, June 5, 1850; John. H. Zittle, Nov., 1853-Nov., 1882; J.W. & H.L. Snyder, 1882-1884; H.L. Snyder, Oct. 1884-1935; William B. Snyder, 1935- 1942; Martha White Snyder, 1942-1948; William B. Snyder, 1948-Dec. 22, 1955. Issued a special centennial edition, Dec. 4, 1949 in four sections. Suspended Dec. 10, 1852-1853, and June 15, 1861-July 15, 1865. Archived issues are available in digital format from the Library of Congress Chronicling America online collection."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-09-30T14:37:10.870Z",
+      "group": [
+        "newspaper-titles",
+        "ndnp/newspapers",
+        "catalog-split-03",
+        "catalog",
+        "united-states-newspaper-directory",
+        "main-catalog-split-03"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/sn84026824/",
+      "image_url": [],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "latlong": [
+        39.430374,
+        -77.804289
+      ],
+      "location": [
+        "jefferson",
+        "west virginia",
+        "united states",
+        "shepherdstown"
+      ],
+      "location_str": "",
+      "lonlat": [
+        -77.804289,
+        39.430374
+      ],
+      "number": [
+        "library of congress",
+        "2024-12-20t12:37:18.550397",
+        "2576-5744",
+        "marshall univ",
+        "library of virginia, the",
+        "http://www.loc.gov/item/sn84026824/1849-12-04/ed-1/",
+        "west virginia newsp proj",
+        "2025-06-25t14:22:34",
+        "college of william & mary",
+        "sn84026824",
+        "10691893",
+        "microform",
+        "original",
+        "virginia historical society library",
+        "microfilm service copy",
+        "duke univ libr",
+        "3354",
+        "univ of virginia",
+        "online resource",
+        "new york hist soc, newsp proj",
+        "glenville state col",
+        "american antiquarian soc, newsp proj",
+        "union psce",
+        "maryland newsp proj, washington cnty",
+        "2025-05-01t17:23:53.740884",
+        "http://www.loc.gov/item/sn84026824/1922-12-21/ed-1/"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "Shepherdstown register and Jefferson County advertiser"
+      ],
+      "partof": [
+        "chronicling america",
+        "shepherdstown register (shepherdstown, va. [w. va.]) 1849-1955",
+        "directory of u.s. newspapers in american libraries",
+        "serial and government publications division",
+        "catalog"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 27.60989,
+      "shelf_id": "Newspaper",
+      "site": [
+        "chroniclingamerica",
+        "usnd",
+        "catalog"
+      ],
+      "subject": [
+        "shepherdstown (w. va.)",
+        "https://id.oclc.org/worldcat/entity/e39pbjwd6hhtqrbwvbgg6rycfq",
+        "shepherdstown",
+        "jefferson",
+        "united states",
+        "west virginia",
+        "newspapers"
+      ],
+      "timestamp": "2025-10-19T03:30:51.550Z",
+      "title": "Shepherdstown register",
+      "type": [
+        "title"
+      ],
+      "url": "https://www.loc.gov/item/sn84026824/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn84038410/",
+        "http://lccn.loc.gov/sn84038410",
+        "https://search.catalog.loc.gov/instances/4f4bcd22-3a6f-503c-8e94-dd31a0c8b7de"
+      ],
+      "batch": [
+        "wvu_kerr_ver01"
+      ],
+      "campaigns": [],
+      "date": "1790",
+      "description": [
+        "Weekly Began with: Vol. 1, no. 1 (Nov. 15, 1790); ceased with: Jan. 15, 1798. Published as: The Potomak guardian, and Berkeley advertiser, Feb 23, 1795-Jan. 15, 1798. Published at Martinsburg, Va. [W. Va.] <1792>-Jan. 15, 1798. Available on microfilm from Bell & Howell, Micro Photo Div. Archived issues are available in digital format from the Library of Congress Chronicling America online collection. Vol. 1, no. 1 (November 15, 1790); title from masthead (Surrogate). Vol. 1, no. 33 (June 27, 1791). Potomak guardian (DLC)sn 84038399 (OCoLC)11304004"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-09-30T14:37:12.775Z",
+      "group": [
+        "newspaper-titles",
+        "ndnp/newspapers",
+        "catalog-split-13",
+        "catalog",
+        "united-states-newspaper-directory",
+        "main-catalog-split-13"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/sn84038410/",
+      "image_url": [],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "latlong": [
+        39.430374,
+        -77.804289
+      ],
+      "location": [
+        "martinsburg",
+        "berkeley",
+        "shepherdstown",
+        "jefferson",
+        "united states",
+        "west virginia"
+      ],
+      "location_str": "",
+      "lonlat": [
+        -77.804289,
+        39.430374
+      ],
+      "number": [
+        "new york pub libr res libr",
+        "2024-12-20t12:37:18.550397",
+        "sn84038399",
+        "library of virginia, the",
+        "west virginia newsp proj",
+        "http://www.loc.gov/item/sn84038410/1790-11-15/ed-1/",
+        "2995-1518",
+        "original",
+        "virginia historical society library",
+        "microfilm service copy",
+        "263",
+        "omohundro inst early am hist & culture",
+        "online resource",
+        "11306063",
+        "sn84038410",
+        "harvard univ, houghton libr",
+        "2025-07-01t13:27:34.800000",
+        "american antiquarian soc, newsp proj",
+        "new york state libr",
+        "boston pub libr",
+        "univ of kentucky libr",
+        "http://www.loc.gov/item/sn84038410/1797-12-28/ed-1/",
+        "microfilm master",
+        "2025-05-23t21:30:26",
+        "microform"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "Potomak guardian and Berkeley advertiser",
+        "Issues from May 3, 1791- have title: Potowmac guardian and Berkeley advertiser"
+      ],
+      "partof": [
+        "the potowmac guardian, and berkeley advertiser (shepherdstown, va. [w. va.]) 1790-1798",
+        "chronicling america",
+        "the patowmac guardian, and berkeley advertiser (shepherdstown, va. [w. va.]) 1790-1798",
+        "directory of u.s. newspapers in american libraries",
+        "serial and government publications division",
+        "catalog"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 27.60989,
+      "shelf_id": "Newspaper",
+      "site": [
+        "chroniclingamerica",
+        "usnd",
+        "catalog"
+      ],
+      "subject": [
+        "martinsburg (w. va.)",
+        "martinsburg",
+        "berkeley",
+        "shepherdstown",
+        "jefferson",
+        "https://id.oclc.org/worldcat/entity/e39pbjjhjqqbq44c9pvvkdfxh3",
+        "united states",
+        "west virginia",
+        "newspapers"
+      ],
+      "timestamp": "2025-10-19T16:53:19.169Z",
+      "title": "The Patowmac guardian, and Berkeley advertiser",
+      "type": [
+        "title"
+      ],
+      "url": "https://www.loc.gov/item/sn84038410/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2023270724",
+        "http://www.loc.gov/item/2023270724/"
+      ],
+      "campaigns": [],
+      "date": "1790",
+      "dates": [
+        "[1790 TO 1798]"
+      ],
+      "description": [
+        "Weekly Began with: Vol. 1, no. 1 (Nov. 15, 1790); ceased with: Jan. 15, 1798. Published as: The Potomak guardian, and Berkeley advertiser, Feb 23, 1795-Jan. 15, 1798. Published at Martinsburg, Va. [W. Va.] <1792>-Jan. 15, 1798. Print version record. Vol. 1, no. 33 (June 27, 1791) (hdl.loc.gov, viewed March 12, 2025). Potomak guardian"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-03-14T05:53:33.211Z",
+      "group": [
+        "catalog-split-13",
+        "catalog",
+        "main-catalog-split-13"
+      ],
+      "hassegments": false,
+      "id": "http://lccn.loc.gov/2023270724",
+      "image_url": [],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "martinsburg",
+        "berkeley",
+        "shepherdstown",
+        "jefferson",
+        "united states",
+        "west virginia"
+      ],
+      "number": [
+        "2023270724",
+        "online resource",
+        "2995-1526",
+        "2025-03-12t10:07:34",
+        "n1433694311"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "Potomak guardian and Berkeley advertiser",
+        "Issues from May 3, 1791- have title: Potowmac guardian and Berkeley advertiser"
+      ],
+      "partof": [
+        "the patowmac guardian, and berkeley advertiser (shepherdstown, va. [w. va.]) 1790-1798 [online resource]",
+        "catalog"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 24.820187,
+      "shelf_id": "ISSN RECORD",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "martinsburg (w. va.)",
+        "martinsburg",
+        "berkeley",
+        "shepherdstown",
+        "jefferson",
+        "united states",
+        "west virginia",
+        "newspapers"
+      ],
+      "timestamp": "2025-03-14T05:55:29.980Z",
+      "title": "The Patowmac guardian, and Berkeley advertiser",
+      "type": [
+        "newspaper"
+      ],
+      "url": "//lccn.loc.gov/2023270724"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2023655396",
+        "http://www.loc.gov/item/2023655396/",
+        "https://hdl.loc.gov/loc.afc/afc2021010.afc2021010_016_sr01",
+        "http://www.loc.gov/resource/afc2021010.afc2021010_016_sr01/",
+        "http://www.loc.gov/resource/afc2021010.afc2021010_016_ph/",
+        "http://www.loc.gov/resource/afc2021010.afc2021010_016_ms01/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "hilliard, emily",
+        "thomason, tim",
+        "occupational folklife project"
+      ],
+      "date": "2022",
+      "dates": [
+        "2022"
+      ],
+      "description": [
+        "Tim Thomason (b.1958, Princeton, West Virginia) is a retired rural mail carrier living in his hometown of Princeton, West Virginia. He became a rural mail carrier in the Princeton area in 1988 and retired in April of 2021 at the age of 62. He delivered on the same route (in Summers and Mercer County) for 31 years. Thomason is the former state president of the West Virginia chapter of the National Rural Letter Carriers' Association. He has served as a union steward for over 20 years and is currently on the union's Legislative Committee."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-01-16T06:52:57.238Z",
+      "group": [
+        "catalog-split-09",
+        "catalog",
+        "afc/ofp/2021010",
+        "main-catalog-split-09",
+        "rural-free-delivery"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2023655396/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2021010:afc2021010_016:afc2021010_016_ph:afc2021010_016_ph01/full/pct:6.25/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2021010:afc2021010_016:afc2021010_016_ph:afc2021010_016_ph01/full/pct:6.25/0/default.jpg#h=228&w=342",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2021010:afc2021010_016:afc2021010_016_ph:afc2021010_016_ph01/full/pct:12.5/0/default.jpg#h=456&w=684",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2021010:afc2021010_016:afc2021010_016_ph:afc2021010_016_ph01/full/pct:25/0/default.jpg#h=912&w=1368",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2021010:afc2021010_016:afc2021010_016_ph:afc2021010_016_ph01/full/pct:50/0/default.jpg#h=1824&w=2736",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2021010:afc2021010_016:afc2021010_016_ph:afc2021010_016_ph01/full/pct:100/0/default.jpg#h=3648&w=5472"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "appalachian region",
+        "west virginia",
+        "united states",
+        "princeton"
+      ],
+      "mime_type": [
+        "image/jpeg",
+        "image/jp2",
+        "audio/mp3",
+        "image/gif",
+        "audio/wav",
+        "application/pdf"
+      ],
+      "number": [
+        "2023-11-17t15:02:10",
+        "2023655396",
+        "online resource",
+        "2025-01-14t08:23:40"
+      ],
+      "online_format": [
+        "image",
+        "audio",
+        "pdf"
+      ],
+      "original_format": [
+        "sound recording"
+      ],
+      "partof": [
+        "american folklife center",
+        "occupational folklife project",
+        "rural free delivery: mail carriers in central appalachia, 2021-2022",
+        "catalog"
+      ],
+      "score": 21.765951,
+      "shelf_id": "http://lccn.loc.gov/2023655396",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "country life",
+        "job satisfaction",
+        "letter carriers",
+        "rural free delivery",
+        "contracting out",
+        "west virginia",
+        "equipment and supplies",
+        "labor disputes",
+        "oral histories",
+        "covid-19 pandemic",
+        "interviews",
+        "customer relations",
+        "postal service",
+        "appalachian region",
+        "transportation, automotive",
+        "digital photographs",
+        "automation",
+        "influence",
+        "civil service",
+        "employees",
+        "occupational training",
+        "rural conditions",
+        "collective bargaining",
+        "color",
+        "labor unions",
+        "thomason, tim",
+        "united states",
+        "sound recordings",
+        "national rural letter carriers' association",
+        "personal narratives"
+      ],
+      "timestamp": "2025-01-16T06:54:37.826Z",
+      "title": "Tim Thomason interview conducted by Emily Hilliard, 2022-02-28",
+      "type": [
+        "sound recording-nonmusical"
+      ],
+      "url": "https://www.loc.gov/item/2023655396/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2023655400",
+        "http://www.loc.gov/item/2023655400/",
+        "https://hdl.loc.gov/loc.afc/afc2021010.afc2021010_020_sr01",
+        "http://www.loc.gov/resource/afc2021010.afc2021010_020_sr01/",
+        "http://www.loc.gov/resource/afc2021010.afc2021010_020_ph/",
+        "http://www.loc.gov/resource/afc2021010.afc2021010_020_ms01/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "hilliard, emily",
+        "presar, jeremy d.",
+        "occupational folklife project"
+      ],
+      "date": "2022",
+      "dates": [
+        "2022"
+      ],
+      "description": [
+        "Jeremy Presar (b. 1969 Buckhannon, West Virginia) has been a rural mail carrier out of French Creek, West Virginia, for 6 years. He delivered Route 1 for two years and is on his fourth year of Route 2, which is a 70-mile route with approximately 600 boxes. Presar, who is bi-racial, spoke about racism and bigotry from some customers, how work with the Postal Service compares to his previous work in logistics and deliveries for private companies, encounters with wildlife, including bears, while on the route, and the importance of the Postal Service in rural communities."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-12-12T19:12:31.663Z",
+      "group": [
+        "afc/ofp/2021010",
+        "rural-free-delivery"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2023655400/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2021010:afc2021010_020:afc2021010_020_ph:afc2021010_020_ph01/full/pct:6.25/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2021010:afc2021010_020:afc2021010_020_ph:afc2021010_020_ph01/full/pct:6.25/0/default.jpg#h=228&w=342",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2021010:afc2021010_020:afc2021010_020_ph:afc2021010_020_ph01/full/pct:12.5/0/default.jpg#h=456&w=684",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2021010:afc2021010_020:afc2021010_020_ph:afc2021010_020_ph01/full/pct:25/0/default.jpg#h=912&w=1368",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2021010:afc2021010_020:afc2021010_020_ph:afc2021010_020_ph01/full/pct:50/0/default.jpg#h=1824&w=2736",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2021010:afc2021010_020:afc2021010_020_ph:afc2021010_020_ph01/full/pct:100/0/default.jpg#h=3648&w=5472"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "buckhannon",
+        "appalachian region",
+        "west virginia",
+        "united states"
+      ],
+      "mime_type": [
+        "image/jpeg",
+        "image/jp2",
+        "audio/mp3",
+        "image/gif",
+        "audio/wav",
+        "application/pdf"
+      ],
+      "number": [
+        "2023655400",
+        "online resource",
+        "2023-11-17t14:59:59"
+      ],
+      "online_format": [
+        "image",
+        "audio",
+        "pdf"
+      ],
+      "original_format": [
+        "sound recording"
+      ],
+      "partof": [
+        "american folklife center",
+        "occupational folklife project",
+        "rural free delivery: mail carriers in central appalachia, 2021-2022",
+        "catalog"
+      ],
+      "score": 21.765951,
+      "shelf_id": "http://lccn.loc.gov/2023655400",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "country life",
+        "job satisfaction",
+        "letter carriers",
+        "harassment",
+        "rural free delivery",
+        "industrial safety",
+        "west virginia",
+        "oral histories",
+        "presar, jeremy d.",
+        "interviews",
+        "customer relations",
+        "career changes",
+        "postal service",
+        "appalachian region",
+        "transportation, automotive",
+        "digital photographs",
+        "automation",
+        "uniforms",
+        "diversity in the workplace",
+        "employees",
+        "occupational training",
+        "rural conditions",
+        "racism in the workplace",
+        "discrimination in employment",
+        "color",
+        "labor unions",
+        "united states",
+        "sound recordings",
+        "personal narratives"
+      ],
+      "timestamp": "2023-12-12T19:13:25.946Z",
+      "title": "Jeremy Presar interview conducted by Emily Hilliard, 2022-03-20",
+      "type": [
+        "sound recording-nonmusical"
+      ],
+      "url": "https://www.loc.gov/item/2023655400/"
+    }
+  ],
+  "reproductions": "<p>\nSome images in this collection are described in groups; others are \ndescribed individually. In some cases, all of the images in the \ngroup display online, in other cases they do not.\n</p>\n\n<p>\nYou can download online images yourself.  Alternatively, you can \npurchase copies of various types.\n</p>\n\n<ol>\n<p>\t\n<strong><li>Determine whether the desired materials can be retrieved \nonline.</strong>\n</p>\n<ul>\n<p>\t\n<li>Look in the <strong>Medium</strong> field above to determine whether\n the description is for one photograph or more than one.</li>\n </p>\n <p>\n<li>If the description is for a single item and it is displaying, \nyou can download or purchase a print.  Cite the number that begins \nwith &quot;LC-DIG...&quot; when purchasing copies through Library of \nCongress Duplication Services.\n</p>\n<p>\n<li>If the description is for more than one item and there is \na &quot;Click for more images&quot; icon displaying, select that. \nIndividual images will display; you can download or purchase prints. \nCite the number that begins with &quot;LC-DIG...&quot; when purchasing \ncopies through Library of Congress Duplication Services.\n</p>\n<p>\n<li>If the description is for more than one item and there is no\n &quot;Click for more images&quot; icon displaying, return to the\n  &quot;About this Item&quot; tab and select the &quot;<i>Check for \n  online items from this group</i>&quot; link.  Then select the \n  \"Obtaining Copies\" tab for any retrieved items that are of interest.\n</p>\n</ul>\n</li>\n\n<p>\n<strong><li>If the images do not display online</strong> -- Select images for reproduction through one of these methods:\n</p>\n<ul>\n<p>\t\n<li>Visit the Prints &amp; Photographs Reading Room and request to view \nthe group (general information about service in the reading room is \navailable at: <a href=\"//www.loc.gov/rr/print/info/001_ref.html\">https://www.loc.gov/rr/print/info/001_ref.html</a>).</li>  \n</p>\n<p>\n<li>P&amp;P reading room staff can provide up to 15 photocopies of items \nper calendar year. (Color images cannot be photocopied.) For assistance,\n see our <a href=\"//www.loc.gov/rr/askalib/ask-print.html\">Ask a Librarian</a> page. OR</li>\n</p>\n<p>\n<li>Hire a freelance researcher to do further selection for you \n(a list of researchers is available at: \n<a href=\"//www.loc.gov/rr/print/resource/013_pic.html\">https://www.loc.gov/rr/print/resource/013_pic.html</a>).\n</p>\n</ul>\n</li>\n</ol>\n\n<p>\n<strong>Purchasing Copies</strong>\n</p>\n\n<p>\nLibrary of Congress Duplication Services can make copies of various \ntypes from images in Prints & Photographs Division Collections.  \nPrice lists, contact information, and order forms are available on the \n<a href=\"//www.loc.gov/duplicationservices/\">Duplication Services Web site</a>.\n</p>\n\n<p>\nCarol M. Highsmith sells prints of her photographs at: <a href=\"http://photographsamerica.com/\">http://photographsamerica.com/</a> .\n</p>  \n\n\n\n\n        ",
+  "resource": {
+    "caption": "original digital file",
+    "image": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:31300:31350/full/pct:6.25/0/default.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/highsm.31350/"
+  },
+  "resources": [
+    {
+      "caption": "original digital file",
+      "image": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:31300:31350/full/pct:6.25/0/default.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/highsm.31350/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1761844764647,
+  "type": "zoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/highsm.31350/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/highsm.31350/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/highsm.31350/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/highsm.31350/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/highsm.31350/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/highsm.31350/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/highsm.31350/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/highsm.31350/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/highsm.31350/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/highsm.31350/?fo=json&st=text"
+  }
+}

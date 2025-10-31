@@ -1,0 +1,1775 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "Historic American Buildings Survey, C. &amp; Society Of Architectural Historians, S., Lowe, J., photographer. (1933) <cite>Juneau Public Library, 292 Marine Way, Juneau, Juneau Borough, AK</cite>. Juneau Alaska Juneau Borough, 1933. Hoagland, A. K. M., trans Documentation Compiled After. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/ak0345/.",
+    "chicago": "Historic American Buildings Survey, Creator, and Sponsor Society Of Architectural Historians, Lowe, Jet, photographer. <cite>Juneau Public Library, 292 Marine Way, Juneau, Juneau Borough, AK</cite>. Juneau Alaska Juneau Borough, 1933. translateds by Hoagland, Alison K.Mitter Documentation Compiled After. Photograph. https://www.loc.gov/item/ak0345/.",
+    "mla": "Historic American Buildings Survey, Creator, and Sponsor Society Of Architectural Historians, photographer by Lowe, Jet. <cite>Juneau Public Library, 292 Marine Way, Juneau, Juneau Borough, AK</cite>. trans by Hoagland, Alison K.Mitter Documentation Compiled After. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/ak0345/&gt;."
+  },
+  "item": {
+    "_version_": 1821162720859258881,
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/ak0345/",
+      "http://www.loc.gov/item/ak0345/",
+      "http://www.loc.gov/pictures/item/ak0345/",
+      "https://www.loc.gov/pictures/collection/hh/item/ak0345/",
+      "http://www.loc.gov/pictures/collection/hh/item/ak0345/",
+      "https://cdn.loc.gov/master/pnp/habshaer/ak/ak0300/ak0345/data/ak0345data.pdf",
+      "http://cdn.loc.gov/master/pnp/habshaer/ak/ak0300/ak0345/data/ak0345data.pdf",
+      "https://cdn.loc.gov/master/pnp/habshaer/ak/ak0300/ak0345/data/ak0345cap.pdf",
+      "http://cdn.loc.gov/master/pnp/habshaer/ak/ak0300/ak0345/data/ak0345cap.pdf",
+      "https://stage.loc.gov/pictures/search/?q=photograph: ak0345&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+      "http://stage.loc.gov/pictures/search/?q=photograph: ak0345&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+      "http://www.loc.gov/resource/hhh.ak0345data/",
+      "http://www.loc.gov/resource/hhh.ak0345cap/",
+      "http://www.loc.gov/resource/hhh.ak0345.photos/",
+      "http://www.loc.gov/resource/hhh.ak0345.photos",
+      "http://www.loc.gov/resource/hhh.ak0345.photos.033063p",
+      "http://www.loc.gov/resource/hhh.ak0345.photos.033064p",
+      "http://www.loc.gov/resource/hhh.ak0345.photos.033065p"
+    ],
+    "call_number": "HABS AK,8-JUNE,4-",
+    "campaigns": [],
+    "contributor_names": [
+      "Historic American Buildings Survey, creator",
+      "Hoagland, Alison K., transmitter",
+      "Lowe, Jet, photographer",
+      "Society of Architectural Historians, sponsor"
+    ],
+    "contributors": [
+      {
+        "historic american buildings survey": "https://www.loc.gov/search/?fa=contributor:historic+american+buildings+survey&fo=json"
+      },
+      {
+        "hoagland, alison k.": "https://www.loc.gov/search/?fa=contributor:hoagland,+alison+k.&fo=json"
+      },
+      {
+        "lowe, jet": "https://www.loc.gov/search/?fa=contributor:lowe,+jet&fo=json"
+      },
+      {
+        "society of architectural historians": "https://www.loc.gov/search/?fa=contributor:society+of+architectural+historians&fo=json"
+      }
+    ],
+    "control_number": "ak0345",
+    "created": "2023-04-11T18:09:32Z",
+    "created_published": [
+      "Documentation compiled after 1933"
+    ],
+    "created_published_date": "Documentation compiled after 1933",
+    "description": [
+      "Photo(s): 3 | Photo Caption Page(s): 1"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2025-01-13T19:17:26.891Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/hh/item/ak0345/#hh-0"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "group": [
+      "hh-0",
+      "habshaer-group-0"
+    ],
+    "hassegments": true,
+    "id": "http://www.loc.gov/item/ak0345/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/habshaer/ak/ak0300/ak0345/photos/033063p_150px.jpg#h=120&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/habshaer/ak/ak0300/ak0345/photos/033063pr.jpg#h=511&w=640",
+      "https://tile.loc.gov/storage-services/service/pnp/habshaer/ak/ak0300/ak0345/photos/033063pv.jpg#h=817&w=1024"
+    ],
+    "index": 2,
+    "item": {
+      "call_number": "HABS AK,8-JUNE,4-",
+      "contributor_names": [
+        "Hoagland, Alison K., transmitter ",
+        "Lowe, Jet, photographer ",
+        "Society of Architectural Historians, sponsor "
+      ],
+      "control_number": "ak0345",
+      "created": "2023-04-11T18:09:32Z",
+      "created_published": "Documentation compiled after 1933",
+      "created_published_date": "Documentation compiled after 1933",
+      "creators": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Historic%20American%20Buildings%20Survey&co=hh",
+          "role": "creator",
+          "title": "Historic American Buildings Survey"
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Hoagland%2C%20Alison%20K.&co=hh",
+          "role": "transmitter",
+          "title": "Hoagland, Alison K."
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Lowe%2C%20Jet&co=hh",
+          "role": "photographer",
+          "title": "Lowe, Jet"
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Society%20of%20Architectural%20Historians&co=hh",
+          "role": "sponsor",
+          "title": "Society of Architectural Historians"
+        }
+      ],
+      "display_offsite": true,
+      "id": "ak0345",
+      "link": "https://www.loc.gov/pictures/item/ak0345/",
+      "medium_brief": "Photo(s): 3, Photo Caption Page(s): 1",
+      "mediums": [
+        "Photo(s): 3 ",
+        "Photo Caption Page(s): 1 "
+      ],
+      "modified": "2024-12-13T19:07:42Z",
+      "notes": [
+        "Survey number: HABS AK-113 "
+      ],
+      "part_of": "Historic American Buildings Survey (Library of Congress)",
+      "part_of_group": "Survey Number ak0345",
+      "place": [
+        {
+          "latitude": "",
+          "link": "https://www.loc.gov/pictures/related/?fi=place&q=Alaska--Juneau%20Borough--Juneau&co=hh",
+          "longitude": "",
+          "title": "Alaska--Juneau Borough--Juneau"
+        }
+      ],
+      "raw_collections": [
+        "diof",
+        "hh",
+        "survey"
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington,      D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "resource_links": [
+        "https://tile.loc.gov/storage-services/master/pnp/habshaer/ak/ak0300/ak0345/data/ak0345data.pdf",
+        "https://tile.loc.gov/storage-services/master/pnp/habshaer/ak/ak0300/ak0345/data/ak0345cap.pdf",
+        "https://stage.loc.gov/pictures/search/?q=Photograph: ak0345&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true"
+      ],
+      "rights_advisory": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+      "rights_information": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ak/ak0300/ak0345/photos/033063p_150px.jpg?q=ak0345.photos.033063p&c=3&st=gallery",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ak/ak0300/ak0345/photos/033063pr.jpg?q=ak0345.photos.033063p&c=3&st=gallery",
+      "source_created": "1970-01-01T00:00:00Z",
+      "source_modified": "2023-04-11T18:09:00Z",
+      "subject_headings": [
+        "libraries",
+        "Alaska--Juneau Borough--Juneau"
+      ],
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ak/ak0300/ak0345/photos/033063p_150px.jpg?q=ak0345.photos.033063p&c=3&st=gallery",
+      "title": "Juneau Public Library, 292 Marine Way, Juneau, Juneau Borough, AK"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "link": "https://www.loc.gov/pictures/item/ak0345/",
+    "location": [
+      "juneau",
+      "alaska",
+      "juneau borough"
+    ],
+    "locations": [
+      {
+        "alaska": "https://www.loc.gov/search/?fa=location:alaska&fo=json"
+      },
+      {
+        "juneau": "https://www.loc.gov/search/?fa=location:juneau&fo=json"
+      },
+      {
+        "juneau borough": "https://www.loc.gov/search/?fa=location:juneau+borough&fo=json"
+      }
+    ],
+    "medium": [
+      "Photo(s): 3 ",
+      "Photo Caption Page(s): 1 "
+    ],
+    "medium_brief": "Photo(s): 3, Photo Caption Page(s): 1",
+    "mime_type": [
+      "image/gif",
+      "application/pdf"
+    ],
+    "modified": "2024-12-13T19:07:42Z",
+    "notes": [
+      "Survey number: HABS AK-113 "
+    ],
+    "online_format": [
+      "image",
+      "pdf"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_formats": [],
+    "part_of_group": "Survey Number ak0345",
+    "partof": [
+      {
+        "count": 45882,
+        "title": "historic american buildings survey/historic american engineering record/historic american landscapes survey",
+        "url": "https://www.loc.gov/collections/historic-american-buildings-landscapes-and-engineering-records/?fo=json"
+      },
+      {
+        "count": 437933,
+        "title": "american memory",
+        "url": "https://www.loc.gov/search/?fa=partof:american+memory&fo=json"
+      },
+      {
+        "count": 1105005,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=Alaska--Juneau%20Borough--Juneau&co=hh",
+        "longitude": "",
+        "title": "Alaska--Juneau Borough--Juneau"
+      }
+    ],
+    "raw_collections": [
+      "diof",
+      "hh",
+      "survey"
+    ],
+    "related": {
+      "neighbors": "https://www.loc.gov/pictures/related/?&co=hh&pk=ak0345&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington,      D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproductions": [
+      "<h4>If Digital Images Are Displaying</h4>\r\n<p>You can download online images yourself.  Alternatively, you can  purchase copies of various types through Library of Congress Duplication  Services.</p>\r\n<p>HABS/HAER/HALS materials have generally been scanned at high resolution that is suitable for most publication purposes (see <a href=\"/collections/historic-american-buildings-landscapes-and-engineering-records/about-this-collection/technical-information/\">Digitizing the Collection</a> for further details about the digital images).</p>\r\n<ul class=\"plain margin-bottom-double-li list-plain-extra-margin\">\r\n\t<li><strong>Photographs--</strong>All photographs are printed from digital files to preserve the fragile originals. </li>\r\n\t<ul class=\"plain margin-bottom-single-li\">\r\n\t\t<li>Make note of the Call Number and Item Number that appear under the  photograph in the multiple-image display (e.g., HAER, NY,52-BRIG,4-2). </li>\r\n\t\t<li>If possible, include a printout of the photograph. </li>\r\n\t</ul>\r\n\t<li><strong>Drawings--</strong>All drawings are printed from digital files to preserve the fragile originals. </li>\r\n\t<ul class=\"plain margin-bottom-single-li\">\r\n\t\t<li>Make note of the Survey Number (e.g., HAER NY - 143) and Sheet  Number (e.g., \"Sheet 1 of 4\"), which appear on the edge of the drawing.  (NOTE: These numbers are visible in the Tiff \"Reference Image\" display.) </li>\r\n\t\t<li>If possible, include a printout of the drawing. </li>\r\n\t</ul>\r\n\t<li><strong>Data Pages</strong></li>\r\n\t<ul class=\"plain margin-bottom-single-li\">\r\n\t\t<li>Make note of the Call Number in the catalog record. </li>\r\n\t</ul>\r\n</ul>\r\n<h4>If Digital Images Are Not Displaying</h4>\r\n<p>In the rare case that a digital image for HABS/HAER/HALS  documentation is not displaying online, select images for reproduction  through one of these methods:</p>\r\n<ul class=\"plain margin-bottom-double-li list-plain-extra-margin\">\r\n\t<li>Visit the Prints &amp; Photographs Reading Room and request to  view the group (general information about service in the reading room is  available at: <a href=\"https://www.loc.gov/rr/print/info/001_ref.html\">https://www.loc.gov/rr/print/info/001_ref.html</a>). It is best to contact reference staff in advance (see: <a href=\"https://www.loc.gov/rr/print/address.html\">https://www.loc.gov/rr/print/address.html</a>) to make sure the material is on site.  OR </li>\r\n\t<li>P&amp;P reading room staff can provide up to 15 quick copies of  items per calendar year (many original items in the holdings are too old  or fragile to make such copies, but generally HABS/HAER/HALS materials  are in good enough condition to be placed on photocopy machines). For  assistance, see our <a href=\"https://ask.loc.gov/prints-photographs/\">Ask a Librarian</a> page OR </li>\r\n\t<li>Hire a freelance researcher to do further selection for you (a list of researchers in available at: <a href=\"https://www.loc.gov/rr/print/resource/013_pic.html\">https://www.loc.gov/rr/print/resource/013_pic.html</a>). </li>\r\n\t<li>You can purchase copies of various types, including quick  copies, through Library of Congress Duplication Services (price lists,  contact information, and order forms for Library of Congress Duplication  Services are available on the <a href=\"https://www.loc.gov/preserv/pds/\">Duplication Services Web site</a>): </li>\r\n\t<ul class=\"plain margin-bottom-single-li\">\r\n\t\t<li>Make note of the Call Number listed above. </li>\r\n\t\t<li>Look at the Medium field above. If it lists more than one item: </li>\r\n\t\t<ul class=\"plain margin-bottom-single-li\">\r\n\t\t\t<li>The entire group can be ordered as photocopies or high-quality copies. </li>\r\n\t\t\t<li>All the items in a particular medium (e.g., all drawings, all  photographs) can be ordered as photocopies or high-quality copies. </li>\r\n\t\t</ul>\r\n\t</ul>\r\n</ul>\r\n"
+    ],
+    "resource_links": [
+      "https://tile.loc.gov/storage-services/master/pnp/habshaer/ak/ak0300/ak0345/data/ak0345data.pdf",
+      "https://tile.loc.gov/storage-services/master/pnp/habshaer/ak/ak0300/ak0345/data/ak0345cap.pdf",
+      "https://stage.loc.gov/pictures/search/?q=Photograph: ak0345&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true"
+    ],
+    "resources": [
+      {
+        "caption": "Photos from Survey HABS AK-113 ",
+        "files": 3,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ak/ak0300/ak0345/photos/033063p_150px.jpg",
+        "url": "https://www.loc.gov/resource/hhh.ak0345.photos"
+      },
+      {
+        "caption": "Data Pages from Survey HABS AK-113 ",
+        "files": 1,
+        "image": "/static/images/original-format/manuscript-mixed-material.svg"
+      },
+      {
+        "caption": "Photo Captions from Survey HABS AK-113 ",
+        "files": 1,
+        "image": "/static/images/original-format/manuscript-mixed-material.svg"
+      }
+    ],
+    "rights": [
+      "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"https://www.loc.gov/rr/print/res/114_habs.html\">Historic American Buildings Survey/Historic American Engineering Record/Historic American Landscape Survey (HABS/HAER/HALS) Collection - Rights and Restrictions Information</a> </p>\n\n"
+    ],
+    "rights_advisory": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+    "rights_information": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+    "score": 38.524193,
+    "shard": "00",
+    "shelf_id": "HABS AK,8-JUNE,4-",
+    "site": [
+      "pictures"
+    ],
+    "source_collection": "Historic American Buildings Survey (Library of Congress)",
+    "source_created": "1970-01-01T00:00:00Z",
+    "source_modified": "2000-01-01T12:00:00Z",
+    "subject": [
+      "libraries"
+    ],
+    "subject_headings": [
+      "libraries",
+      "Alaska--Juneau Borough--Juneau"
+    ],
+    "subjects": [
+      {
+        "libraries": "https://www.loc.gov/search/?fa=subject:libraries&fo=json"
+      }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ak/ak0300/ak0345/photos/033063p_150px.jpg?q=ak0345.photos.033063p&c=3&st=gallery",
+    "timestamp": "2025-01-13T19:21:52.129Z",
+    "title": "Juneau Public Library, 292 Marine Way, Juneau, Juneau Borough, AK",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/ak0345/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/ak0343/",
+        "http://www.loc.gov/item/ak0343/",
+        "http://www.loc.gov/pictures/item/ak0343/",
+        "https://www.loc.gov/pictures/collection/hh/item/ak0343/",
+        "http://www.loc.gov/pictures/collection/hh/item/ak0343/",
+        "https://cdn.loc.gov/master/pnp/habshaer/ak/ak0300/ak0343/data/ak0343data.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/ak/ak0300/ak0343/data/ak0343data.pdf",
+        "https://cdn.loc.gov/master/pnp/habshaer/ak/ak0300/ak0343/data/ak0343cap.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/ak/ak0300/ak0343/data/ak0343cap.pdf",
+        "https://stage.loc.gov/pictures/search/?q=photograph: ak0343&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://stage.loc.gov/pictures/search/?q=photograph: ak0343&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov/resource/hhh.ak0343data/",
+        "http://www.loc.gov/resource/hhh.ak0343cap/",
+        "http://www.loc.gov/resource/hhh.ak0343.photos/",
+        "http://www.loc.gov/resource/hhh.ak0343.photos",
+        "http://www.loc.gov/resource/hhh.ak0343.photos.033053p",
+        "http://www.loc.gov/resource/hhh.ak0343.photos.033054p",
+        "http://www.loc.gov/resource/hhh.ak0343.photos.033055p",
+        "http://www.loc.gov/resource/hhh.ak0343.photos.033056p",
+        "http://www.loc.gov/resource/hhh.ak0343.photos.033057p",
+        "http://www.loc.gov/resource/hhh.ak0343.photos.033058p"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "lowe, jet",
+        "society of architectural historians",
+        "hoagland, alison k.",
+        "historic american buildings survey"
+      ],
+      "description": [
+        "Photo(s): 6 | Photo Caption Page(s): 1"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-01-13T19:17:26.891Z",
+      "group": [
+        "hh-0",
+        "habshaer-group-0"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/ak0343/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ak/ak0300/ak0343/photos/033053p_150px.jpg#h=120&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ak/ak0300/ak0343/photos/033053pr.jpg#h=513&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ak/ak0300/ak0343/photos/033053pv.jpg#h=821&w=1024"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "juneau",
+        "alaska",
+        "juneau borough"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey",
+        "american memory",
+        "prints and photographs division"
+      ],
+      "score": 39.214348,
+      "shelf_id": "HABS AK,8-JUNE,2-",
+      "site": [
+        "pictures"
+      ],
+      "timestamp": "2025-01-13T19:21:52.129Z",
+      "title": "Wickersham House, 213 Seventh Street, Juneau, Juneau Borough, AK",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/ak0343/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/ak0344/",
+        "http://www.loc.gov/item/ak0344/",
+        "http://www.loc.gov/pictures/item/ak0344/",
+        "https://www.loc.gov/pictures/collection/hh/item/ak0344/",
+        "http://www.loc.gov/pictures/collection/hh/item/ak0344/",
+        "https://cdn.loc.gov/master/pnp/habshaer/ak/ak0300/ak0344/data/ak0344data.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/ak/ak0300/ak0344/data/ak0344data.pdf",
+        "https://cdn.loc.gov/master/pnp/habshaer/ak/ak0300/ak0344/data/ak0344cap.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/ak/ak0300/ak0344/data/ak0344cap.pdf",
+        "https://stage.loc.gov/pictures/search/?q=photograph: ak0344&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://stage.loc.gov/pictures/search/?q=photograph: ak0344&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov/resource/hhh.ak0344data/",
+        "http://www.loc.gov/resource/hhh.ak0344cap/",
+        "http://www.loc.gov/resource/hhh.ak0344.photos/",
+        "http://www.loc.gov/resource/hhh.ak0344.photos",
+        "http://www.loc.gov/resource/hhh.ak0344.photos.033059p",
+        "http://www.loc.gov/resource/hhh.ak0344.photos.033060p",
+        "http://www.loc.gov/resource/hhh.ak0344.photos.033061p",
+        "http://www.loc.gov/resource/hhh.ak0344.photos.033062p"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "lowe, jet",
+        "society of architectural historians",
+        "hoagland, alison k.",
+        "historic american buildings survey"
+      ],
+      "description": [
+        "Photo(s): 4 | Photo Caption Page(s): 1"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-01-13T19:17:26.891Z",
+      "group": [
+        "hh-0",
+        "habshaer-group-0"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/ak0344/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ak/ak0300/ak0344/photos/033059p_150px.jpg#h=122&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ak/ak0300/ak0344/photos/033059pr.jpg#h=518&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ak/ak0300/ak0344/photos/033059pv.jpg#h=829&w=1024"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "juneau",
+        "alaska",
+        "juneau borough"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey",
+        "american memory",
+        "prints and photographs division"
+      ],
+      "score": 39.214348,
+      "shelf_id": "HABS AK,8-JUNE,3-",
+      "site": [
+        "pictures"
+      ],
+      "timestamp": "2025-01-13T19:21:52.129Z",
+      "title": "Alaska's Governor's Mansion, 716 Calhoun Avenue, Juneau, Juneau Borough, AK",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/ak0344/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/ak0346/",
+        "http://www.loc.gov/item/ak0346/",
+        "http://www.loc.gov/pictures/item/ak0346/",
+        "https://www.loc.gov/pictures/collection/hh/item/ak0346/",
+        "http://www.loc.gov/pictures/collection/hh/item/ak0346/",
+        "https://cdn.loc.gov/master/pnp/habshaer/ak/ak0300/ak0346/data/ak0346data.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/ak/ak0300/ak0346/data/ak0346data.pdf",
+        "https://cdn.loc.gov/master/pnp/habshaer/ak/ak0300/ak0346/data/ak0346cap.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/ak/ak0300/ak0346/data/ak0346cap.pdf",
+        "https://stage.loc.gov/pictures/search/?q=photograph: ak0346&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://stage.loc.gov/pictures/search/?q=photograph: ak0346&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov/resource/hhh.ak0346data/",
+        "http://www.loc.gov/resource/hhh.ak0346cap/",
+        "http://www.loc.gov/resource/hhh.ak0346.photos/",
+        "http://www.loc.gov/resource/hhh.ak0346.photos",
+        "http://www.loc.gov/resource/hhh.ak0346.photos.033066p",
+        "http://www.loc.gov/resource/hhh.ak0346.photos.033067p"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "lowe, jet",
+        "society of architectural historians",
+        "hoagland, alison k.",
+        "historic american buildings survey"
+      ],
+      "description": [
+        "Photo(s): 2 | Photo Caption Page(s): 1"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-01-13T19:17:26.891Z",
+      "group": [
+        "hh-0",
+        "habshaer-group-0"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/ak0346/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ak/ak0300/ak0346/photos/033066p_150px.jpg#h=120&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ak/ak0300/ak0346/photos/033066pr.jpg#h=512&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ak/ak0300/ak0346/photos/033066pv.jpg#h=819&w=1024"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "juneau",
+        "alaska",
+        "juneau borough"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey",
+        "american memory",
+        "prints and photographs division"
+      ],
+      "score": 39.214348,
+      "shelf_id": "HABS AK,8-JUNE,5-",
+      "site": [
+        "pictures"
+      ],
+      "timestamp": "2025-01-13T19:21:52.129Z",
+      "title": "Kennedy Street (Houses), 400-500 Blocks, Juneau, Juneau Borough, AK",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/ak0346/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/ak0347/",
+        "http://www.loc.gov/item/ak0347/",
+        "http://www.loc.gov/pictures/item/ak0347/",
+        "https://www.loc.gov/pictures/collection/hh/item/ak0347/",
+        "http://www.loc.gov/pictures/collection/hh/item/ak0347/",
+        "https://cdn.loc.gov/master/pnp/habshaer/ak/ak0300/ak0347/data/ak0347data.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/ak/ak0300/ak0347/data/ak0347data.pdf",
+        "https://cdn.loc.gov/master/pnp/habshaer/ak/ak0300/ak0347/data/ak0347cap.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/ak/ak0300/ak0347/data/ak0347cap.pdf",
+        "https://stage.loc.gov/pictures/search/?q=photograph: ak0347&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://stage.loc.gov/pictures/search/?q=photograph: ak0347&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov/resource/hhh.ak0347data/",
+        "http://www.loc.gov/resource/hhh.ak0347cap/",
+        "http://www.loc.gov/resource/hhh.ak0347.photos/",
+        "http://www.loc.gov/resource/hhh.ak0347.photos",
+        "http://www.loc.gov/resource/hhh.ak0347.photos.033068p",
+        "http://www.loc.gov/resource/hhh.ak0347.photos.033069p",
+        "http://www.loc.gov/resource/hhh.ak0347.photos.033070p",
+        "http://www.loc.gov/resource/hhh.ak0347.photos.033071p",
+        "http://www.loc.gov/resource/hhh.ak0347.photos.033072p"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "lowe, jet",
+        "society of architectural historians",
+        "hoagland, alison k.",
+        "historic american buildings survey"
+      ],
+      "description": [
+        "Photo(s): 5 | Photo Caption Page(s): 1"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-01-13T19:17:26.891Z",
+      "group": [
+        "hh-0",
+        "habshaer-group-0"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/ak0347/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ak/ak0300/ak0347/photos/033068p_150px.jpg#h=124&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ak/ak0300/ak0347/photos/033068pr.jpg#h=528&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ak/ak0300/ak0347/photos/033068pv.jpg#h=845&w=1024"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "juneau",
+        "alaska",
+        "juneau borough"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey",
+        "american memory",
+        "prints and photographs division"
+      ],
+      "score": 39.214348,
+      "shelf_id": "HABS AK,8-JUNE,6-",
+      "site": [
+        "pictures"
+      ],
+      "timestamp": "2025-01-13T19:21:52.129Z",
+      "title": "Downtown (Commercial Buildings), Franklin and Front Streets, Juneau, Juneau Borough, AK",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/ak0347/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/ak0348/",
+        "http://www.loc.gov/item/ak0348/",
+        "http://www.loc.gov/pictures/item/ak0348/",
+        "https://www.loc.gov/pictures/collection/hh/item/ak0348/",
+        "http://www.loc.gov/pictures/collection/hh/item/ak0348/",
+        "https://cdn.loc.gov/master/pnp/habshaer/ak/ak0300/ak0348/data/ak0348data.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/ak/ak0300/ak0348/data/ak0348data.pdf",
+        "https://cdn.loc.gov/master/pnp/habshaer/ak/ak0300/ak0348/data/ak0348cap.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/ak/ak0300/ak0348/data/ak0348cap.pdf",
+        "https://stage.loc.gov/pictures/search/?q=photograph: ak0348&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://stage.loc.gov/pictures/search/?q=photograph: ak0348&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov/resource/hhh.ak0348data/",
+        "http://www.loc.gov/resource/hhh.ak0348cap/",
+        "http://www.loc.gov/resource/hhh.ak0348.photos/",
+        "http://www.loc.gov/resource/hhh.ak0348.photos"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "lowe, jet",
+        "society of architectural historians",
+        "hoagland, alison k.",
+        "historic american buildings survey"
+      ],
+      "description": [
+        "Photo(s): 1 | Photo Caption Page(s): 1"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-01-13T19:17:26.891Z",
+      "group": [
+        "hh-0",
+        "habshaer-group-0"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/ak0348/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ak/ak0300/ak0348/photos/033073p_150px.jpg#h=121&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ak/ak0300/ak0348/photos/033073pr.jpg#h=515&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ak/ak0300/ak0348/photos/033073pv.jpg#h=824&w=1024"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "juneau",
+        "alaska",
+        "juneau borough"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey",
+        "american memory",
+        "prints and photographs division"
+      ],
+      "score": 39.214348,
+      "shelf_id": "HABS AK,8-JUNE,7-",
+      "site": [
+        "pictures"
+      ],
+      "timestamp": "2025-01-13T19:21:52.129Z",
+      "title": "City of Juneau, Juneau, Juneau Borough, AK",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/ak0348/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/ak0266/",
+        "http://www.loc.gov/item/ak0266/",
+        "http://www.loc.gov/pictures/item/ak0266/",
+        "https://www.loc.gov/pictures/collection/hh/item/ak0266/",
+        "http://www.loc.gov/pictures/collection/hh/item/ak0266/",
+        "https://cdn.loc.gov/master/pnp/habshaer/ak/ak0200/ak0266/data/ak0266data.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/ak/ak0200/ak0266/data/ak0266data.pdf",
+        "https://cdn.loc.gov/master/pnp/habshaer/ak/ak0200/ak0266/data/ak0266cap.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/ak/ak0200/ak0266/data/ak0266cap.pdf",
+        "https://stage.loc.gov/pictures/search/?q=photograph: ak0266&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://stage.loc.gov/pictures/search/?q=photograph: ak0266&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "https://stage.loc.gov/pictures/search/?q=drawing: ak0266&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://stage.loc.gov/pictures/search/?q=drawing: ak0266&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov/resource/hhh.ak0266data/",
+        "http://www.loc.gov/resource/hhh.ak0266cap/",
+        "http://www.loc.gov/resource/hhh.ak0266.sheet/",
+        "http://www.loc.gov/resource/hhh.ak0266.photos/",
+        "http://www.loc.gov/resource/hhh.ak0266.photos",
+        "http://www.loc.gov/resource/hhh.ak0266.color.571085c",
+        "http://www.loc.gov/resource/hhh.ak0266.color.571086c",
+        "http://www.loc.gov/resource/hhh.ak0266.color.571087c",
+        "http://www.loc.gov/resource/hhh.ak0266.photos.033296p",
+        "http://www.loc.gov/resource/hhh.ak0266.photos.033297p",
+        "http://www.loc.gov/resource/hhh.ak0266.photos.033298p",
+        "http://www.loc.gov/resource/hhh.ak0266.photos.033299p",
+        "http://www.loc.gov/resource/hhh.ak0266.photos.033300p",
+        "http://www.loc.gov/resource/hhh.ak0266.photos.033301p",
+        "http://www.loc.gov/resource/hhh.ak0266.photos.033302p",
+        "http://www.loc.gov/resource/hhh.ak0266.photos.033303p",
+        "http://www.loc.gov/resource/hhh.ak0266.photos.033304p",
+        "http://www.loc.gov/resource/hhh.ak0266.photos.033305p",
+        "http://www.loc.gov/resource/hhh.ak0266.photos.033306p",
+        "http://www.loc.gov/resource/hhh.ak0266.photos.033307p",
+        "http://www.loc.gov/resource/hhh.ak0266.sheet",
+        "http://www.loc.gov/resource/hhh.ak0266.sheet.00001a",
+        "http://www.loc.gov/resource/hhh.ak0266.sheet.00002a",
+        "http://www.loc.gov/resource/hhh.ak0266.sheet.00003a",
+        "http://www.loc.gov/resource/hhh.ak0266.sheet.00004a"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "lavoie, catherine c.",
+        "mauro, jeremy t.",
+        "russian orthodox sacred sites in alaska (rossia, inc.)",
+        "jandoli, liz",
+        "icon preservation task force",
+        "lowe, jet",
+        "hoagland, alison k.",
+        "historic american buildings survey",
+        "national park service, alaska regional office",
+        "soulian, fr",
+        "schwan, lynda b.",
+        "weinberger, jennifer pederson",
+        "crosby, grant",
+        "peterson, steven m.",
+        "ishkhanalykh, chief",
+        "state of alaska",
+        "schara, mark",
+        "dauenhauer, dick",
+        "saint nicholas parish council"
+      ],
+      "description": [
+        "Photo(s): 12 | Color Transparencies: 3 | Measured Drawing(s): 4 | Data Page(s): 7 | Photo Caption Page(s): 2"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-01-13T19:17:26.891Z",
+      "group": [
+        "hh-0",
+        "habshaer-group-0"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/ak0266/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ak/ak0200/ak0266/color/571085c_150px.jpg#h=111&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ak/ak0200/ak0266/color/571085cr.jpg#h=473&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ak/ak0200/ak0266/color/571085cv.jpg#h=758&w=1024"
+      ],
+      "index": 7,
+      "language": [
+        "english"
+      ],
+      "latlong": [
+        58.303187,
+        -134.409046
+      ],
+      "location": [
+        "juneau",
+        "alaska",
+        "juneau borough"
+      ],
+      "location_str": "",
+      "lonlat": [
+        -134.409046,
+        58.303187
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey",
+        "american memory",
+        "prints and photographs division"
+      ],
+      "score": 33.054493,
+      "shelf_id": "HABS AK,8-JUNE,1-",
+      "site": [
+        "pictures"
+      ],
+      "subject": [
+        "alaska natives",
+        "iconostasis",
+        "orthodox churches",
+        "octagonal buildings"
+      ],
+      "timestamp": "2025-01-13T19:21:29.181Z",
+      "title": "St. Nicholas Russian Orthodox Church, 326 Fifth Street, Juneau, Juneau Borough, AK",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/ak0266/"
+    }
+  ],
+  "notice": {
+    "warning": "Due to the temporary shutdown of the federal government beginning October 1, 2025, all Library of Congress buildings are closed and all public events are canceled until further notice. <a href=\"/item/prn-25-a05/\">More</a>.\n"
+  },
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "hh-0",
+      "habshaer-group-0",
+      "sanborn",
+      "rbpebib.mar",
+      "catalog-split-03",
+      "catalog",
+      "broadsides-and-printed-ephemera",
+      "main-catalog-split-03",
+      "main-catalog",
+      "catalog-split-12",
+      "main-catalog-split-12",
+      "paprika-navcc",
+      "catalog-split-13",
+      "main-catalog-split-13",
+      "gdc/scd",
+      "catalog-split-02",
+      "general-collections-scan-on-demand-new",
+      "main-catalog-split-02"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "hhh.ak0345.photos",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.6808652877807617,
+    "embed": [],
+    "embed!": [],
+    "error_response_status": null,
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/hhh.ak0345.photos/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json&sp=2",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ],
+      "sp": [
+        "2"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/hhh.ak0345.photos/?fo=json&sp=2",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": 2,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1761845576.0744598,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 20049746,
+      "type": "bw_photos",
+      "url": "https://tile.loc.gov/storage-services/master/pnp/habshaer/ak/ak0300/ak0345/photos/033064pu.tif",
+      "width": 0
+    },
+    {
+      "height": 120,
+      "levels": 1,
+      "mimetype": "image/jpg",
+      "size": 5009,
+      "type": "bw_photos",
+      "url": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ak/ak0300/ak0345/photos/033064p_150px.jpg",
+      "width": 150
+    },
+    {
+      "height": 514,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 41669,
+      "type": "bw_photos",
+      "url": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ak/ak0300/ak0345/photos/033064pr.jpg",
+      "width": 640
+    },
+    {
+      "height": 822,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 98341,
+      "type": "bw_photos",
+      "url": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ak/ak0300/ak0345/photos/033064pv.jpg",
+      "width": 1024
+    },
+    {
+      "aka": "https://www.loc.gov/resource/hhh.ak0345.photos.033064p",
+      "mimetype": "application/json",
+      "title": "2. Interior, circulation desk, looking southwest - Juneau Public Library, 292 Marine Way, Juneau, Juneau Borough, AK",
+      "use": "caption"
+    }
+  ],
+  "pagination": {
+    "current": 2,
+    "first": "https://www.loc.gov/resource/hhh.ak0345.photos/?fo=json&sp=1",
+    "from": 2,
+    "last": "https://www.loc.gov/resource/hhh.ak0345.photos/?fo=json&sp=3",
+    "next": "https://www.loc.gov/resource/hhh.ak0345.photos/?fo=json&sp=3",
+    "of": 3,
+    "page_list": [
+      {
+        "number": 1,
+        "url": "https://www.loc.gov/resource/hhh.ak0345.photos/?fo=json&sp=1"
+      },
+      {
+        "number": 2,
+        "url": null
+      },
+      {
+        "number": 3,
+        "url": "https://www.loc.gov/resource/hhh.ak0345.photos/?fo=json&sp=3"
+      }
+    ],
+    "perpage": 1,
+    "perpage_options": [
+      25,
+      50,
+      100,
+      150
+    ],
+    "previous": "https://www.loc.gov/resource/hhh.ak0345.photos/?fo=json&sp=1",
+    "results": "2 - 2",
+    "to": 2,
+    "total": 3
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=hh&pk=ak0345&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sanborn00119_001/",
+        "https://hdl.loc.gov/loc.gmd/g4374jm.g001191904",
+        "http://www.loc.gov/resource/g4374jm.g001191904/"
+      ],
+      "campaigns": [],
+      "date": "1904-07",
+      "dates": [
+        "1904-07"
+      ],
+      "description": [
+        "Jul 1904. 2 sheet(s)."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-08T18:06:39.440Z",
+      "group": [
+        "sanborn"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sanborn00119_001/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd437m/g4374m/g4374jm/g001191904/00119_1904-0001.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd437m/g4374m/g4374jm/g001191904/00119_1904-0001.gif#h=150&w=127",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd437m:g4374m:g4374jm:g001191904:00119_1904-0001/full/pct:12.5/0/default.jpg#h=960&w=813",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd437m:g4374m:g4374jm:g001191904:00119_1904-0001/full/pct:25/0/default.jpg#h=1920&w=1627"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "juneau",
+        "juneau census division",
+        "united states",
+        "alaska"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/jp2"
+      ],
+      "number": [
+        "2018-04-24t09:37:54"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "geography and map division",
+        "sanborn maps",
+        "american memory"
+      ],
+      "score": 11.596017,
+      "shelf_id": "http://www.loc.gov/item/sanborn00119_001/",
+      "site": [
+        "ammem"
+      ],
+      "timestamp": "2024-10-08T18:11:07.313Z",
+      "title": "Sanborn Fire Insurance Map from Juneau, Juneau Census Division, Alaska.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/sanborn00119_001/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sanborn00119_002/",
+        "https://hdl.loc.gov/loc.gmd/g4374jm.g001191914",
+        "http://www.loc.gov/resource/g4374jm.g001191914/"
+      ],
+      "campaigns": [],
+      "date": "1914-09",
+      "dates": [
+        "1914-09"
+      ],
+      "description": [
+        "Sep 1914. 7 sheet(s)."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-08T18:06:39.440Z",
+      "group": [
+        "sanborn"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sanborn00119_002/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd437m/g4374m/g4374jm/g001191914/00119_1914-0001.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd437m/g4374m/g4374jm/g001191914/00119_1914-0001.gif#h=150&w=127",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd437m:g4374m:g4374jm:g001191914:00119_1914-0001/full/pct:12.5/0/default.jpg#h=960&w=813",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd437m:g4374m:g4374jm:g001191914:00119_1914-0001/full/pct:25/0/default.jpg#h=1920&w=1627"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "juneau",
+        "juneau census division",
+        "united states",
+        "alaska"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/jp2"
+      ],
+      "number": [
+        "2018-04-24t09:37:54"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "geography and map division",
+        "sanborn maps",
+        "american memory"
+      ],
+      "score": 11.596017,
+      "shelf_id": "http://www.loc.gov/item/sanborn00119_002/",
+      "site": [
+        "ammem"
+      ],
+      "timestamp": "2024-10-08T18:11:07.313Z",
+      "title": "Sanborn Fire Insurance Map from Juneau, Juneau Census Division, Alaska.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/sanborn00119_002/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://memory.loc.gov/cgi-bin/query/r?ammem/AMALL:@field(NUMBER+@band(rbpe+00102600))",
+        "https://hdl.loc.gov/loc.rbc/rbpe.00102600",
+        "http://www.loc.gov/item/rbpe.00102600/",
+        "http://www.loc.gov/resource/rbpe.00102600/",
+        "http://lccn.loc.gov/2020780169",
+        "http://www.loc.gov/item/2020780169/",
+        "https://hdl.loc.gov/loc.rbc/rbpe.00102600"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "alaska. governor",
+        "alaska, acting governor. william l. distin",
+        "printed ephemera collection (library of congress)"
+      ],
+      "date": "1909",
+      "dates": [
+        "1909"
+      ],
+      "description": [
+        "Lincoln, Abraham.; Proclamation. Page Order: Leaflet Available also through the Library of Congress web site in two forms: as facsimile page images and as full text in SGML. Printed Ephemera Collection; Portfolio 1, Folder 26."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-17T08:41:34.163Z",
+      "group": [
+        "rbpebib.mar",
+        "catalog-split-03",
+        "catalog",
+        "broadsides-and-printed-ephemera",
+        "main-catalog-split-03",
+        "main-catalog"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/2020780169/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/rbc/rbpe/rbpe00/rbpe001/00102600/001dq.gif",
+        "https://tile.loc.gov/storage-services/service/rbc/rbpe/rbpe00/rbpe001/00102600/001dt.gif#h=125&w=100",
+        "https://tile.loc.gov/storage-services/service/rbc/rbpe/rbpe00/rbpe001/00102600/001dq.gif#h=747&w=600",
+        "https://tile.loc.gov/storage-services/service/rbc/rbpe/rbpe00/rbpe001/00102600/001dr.jpg#h=3625&w=2911"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "juneau",
+        "united states",
+        "alaska"
+      ],
+      "mime_type": [
+        "text/xml",
+        "image/jpeg",
+        "image/gif",
+        "application/xml",
+        "image/tiff",
+        "application/pdf"
+      ],
+      "number": [
+        "2020780169",
+        "rbpe00102600",
+        "2022-10-18t07:25:57"
+      ],
+      "online_format": [
+        "online text",
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "partof": [
+        "catalog",
+        "printed ephemera: three centuries of broadsides and other printed ephemera",
+        "rare book and special collections division",
+        "american memory"
+      ],
+      "score": 11.331966,
+      "shelf_id": "Portfolio 1, Folder 26",
+      "site": [
+        "ammem",
+        "catalog"
+      ],
+      "subject": [
+        "juneau",
+        "proclamations",
+        "united states",
+        "alaska"
+      ],
+      "timestamp": "2023-06-08T14:16:55.209Z",
+      "title": "The District of Alaska, Executive Department. Lincoln Proclamation. [ Jan. 27, 1909].",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/2020780169/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://hdl.loc.gov/loc.rbc/rbpe.00102700",
+        "http://memory.loc.gov/cgi-bin/query/r?ammem/AMALL:@field(NUMBER+@band(rbpe+00102700))",
+        "http://www.loc.gov/item/rbpe.00102700/",
+        "http://www.loc.gov/resource/rbpe.00102700/",
+        "http://lccn.loc.gov/2020781251",
+        "http://www.loc.gov/item/2020781251/",
+        "https://hdl.loc.gov/loc.rbc/rbpe.00102700"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "alaska. governor charles e. davidson",
+        "printed ephemera collection (library of congress)",
+        "alaska. governor ( : strong)"
+      ],
+      "date": "1917",
+      "dates": [
+        "1917"
+      ],
+      "description": [
+        "Proclamation. Available also through the Library of Congress web site in two forms: as facsimile page images and as full text in SGML. Printed Ephemera Collection; Portfolio 1, Folder 27."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-17T08:41:34.163Z",
+      "group": [
+        "rbpebib.mar",
+        "catalog-split-12",
+        "catalog",
+        "broadsides-and-printed-ephemera",
+        "main-catalog-split-12",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2020781251/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/rbc/rbpe/rbpe00/rbpe001/00102700/001dq.gif",
+        "https://tile.loc.gov/storage-services/service/rbc/rbpe/rbpe00/rbpe001/00102700/001dt.gif#h=149&w=100",
+        "https://tile.loc.gov/storage-services/service/rbc/rbpe/rbpe00/rbpe001/00102700/001dq.gif#h=891&w=600",
+        "https://tile.loc.gov/storage-services/service/rbc/rbpe/rbpe00/rbpe001/00102700/001dr.jpg#h=5001&w=3366"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "juneau",
+        "united states",
+        "alaska"
+      ],
+      "mime_type": [
+        "text/xml",
+        "image/jpeg",
+        "image/gif",
+        "application/xml",
+        "image/tiff",
+        "application/pdf"
+      ],
+      "number": [
+        "2022-09-02t14:39:33",
+        "rbpe00102700",
+        "2020781251"
+      ],
+      "online_format": [
+        "online text",
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "other_title": [
+        "By the Governor :",
+        "Proclamation [April 13, 1917 ...]"
+      ],
+      "partof": [
+        "catalog",
+        "printed ephemera: three centuries of broadsides and other printed ephemera",
+        "rare book and special collections division",
+        "american memory"
+      ],
+      "score": 11.331966,
+      "shelf_id": "Portfolio 1, Folder 27",
+      "site": [
+        "ammem",
+        "catalog"
+      ],
+      "subject": [
+        "juneau",
+        "proclamations",
+        "united states",
+        "alaska"
+      ],
+      "timestamp": "2023-06-08T14:16:55.209Z",
+      "title": "Territory of Alaska By the Governor. Proclamation [April 13, 1917 regarding state of war between the United States and the Imperial Governments of Germany and Austria].",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/2020781251/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/99481536",
+        "http://www.loc.gov/item/99481536/",
+        "http://www.loc.gov/resource/navcc.cwband-recs001/",
+        "https://hdl.loc.gov/loc.mbrsrs/mbrsrsdig.cwband-recs001",
+        "http://www.loc.gov/resource/mbrsrsdig.cwband-recs001/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "sargon, merja",
+        "foster, stephen collins",
+        "noeren, j. m.",
+        "downing, david l.",
+        "lindblad, adolf fredrik",
+        "fennell, frederick",
+        "friederich, g. w. e.",
+        "balfe, m. w. (michael william)",
+        "jaeger, edmund",
+        "goodwin, george h.",
+        "knaebel, simon",
+        "rose, bernard",
+        "grafulla, c. s. (claudio s.)",
+        "benedict, julius",
+        "library of congress. music division",
+        "bovy-lysberg, charles-samuel",
+        "wallace, william vincent",
+        "donizetti, gaetano",
+        "farmer, henry"
+      ],
+      "date": "1990",
+      "dates": [
+        "1990"
+      ],
+      "description": [
+        "Vocal works sung in English or Swedish. Merja Sargon, soprano; Bernard Rose, piano; band playing brass instruments from collections of the Smithsonian Institution; Frederick Fennell, conductor. Recorded Sept. 1974, Coolidge, Auditorium, Library of Congress, Washington, D.C. Program notes by Jon Newsom with texts or English translations of texts (27 p.) in container. Production level cataloging."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-07-29T06:45:35.750Z",
+      "group": [
+        "paprika-navcc",
+        "catalog-split-13",
+        "catalog",
+        "main-catalog-split-13"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/99481536/",
+      "image_url": [],
+      "index": 6,
+      "language": [
+        "engswe",
+        "english"
+      ],
+      "mime_type": [
+        "audio/mpeg"
+      ],
+      "number": [
+        "http://www.loc.gov/resource/cwband.recs003.0",
+        "http://www.loc.gov/item/cwband.recs006",
+        "http://www.loc.gov/item/cwband.recs014",
+        "http://www.loc.gov/resource/cwband.recs008.0",
+        "http://www.loc.gov/resource/cwband.recs010.0",
+        "http://www.loc.gov/resource/cwband.recs004.0",
+        "http://www.loc.gov/item/cwband.recs011",
+        "http://www.loc.gov/resource/cwband.recs007.0",
+        "http://www.loc.gov/resource/cwband.recs001.0",
+        "http://www.loc.gov/resource/cwband.recs005.0",
+        "http://www.loc.gov/item/cwband.recs003",
+        "http://www.loc.gov/resource/cwband.recs002.0",
+        "http://www.loc.gov/item/cwband.recs012",
+        "http://www.loc.gov/resource/cwband.recs014.0",
+        "http://www.loc.gov/resource/cwband.recs011.0",
+        "http://www.loc.gov/resource/cwband.recs012.0",
+        "http://www.loc.gov/resource/cwband.recs019.0",
+        "http://www.loc.gov/item/cwband.recs005",
+        "http://www.loc.gov/resource/cwband.recs015.0",
+        "http://www.loc.gov/resource/cwband.recs006.0",
+        "http://www.loc.gov/item/cwband.recs017",
+        "http://www.loc.gov/item/cwband.recs010",
+        "http://www.loc.gov/item/cwband.recs008",
+        "http://www.loc.gov/item/cwband.recs018",
+        "99481536",
+        "http://www.loc.gov/item/cwband.recs009",
+        "http://www.loc.gov/item/cwband.recs001",
+        "2025-05-21t15:37:26",
+        "http://www.loc.gov/resource/cwband.recs018.0",
+        "http://www.loc.gov/resource/cwband.recs013.0",
+        "http://www.loc.gov/item/cwband.recs007",
+        "http://www.loc.gov/item/cwband.recs019",
+        "http://www.loc.gov/item/cwband.recs004",
+        "http://www.loc.gov/item/cwband.recs002",
+        "http://www.loc.gov/resource/cwband.recs016.0",
+        "http://www.loc.gov/item/cwband.recs013",
+        "http://www.loc.gov/item/cwband.recs015",
+        "http://www.loc.gov/item/cwband.recs016",
+        "http://www.loc.gov/resource/cwband.recs009.0",
+        "http://www.loc.gov/resource/cwband.recs017.0"
+      ],
+      "online_format": [
+        "audio"
+      ],
+      "original_format": [
+        "sound recording"
+      ],
+      "other_title": [
+        "Concert for brass band, voice, and piano"
+      ],
+      "partof": [
+        "band music from the civil war era",
+        "performing arts encyclopedia",
+        "national audiovisual conservation center",
+        "the library of congress celebrates the songs of america",
+        "catalog",
+        "american memory"
+      ],
+      "score": 10.8540535,
+      "shelf_id": "https://repo.loc.gov/access/public/navcc/cwband-recs001/.resource.json",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "brass band music",
+        "excerpts, arranged",
+        "songs (high voice) with piano",
+        "operas",
+        "piano music"
+      ],
+      "timestamp": "2025-07-29T06:46:11.798Z",
+      "title": "[Library of Congress Music Division concert, 1974-09-??]",
+      "type": [
+        "sound recording-musical"
+      ],
+      "url": "https://www.loc.gov/item/99481536/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2023691831",
+        "http://www.loc.gov/item/2023691831/",
+        "https://hdl.loc.gov/loc.gdc/gdcebookspublic.2023691831",
+        "http://www.loc.gov/resource/gdcebookspublic.2023691831/",
+        "http://www.afsc.noaa.gov/Publications/AFSC-TM/NOAA-TM-AFSC-182.pdf",
+        "http://www.arlis.org/docs/vol1/227191110.pdf",
+        "http://www.loc.gov/item/2008613167/",
+        "http://lccn.loc.gov/2008613167"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "auke bay laboratories (juneau, alaska)",
+        "harris, patricia m."
+      ],
+      "date": "2008",
+      "dates": [
+        "2008"
+      ],
+      "description": [
+        "\"March 2008.\" PDF acquired via web archiving Includes bibliographical references (pages 11-13). Description based on print version record; resource not viewed."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-07-15T15:36:16.779Z",
+      "group": [
+        "gdc/scd",
+        "catalog-split-03",
+        "catalog",
+        "catalog-split-02",
+        "general-collections-scan-on-demand-new",
+        "main-catalog-split-03",
+        "main-catalog",
+        "main-catalog-split-02"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2008613167/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/23/69/18/31/2023691831/2023691831.gif",
+        "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/23/69/18/31/2023691831/2023691831.gif#h=401&w=310"
+      ],
+      "index": 7,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "juneau",
+        "alaska"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "number": [
+        "n227191110",
+        "2008-08-04t13:51:25",
+        "2023691831",
+        "2008613167",
+        "online",
+        "2023-06-29t10:08:15"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "partof": [
+        "general collections",
+        "u.s. government digital resources",
+        "catalog"
+      ],
+      "score": 9.060293,
+      "shelf_id": "QK495.Z7",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "marine animals",
+        "ecological surveys",
+        "ecology",
+        "alaska",
+        "habitat",
+        "zostera marina",
+        "juneau"
+      ],
+      "timestamp": "2023-07-15T15:53:45.340Z",
+      "title": "Eelgrass habitat and faunal assemblages in the City and Borough of Juneau, Alaska",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/2008613167/"
+    }
+  ],
+  "reproductions": "<h3>If Digital Images Are Displaying</h3>\n\n<p>You can download online images yourself.  Alternatively, you can purchase copies of various types through Library of Congress Duplication Services.</p>\n\n<p>HABS/HAER/HALS materials have generally been scanned at high resolution that is suitable for most publication purposes (see <a href=\"/ppoc/hh/resources/digitizing.html\">Digitizing the Collection</a> for further details about the digital images).</p>\n\n<ul>\n<p>\n<li><strong>Photographs--</strong>All photographs are printed from digital files to preserve the fragile originals.\n</li>\n<ul>\n<li>Make note of the Call Number and Item Number that appear under the photograph in the multiple-image display (e.g., HAER, NY,52-BRIG,4-2).\n</li>\n<li>If possible, include a printout of the photograph.\n</li>\n</ul>\n</p>\n\n<p>\n<li><strong>Drawings--</strong>All drawings are printed from digital files to preserve the fragile originals.\n</li>\n<ul>\n<li>Make note of the Survey Number (e.g., HAER NY - 143) and Sheet Number (e.g., &quot;Sheet 1 of 4&quot;), which appear on the edge of the drawing. (NOTE: These numbers are visible in the Tiff &quot;Reference Image&quot; display.)\n</li>\n<li>If possible, include a printout of the drawing. \n</li>\n</ul>\n</p>\n\n<p>\n<li><strong>Data Pages</strong>\n</li>\n<ul>\n<li>Make note of the Call Number in the catalog record.\n</li>\n</ul>\n</p>\n</ul>\n\n<h3>If Digital Images Are Not Displaying</h3>\n\n<p>In the rare case that a digital image for HABS/HAER/HALS documentation is not displaying online, select images for reproduction through one of these methods:</p>\n<ul>\n<p>\n<li>Visit the Prints & Photographs Reading Room and request to view the group (general information about service in the reading room is available at: <a href=\"https://www.loc.gov/rr/print/info/001_ref.html\">https://www.loc.gov/rr/print/info/001_ref.html</a>). It is best to contact reference staff in advance (see: <a href=\"https://www.loc.gov/rr/print/address.html\">https://www.loc.gov/rr/print/address.html</a>) to make sure the material is on site.  OR\n</li>\n</p>\n\n<p>\n<li>P&amp;P reading room staff can provide up to 15 quick copies of items per calendar year (many original items in the holdings are too old or fragile to make such copies, but generally HABS/HAER/HALS materials are in good enough condition to be placed on photocopy machines). For assistance, see our <a href=\"https://www.loc.gov/rr/askalib/ask-print.html\">Ask a Librarian</a> page OR\n</li>\n</p>\n\n<p>\n<li>Hire a freelance researcher to do further selection for you (a list of researchers in available at: <a href=\"https://www.loc.gov/rr/print/resource/013_pic.html\">https://www.loc.gov/rr/print/resource/013_pic.html</a>).\n</li>\n</p>\n\n<p>\n<li>You can purchase copies of various types, including quick copies, through Library of Congress Duplication Services (price lists, contact information, and order forms for Library of Congress Duplication Services are available on the <a href=\"https://www.loc.gov/duplicationservices/\">Duplication Services Web site</a>):\n</li>\n</p>\n\n<ul>\n<li>Make note of the Call Number listed above. \n</li>\n<li>Look at the Medium field above. If it lists more than one item: \n</li>\n<ul>\n<li>The entire group can be ordered as photocopies or high-quality copies. \n</li>\n<li>All the items in a particular medium (e.g., all drawings, all photographs) can be ordered as photocopies or high-quality copies.   \n</li>\n</ul>\n</ul>\n</ul>",
+  "resource": {
+    "caption": "Photos from Survey HABS AK-113 ",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ak/ak0300/ak0345/photos/033063p_150px.jpg",
+    "segment_count": 3,
+    "url": "https://www.loc.gov/resource/hhh.ak0345.photos"
+  },
+  "resources": [
+    {
+      "caption": "Photos from Survey HABS AK-113 ",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ak/ak0300/ak0345/photos/033063p_150px.jpg",
+      "segment_count": 3,
+      "url": "https://www.loc.gov/resource/hhh.ak0345.photos"
+    }
+  ],
+  "segments": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/hhh.ak0345.photos/?sp=2",
+        "http://www.loc.gov/resource/hhh.ak0345.photos.033064p"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "lowe, jet",
+        "society of architectural historians",
+        "hoagland, alison k.",
+        "historic american buildings survey"
+      ],
+      "description": [
+        ""
+      ],
+      "digitized": true,
+      "extract_timestamp": "2025-01-13T19:17:26.891Z",
+      "group": [
+        "hh-0",
+        "habshaer-group-0"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/resource/hhh.ak0345.photos/?sp=2",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ak/ak0300/ak0345/photos/033064p_150px.jpg#h=120&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ak/ak0300/ak0345/photos/033064pr.jpg#h=514&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ak/ak0300/ak0345/photos/033064pv.jpg#h=822&w=1024"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "juneau",
+        "alaska",
+        "juneau borough"
+      ],
+      "mime_type": [
+        "image/tiff",
+        "image/jpg",
+        "image/jpeg",
+        "image/jpeg",
+        "application/json"
+      ],
+      "number": [
+        "0000000002"
+      ],
+      "number_page": [
+        "0000000002"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey",
+        "american memory",
+        "prints and photographs division"
+      ],
+      "resources": [
+        {
+          "files": 1,
+          "url": "https://www.loc.gov/resource/hhh.ak0345.photos/?sp=2"
+        }
+      ],
+      "segmentof": [
+        "http://www.loc.gov/resource/hhh.ak0345.photos/"
+      ],
+      "shelf_id": "2",
+      "site": [
+        "pictures"
+      ],
+      "subject": [
+        "libraries"
+      ],
+      "timestamp": "2025-01-13T19:21:38.301Z",
+      "title": "2. Interior, circulation desk, looking southwest - Juneau Public Library, 292 Marine Way, Juneau, Juneau Borough, AK",
+      "type": [
+        "segment"
+      ],
+      "url": "https://www.loc.gov/resource/hhh.ak0345.photos/?sp=2"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1761845576755,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "viewer_pagination": {
+    "current": 2,
+    "first": "https://www.loc.gov/resource/hhh.ak0345.photos/?fo=json&sp=1",
+    "from": 2,
+    "last": "https://www.loc.gov/resource/hhh.ak0345.photos/?fo=json&sp=3",
+    "next": "https://www.loc.gov/resource/hhh.ak0345.photos/?fo=json&sp=3",
+    "of": 3,
+    "page_list": [
+      {
+        "number": 1,
+        "url": "https://www.loc.gov/resource/hhh.ak0345.photos/?fo=json&sp=1"
+      },
+      {
+        "number": 2,
+        "url": null
+      },
+      {
+        "number": 3,
+        "url": "https://www.loc.gov/resource/hhh.ak0345.photos/?fo=json&sp=3"
+      }
+    ],
+    "perpage": 1,
+    "perpage_options": [
+      25,
+      50,
+      100,
+      150
+    ],
+    "previous": "https://www.loc.gov/resource/hhh.ak0345.photos/?fo=json&sp=1",
+    "results": "2 - 2",
+    "to": 2,
+    "total": 3
+  },
+  "views": {
+    "brief": "https://www.loc.gov/resource/hhh.ak0345.photos/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/hhh.ak0345.photos/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/hhh.ak0345.photos/?fo=json&sp=1&st=gallery",
+    "grid": "https://www.loc.gov/resource/hhh.ak0345.photos/?fo=json&sp=1&st=grid",
+    "image": "https://www.loc.gov/resource/hhh.ak0345.photos/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/hhh.ak0345.photos/?fo=json&sp=1&st=list",
+    "pdf": "https://www.loc.gov/resource/hhh.ak0345.photos/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/hhh.ak0345.photos/?fo=json&sp=2",
+    "slideshow": "https://www.loc.gov/resource/hhh.ak0345.photos/?fo=json&sp=1&st=slideshow",
+    "text": "https://www.loc.gov/resource/hhh.ak0345.photos/?fo=json&sp=2&st=text"
+  }
+}
